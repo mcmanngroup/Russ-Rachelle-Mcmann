@@ -1,12 +1,12 @@
 {
-  "job": "Russ-Rachelle-Mcmann",
+  "job": "Russ & Rachelle Mcmann",
   "client": "",
   "clientEmail": "",
   "clientPhone": "",
   "projectAddress": "",
   "projectManager": "A. McMann",
   "reportLabel": "",
-  "updated": "June 15, 2026",
+  "updated": "June 16, 2026",
   "costBreakdown": {
     "categories": [
       {
@@ -15,21 +15,33 @@
           {
             "label": "Plan Printing & Photocopying",
             "type": "detail",
-            "budget": 800,
+            "budget": 17850,
             "prevInv": 0,
-            "curInv": 321.75,
-            "totInv": 321.75,
-            "tbc": 478.25,
+            "curInv": 9246.3,
+            "totInv": 9246.3,
+            "tbc": 8603.7,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Home Warranty Registration & Fees",
+            "type": "detail",
+            "budget": 525,
+            "prevInv": 0,
+            "curInv": 158.93,
+            "totInv": 158.93,
+            "tbc": 366.07,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "DESIGN SERVICES — Subtotal",
-          "budget": 800,
-          "curInv": 321.75,
-          "totInv": 321.75,
-          "tbc": 478.25,
+          "budget": 18375,
+          "prevInv": 0,
+          "curInv": 9405.23,
+          "totInv": 9405.23,
+          "tbc": 8969.77,
           "ob": 0,
           "co": 0
         }
@@ -40,44 +52,56 @@
           {
             "label": "Building Permit Fees",
             "type": "detail",
-            "budget": 8500,
+            "budget": 10500,
             "prevInv": 0,
-            "curInv": 14725.75,
-            "totInv": 14725.75,
-            "tbc": 0,
-            "ob": 6225.75,
+            "curInv": 8140,
+            "totInv": 8140,
+            "tbc": 2360,
+            "ob": 0,
             "co": 0
           },
           {
             "label": "Home Warranty Registration & Fees",
             "type": "detail",
-            "budget": 11250,
+            "budget": 2100,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 11250,
+            "curInv": 1250,
+            "totInv": 1250,
+            "tbc": 850,
             "ob": 0,
             "co": 0
           },
           {
             "label": "BC Housing Registration Fee",
             "type": "detail",
-            "budget": 40,
+            "budget": 42,
+            "prevInv": 0,
+            "curInv": 40,
+            "totInv": 40,
+            "tbc": 2,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "DCC Fees",
+            "type": "detail",
+            "budget": 10500,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 40,
+            "tbc": 10500,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "PERMITS & HOME WARRANTY — Subtotal",
-          "budget": 19790,
-          "curInv": 14725.75,
-          "totInv": 14725.75,
-          "tbc": 11290,
-          "ob": 6225.75,
+          "budget": 23142,
+          "prevInv": 0,
+          "curInv": 9430,
+          "totInv": 9430,
+          "tbc": 13712,
+          "ob": 0,
           "co": 0
         }
       },
@@ -87,125 +111,105 @@
           {
             "label": "Energy Advisor",
             "type": "detail",
-            "budget": 2000,
+            "budget": 1575,
             "prevInv": 0,
-            "curInv": 975,
-            "totInv": 975,
-            "tbc": 1025,
+            "curInv": 918.75,
+            "totInv": 918.75,
+            "tbc": 656.25,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Land Survey",
             "type": "detail",
-            "budget": 6000,
+            "budget": 8400,
             "prevInv": 0,
-            "curInv": 3971.15,
-            "totInv": 3971.15,
-            "tbc": 2028.85,
+            "curInv": 4487,
+            "totInv": 4487,
+            "tbc": 3913,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Geotechnical Engineer",
             "type": "detail",
-            "budget": 4000,
+            "budget": 2100,
             "prevInv": 0,
-            "curInv": 6537.4,
-            "totInv": 6537.4,
-            "tbc": 0,
-            "ob": 2537.4,
+            "curInv": 747.2,
+            "totInv": 747.2,
+            "tbc": 1352.8,
+            "ob": 0,
             "co": 0
           },
           {
             "label": "Structural Engineering",
             "type": "detail",
-            "budget": 6000,
+            "budget": 7350,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 6000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Change Order #2A Septic Drawing for BP",
-            "type": "co",
-            "budget": 0,
-            "prevInv": 0,
-            "curInv": 1800,
-            "totInv": 1800,
+            "curInv": 7377,
+            "totInv": 7377,
             "tbc": 0,
-            "ob": 0,
-            "co": 1800
+            "ob": -27,
+            "co": 0
           }
         ],
         "subtotal": {
           "label": "ENGINEERING FEES — Subtotal",
-          "budget": 18000,
-          "curInv": 13283.55,
-          "totInv": 13283.55,
-          "tbc": 9053.85,
-          "ob": 2537.4,
-          "co": 1800
+          "budget": 19425,
+          "prevInv": 0,
+          "curInv": 13529.95,
+          "totInv": 13529.95,
+          "tbc": 5922.05,
+          "ob": -27,
+          "co": 0
         }
       },
       {
         "label": "SITE WORK",
         "items": [
           {
+            "label": "Backfill, Perimeter & Drain Material",
+            "type": "detail",
+            "budget": 21000,
+            "prevInv": 0,
+            "curInv": 16768,
+            "totInv": 16768,
+            "tbc": 4232,
+            "ob": 0,
+            "co": 0
+          },
+          {
             "label": "Excavation, Backfill, Perimeter & Drain Labour",
             "type": "detail",
-            "budget": 45000,
+            "budget": 21000,
             "prevInv": 0,
-            "curInv": 7625,
-            "totInv": 7625,
-            "tbc": 37375,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Concrete Coring and Cutting and Removal",
-            "type": "detail",
-            "budget": 10000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 10000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 7000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 7000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Change Order #2B Septic Field Work",
-            "type": "co",
-            "budget": 0,
-            "prevInv": 0,
-            "curInv": 1732.55,
-            "totInv": 1732.55,
+            "curInv": 33395.5,
+            "totInv": 33395.5,
             "tbc": 0,
+            "ob": -12395.5,
+            "co": 0
+          },
+          {
+            "label": "Septic",
+            "type": "detail",
+            "budget": 26250,
+            "prevInv": 0,
+            "curInv": 1796,
+            "totInv": 1796,
+            "tbc": 24454,
             "ob": 0,
-            "co": 1732.55
+            "co": 0
           }
         ],
         "subtotal": {
           "label": "SITE WORK — Subtotal",
-          "budget": 62000,
-          "curInv": 9357.55,
-          "totInv": 9357.55,
-          "tbc": 54375,
-          "ob": 0,
-          "co": 1732.55
+          "budget": 68250,
+          "prevInv": 0,
+          "curInv": 51959.5,
+          "totInv": 51959.5,
+          "tbc": 28686,
+          "ob": -12395.5,
+          "co": 0
         }
       },
       {
@@ -214,132 +218,122 @@
           {
             "label": "Footings & Foundation Material",
             "type": "detail",
-            "budget": 8422.72,
+            "budget": 8597.5365,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 8422.72,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Footings & Foundation Labour",
-            "type": "detail",
-            "budget": 17635,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 17635,
-            "ob": 0,
+            "curInv": 17673,
+            "totInv": 17673,
+            "tbc": 0,
+            "ob": -9075.4635,
             "co": 0
           },
           {
             "label": "Footings & Foundation Concrete",
             "type": "detail",
-            "budget": 14800,
+            "budget": 28140,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 14800,
+            "curInv": 23549.78,
+            "totInv": 23549.78,
+            "tbc": 4590.220000000001,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Slab Prep - Labour",
+            "label": "Footings & Foundation Labor",
             "type": "detail",
-            "budget": 1200,
+            "budget": 13649.3805,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 1200,
-            "ob": 0,
+            "curInv": 15750,
+            "totInv": 15750,
+            "tbc": 0,
+            "ob": -2100.6195000000007,
             "co": 0
           },
           {
             "label": "Slab Prep - Material",
             "type": "detail",
-            "budget": 405.41,
+            "budget": 435.372,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 405.41,
+            "tbc": 435.372,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Garage Concrete Slab",
             "type": "detail",
-            "budget": 3600,
+            "budget": 5040,
+            "prevInv": 0,
+            "curInv": 5354.94,
+            "totInv": 5354.94,
+            "tbc": 0,
+            "ob": -314.9399999999996,
+            "co": 0
+          },
+          {
+            "label": "Concrete Skim Coat Materials",
+            "type": "detail",
+            "budget": 6300,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 3600,
+            "tbc": 6300,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Concrete Slab - Skim Coat",
+            "label": "Garage Concrete Slab Finishing Labor",
             "type": "detail",
-            "budget": 3200,
+            "budget": 3620.925,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 3200,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Concrete Slab Finishing Labour",
-            "type": "detail",
-            "budget": 4887,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 4887,
+            "tbc": 3620.925,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Concrete Pump Truck",
             "type": "detail",
-            "budget": 4500,
+            "budget": 3780,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 4500,
+            "curInv": 3664.42,
+            "totInv": 3664.42,
+            "tbc": 115.57999999999993,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Damproofing",
             "type": "detail",
-            "budget": 7500,
+            "budget": 10500,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 7500,
+            "curInv": 4144.88,
+            "totInv": 4144.88,
+            "tbc": 6355.12,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Contingency",
+            "label": "Concrete Skim Coat Labor",
             "type": "detail",
-            "budget": 5689.21,
+            "budget": 7295.4,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 5689.21,
+            "tbc": 7295.4,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "FOUNDATION — Subtotal",
-          "budget": 71839.34,
-          "curInv": 0,
-          "totInv": 0,
-          "tbc": 71839.34,
-          "ob": 0,
+          "budget": 87358.614,
+          "prevInv": 0,
+          "curInv": 70137.02,
+          "totInv": 70137.02,
+          "tbc": 28712.617,
+          "ob": -11491.023000000001,
           "co": 0
         }
       },
@@ -349,88 +343,67 @@
           {
             "label": "Framing Materials",
             "type": "detail",
-            "budget": 44144.27,
+            "budget": 41235.0855,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 44144.27,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Framing Labour",
-            "type": "detail",
-            "budget": 45000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 45000,
-            "ob": 0,
+            "curInv": 42869.779500000004,
+            "totInv": 42869.779500000004,
+            "tbc": 0,
+            "ob": -1634.6940000000031,
             "co": 0
           },
           {
             "label": "Roof Trusses",
             "type": "detail",
-            "budget": 20915.15,
+            "budget": 45150,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 20915.15,
+            "curInv": 43603.7,
+            "totInv": 43603.7,
+            "tbc": 1546.300000000003,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Engineering Parts",
+            "label": "Floor System",
             "type": "detail",
-            "budget": 4236.2,
+            "budget": 14275.6845,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 4236.2,
+            "curInv": 12383,
+            "totInv": 12383,
+            "tbc": 1892.6844999999994,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Steel Beam in Garage",
+            "label": "Engineering Hardware",
             "type": "detail",
-            "budget": 1102.5,
+            "budget": 11718.2205,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 1102.5,
+            "curInv": 11718.2205,
+            "totInv": 11718.2205,
+            "tbc": 0,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Engineered Beams",
+            "label": "Extra",
             "type": "detail",
-            "budget": 2692.58,
+            "budget": 5250,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 2692.58,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 6657.07,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 6657.07,
+            "tbc": 5250,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "FRAMING — Subtotal",
-          "budget": 124747.77,
-          "curInv": 0,
-          "totInv": 0,
-          "tbc": 124747.77,
-          "ob": 0,
+          "budget": 117628.9905,
+          "prevInv": 0,
+          "curInv": 110574.7,
+          "totInv": 110574.7,
+          "tbc": 8688.984500000002,
+          "ob": -1634.6940000000031,
           "co": 0
         }
       },
@@ -440,32 +413,33 @@
           {
             "label": "Windows",
             "type": "detail",
-            "budget": 29255.8,
+            "budget": 32873.736,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 25812.63,
             "totInv": 0,
-            "tbc": 29255.8,
+            "tbc": 32873.736,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Contingency",
+            "label": "Blinds",
             "type": "detail",
-            "budget": 2925.58,
+            "budget": 6300,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 2925.58,
+            "tbc": 6300,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "WINDOWS — Subtotal",
-          "budget": 32181.38,
-          "curInv": 0,
+          "budget": 39173.736,
+          "prevInv": 0,
+          "curInv": 25812.63,
           "totInv": 0,
-          "tbc": 32181.38,
+          "tbc": 39173.736,
           "ob": 0,
           "co": 0
         }
@@ -474,686 +448,7 @@
         "label": "DOORS",
         "items": [
           {
-            "label": "Exterior Doors and Interior Doors with Hardware",
-            "type": "detail",
-            "budget": 8444.31,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 8444.31,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Garage Doors",
-            "type": "detail",
-            "budget": 13404.2,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 13404.2,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 2184.85,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 2184.85,
-            "ob": 0,
-            "co": 0
-          }
-        ],
-        "subtotal": {
-          "label": "DOORS — Subtotal",
-          "budget": 24033.36,
-          "curInv": 0,
-          "totInv": 0,
-          "tbc": 24033.36,
-          "ob": 0,
-          "co": 0
-        }
-      },
-      {
-        "label": "ELECTRICAL",
-        "items": [
-          {
-            "label": "Electrical Rough In",
-            "type": "detail",
-            "budget": 67865,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 67865,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Electrical Fixtures",
-            "type": "detail",
-            "budget": 6000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 6000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Service Upgrade to 400amp",
-            "type": "detail",
-            "budget": 26044,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 26044,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 9390.9,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 9390.9,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Change Order #1 Island Electric - Electrical Underground Cable Repair",
-            "type": "co",
-            "budget": 0,
-            "prevInv": 0,
-            "curInv": 1864.51,
-            "totInv": 1864.51,
-            "tbc": 0,
-            "ob": 0,
-            "co": 1864.51
-          }
-        ],
-        "subtotal": {
-          "label": "ELECTRICAL — Subtotal",
-          "budget": 109299.9,
-          "curInv": 1864.51,
-          "totInv": 1864.51,
-          "tbc": 109299.9,
-          "ob": 0,
-          "co": 1864.51
-        }
-      },
-      {
-        "label": "PLUMBING",
-        "items": [
-          {
-            "label": "Plumbing Rough In",
-            "type": "detail",
-            "budget": 25000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 25000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Plumbing Fixtures",
-            "type": "detail",
-            "budget": 20000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 20000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 4000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 4000,
-            "ob": 0,
-            "co": 0
-          }
-        ],
-        "subtotal": {
-          "label": "PLUMBING — Subtotal",
-          "budget": 49000,
-          "curInv": 0,
-          "totInv": 0,
-          "tbc": 49000,
-          "ob": 0,
-          "co": 0
-        }
-      },
-      {
-        "label": "HVAC",
-        "items": [
-          {
-            "label": "Mechanical Rough In",
-            "type": "detail",
-            "budget": 31444,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 31444,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Fireplace Unit Wood Burning",
-            "type": "detail",
-            "budget": 7399,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 7399,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "BBQ Connection",
-            "type": "detail",
-            "budget": 550,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 550,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Gas/Propane Connection",
-            "type": "detail",
-            "budget": 550,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 550,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 3994.3,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 3994.3,
-            "ob": 0,
-            "co": 0
-          }
-        ],
-        "subtotal": {
-          "label": "HVAC — Subtotal",
-          "budget": 43937.3,
-          "curInv": 0,
-          "totInv": 0,
-          "tbc": 43937.3,
-          "ob": 0,
-          "co": 0
-        }
-      },
-      {
-        "label": "ROOFING",
-        "items": [
-          {
-            "label": "Roofing Supply & Install",
-            "type": "detail",
-            "budget": 63000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 63000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Metal Roof Painting",
-            "type": "detail",
-            "budget": 30000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 30000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 5000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 5000,
-            "ob": 0,
-            "co": 0
-          }
-        ],
-        "subtotal": {
-          "label": "ROOFING — Subtotal",
-          "budget": 98000,
-          "curInv": 0,
-          "totInv": 0,
-          "tbc": 98000,
-          "ob": 0,
-          "co": 0
-        }
-      },
-      {
-        "label": "INSULATION & DRYWALL",
-        "items": [
-          {
-            "label": "Insulation",
-            "type": "detail",
-            "budget": 32327.53,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 32327.53,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Drywall",
-            "type": "detail",
-            "budget": 37713.67,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 37713.67,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 7004,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 7004,
-            "ob": 0,
-            "co": 0
-          }
-        ],
-        "subtotal": {
-          "label": "INSULATION & DRYWALL — Subtotal",
-          "budget": 77045.2,
-          "curInv": 0,
-          "totInv": 0,
-          "tbc": 77045.2,
-          "ob": 0,
-          "co": 0
-        }
-      },
-      {
-        "label": "EXTERIOR VENEER",
-        "items": [
-          {
-            "label": "Siding Labour",
-            "type": "detail",
-            "budget": 20790,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 20790,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Siding Materials",
-            "type": "detail",
-            "budget": 35878.13,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 35878.13,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Soffit Supply & Install",
-            "type": "detail",
-            "budget": 5800,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 5800,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Gutters Supply & Install",
-            "type": "detail",
-            "budget": 3948,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 3948,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Trim Labour",
-            "type": "detail",
-            "budget": 5370,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 5370,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 5381.71,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 5381.71,
-            "ob": 0,
-            "co": 0
-          }
-        ],
-        "subtotal": {
-          "label": "EXTERIOR VENEER — Subtotal",
-          "budget": 77167.84,
-          "curInv": 0,
-          "totInv": 0,
-          "tbc": 77167.84,
-          "ob": 0,
-          "co": 0
-        }
-      },
-      {
-        "label": "MASONRY",
-        "items": [
-          {
-            "label": "Interior Masonry - Supply & Install",
-            "type": "detail",
-            "budget": 10400,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 10400,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 1040,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 1040,
-            "ob": 0,
-            "co": 0
-          }
-        ],
-        "subtotal": {
-          "label": "MASONRY — Subtotal",
-          "budget": 11440,
-          "curInv": 0,
-          "totInv": 0,
-          "tbc": 11440,
-          "ob": 0,
-          "co": 0
-        }
-      },
-      {
-        "label": "CABINETRY & COUNTERTOPS",
-        "items": [
-          {
-            "label": "Cabinetry Supply and Install",
-            "type": "detail",
-            "budget": 36980,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 36980,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Countertop Supply & Install",
-            "type": "detail",
-            "budget": 10380,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 10380,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Walk In Closet",
-            "type": "detail",
-            "budget": 6020,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 6020,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 5338,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 5338,
-            "ob": 0,
-            "co": 0
-          }
-        ],
-        "subtotal": {
-          "label": "CABINETRY & COUNTERTOPS — Subtotal",
-          "budget": 58718,
-          "curInv": 0,
-          "totInv": 0,
-          "tbc": 58718,
-          "ob": 0,
-          "co": 0
-        }
-      },
-      {
-        "label": "INTERIOR FINISHING",
-        "items": [
-          {
-            "label": "Finishing Carpentry",
-            "type": "detail",
-            "budget": 18000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 18000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Interior Trim Materials",
-            "type": "detail",
-            "budget": 13413.68,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 13413.68,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Stair System Materials",
-            "type": "detail",
-            "budget": 2400,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 2400,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Bathroom Hardware",
-            "type": "detail",
-            "budget": 500,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 500,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Shower Glass Doors",
-            "type": "detail",
-            "budget": 6500,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 6500,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Mirrors",
-            "type": "detail",
-            "budget": 1000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 1000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Mantle",
-            "type": "detail",
-            "budget": 1200,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 1200,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Interior Cedar Beam Wraps/False Beams",
-            "type": "detail",
-            "budget": 4919.37,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 4919.37,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Shiplap for Electric Fireplace",
-            "type": "detail",
-            "budget": 1067.6,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 1067.6,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 3109.95,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 3109.95,
-            "ob": 0,
-            "co": 0
-          }
-        ],
-        "subtotal": {
-          "label": "INTERIOR FINISHING — Subtotal",
-          "budget": 52110.6,
-          "curInv": 0,
-          "totInv": 0,
-          "tbc": 52110.6,
-          "ob": 0,
-          "co": 0
-        }
-      },
-      {
-        "label": "WOOD FLOOR COVERINGS",
-        "items": [
-          {
-            "label": "Flooring Material - Addition",
-            "type": "detail",
-            "budget": 7600,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 7600,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Flooring Install Labour - Addition",
-            "type": "detail",
-            "budget": 5700,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 5700,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Floor Sanding & Prep",
-            "type": "detail",
-            "budget": 6000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 6000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Protective Floor Covering",
-            "type": "detail",
-            "budget": 500,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 500,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Old Flooring Removal - Existing House",
-            "type": "detail",
-            "budget": 4800,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 4800,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Flooring Material - Existing House",
+            "label": "Exterior Doors",
             "type": "detail",
             "budget": 9450,
             "prevInv": 0,
@@ -1164,34 +459,586 @@
             "co": 0
           },
           {
-            "label": "Flooring Installation - Existing House",
+            "label": "Interior Doors",
             "type": "detail",
-            "budget": 6750,
+            "budget": 5250,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 6750,
+            "tbc": 5250,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Contingency",
+            "label": "Garage Doors",
             "type": "detail",
-            "budget": 1980,
+            "budget": 20250.4155,
+            "prevInv": 0,
+            "curInv": 15118.53,
+            "totInv": 0,
+            "tbc": 20250.4155,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Door Hardware",
+            "type": "detail",
+            "budget": 1575,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 1980,
+            "tbc": 1575,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Sliding Door",
+            "type": "detail",
+            "budget": 16168.509,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 16168.509,
+            "ob": 0,
+            "co": 0
+          }
+        ],
+        "subtotal": {
+          "label": "DOORS — Subtotal",
+          "budget": 52693.9245,
+          "prevInv": 0,
+          "curInv": 15118.53,
+          "totInv": 0,
+          "tbc": 52693.9245,
+          "ob": 0,
+          "co": 0
+        }
+      },
+      {
+        "label": "ELECTRICAL",
+        "items": [
+          {
+            "label": "Electrical Rough In & Finish",
+            "type": "detail",
+            "budget": 52104.15,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 52104.15,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Electrical Fixtures",
+            "type": "detail",
+            "budget": 1050,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 1050,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "400A Main Service",
+            "type": "detail",
+            "budget": 17394.3,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 17394.3,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Technical Safety BC - Electrical Permit",
+            "type": "detail",
+            "budget": 1234.8,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 1234.8,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "BC Hydro",
+            "type": "detail",
+            "budget": 3675,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 3675,
+            "ob": 0,
+            "co": 0
+          }
+        ],
+        "subtotal": {
+          "label": "ELECTRICAL — Subtotal",
+          "budget": 75458.25,
+          "prevInv": 0,
+          "curInv": 0,
+          "totInv": 0,
+          "tbc": 75458.25,
+          "ob": 0,
+          "co": 0
+        }
+      },
+      {
+        "label": "PLUMBING",
+        "items": [
+          {
+            "label": "Plumbing Rough In & Finish",
+            "type": "detail",
+            "budget": 26250,
+            "prevInv": 0,
+            "curInv": 1422.77,
+            "totInv": 1422.77,
+            "tbc": 24827.23,
+            "ob": 0,
+            "co": 0
+          }
+        ],
+        "subtotal": {}
+      },
+      {
+        "label": "Plumbing Fixtures",
+        "items": [],
+        "subtotal": {
+          "label": "PLUMBING — Subtotal",
+          "budget": 26250,
+          "prevInv": 0,
+          "curInv": 1422.77,
+          "totInv": 1422.77,
+          "tbc": 24827.23,
+          "ob": 0,
+          "co": 0
+        }
+      },
+      {
+        "label": "HVAC",
+        "items": [
+          {
+            "label": "Mechanical Rough In & Finish",
+            "type": "detail",
+            "budget": 56852.25,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 56852.25,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "NAVIEN ON DEMAND",
+            "type": "detail",
+            "budget": 4688.25,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 4688.25,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "NAPOLEON GAS FIRE PLACE",
+            "type": "detail",
+            "budget": 3517.5,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 3517.5,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "GAS LINES",
+            "type": "detail",
+            "budget": 577.5,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 577.5,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Gas/Propane Connection",
+            "type": "detail",
+            "budget": 577.5,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 577.5,
+            "ob": 0,
+            "co": 0
+          }
+        ],
+        "subtotal": {
+          "label": "HVAC — Subtotal",
+          "budget": 66213,
+          "prevInv": 0,
+          "curInv": 0,
+          "totInv": 0,
+          "tbc": 66213,
+          "ob": 0,
+          "co": 0
+        }
+      },
+      {
+        "label": "ROOFING",
+        "items": [
+          {
+            "label": "Roofing Supply & Install",
+            "type": "detail",
+            "budget": 34545,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 34545,
+            "ob": 0,
+            "co": 0
+          }
+        ],
+        "subtotal": {
+          "label": "ROOFING — Subtotal",
+          "budget": 34545,
+          "prevInv": 0,
+          "curInv": 0,
+          "totInv": 0,
+          "tbc": 34545,
+          "ob": 0,
+          "co": 0
+        }
+      },
+      {
+        "label": "INSULATION & DRYWALL",
+        "items": [
+          {
+            "label": "Insulation",
+            "type": "detail",
+            "budget": 38921.7045,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 38921.7045,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Drywall",
+            "type": "detail",
+            "budget": 50539.8915,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 50539.8915,
+            "ob": 0,
+            "co": 0
+          }
+        ],
+        "subtotal": {
+          "label": "INSULATION & DRYWALL — Subtotal",
+          "budget": 89461.59599999999,
+          "prevInv": 0,
+          "curInv": 0,
+          "totInv": 0,
+          "tbc": 89461.59599999999,
+          "ob": 0,
+          "co": 0
+        }
+      },
+      {
+        "label": "EXTERIOR VENEER",
+        "items": [
+          {
+            "label": "Siding Materials",
+            "type": "detail",
+            "budget": 18640.041,
+            "prevInv": 0,
+            "curInv": 403.74,
+            "totInv": 0,
+            "tbc": 18640.041,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Soffit Supply & Install",
+            "type": "detail",
+            "budget": 15093.75,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 15093.75,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Gutters Supply & Install",
+            "type": "detail",
+            "budget": 5307.75,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 5307.75,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Trim Labour",
+            "type": "detail",
+            "budget": 6699,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 6699,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Cedar Soffit",
+            "type": "detail",
+            "budget": 6023.2095,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 6023.2095,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Stucco",
+            "type": "detail",
+            "budget": 21000,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 21000,
+            "ob": 0,
+            "co": 0
+          }
+        ],
+        "subtotal": {
+          "label": "EXTERIOR VENEER — Subtotal",
+          "budget": 72763.7505,
+          "prevInv": 0,
+          "curInv": 403.74,
+          "totInv": 0,
+          "tbc": 72763.7505,
+          "ob": 0,
+          "co": 0
+        }
+      },
+      {
+        "label": "MASONRY",
+        "items": [
+          {
+            "label": "Stone Fireplace",
+            "type": "detail",
+            "budget": 15750,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 15750,
+            "ob": 0,
+            "co": 0
+          }
+        ],
+        "subtotal": {
+          "label": "MASONRY — Subtotal",
+          "budget": 15750,
+          "prevInv": 0,
+          "curInv": 0,
+          "totInv": 0,
+          "tbc": 15750,
+          "ob": 0,
+          "co": 0
+        }
+      },
+      {
+        "label": "CABINETRY & COUNTERTOPS",
+        "items": [
+          {
+            "label": "Cabinetry Supply & Install",
+            "type": "detail",
+            "budget": 52500,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 52500,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Countertop Supply & Install",
+            "type": "detail",
+            "budget": 22974,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 22974,
+            "ob": 0,
+            "co": 0
+          }
+        ],
+        "subtotal": {
+          "label": "CABINETRY & COUNTERTOPS — Subtotal",
+          "budget": 75474,
+          "prevInv": 0,
+          "curInv": 0,
+          "totInv": 0,
+          "tbc": 75474,
+          "ob": 0,
+          "co": 0
+        }
+      },
+      {
+        "label": "INTERIOR FINISHING",
+        "items": [
+          {
+            "label": "Finishing Carpentry",
+            "type": "detail",
+            "budget": 4200,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 4200,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Interior Trim Materials",
+            "type": "detail",
+            "budget": 4488.876,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 4488.876,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Closet Shelving",
+            "type": "detail",
+            "budget": 5250,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 5250,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Bathroom Hardware",
+            "type": "detail",
+            "budget": 1050,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 1050,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Shower Glass Doors",
+            "type": "detail",
+            "budget": 4200,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 4200,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Mirrors",
+            "type": "detail",
+            "budget": 1050,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 1050,
+            "ob": 0,
+            "co": 0
+          }
+        ],
+        "subtotal": {
+          "label": "INTERIOR FINISHING — Subtotal",
+          "budget": 20238.876,
+          "prevInv": 0,
+          "curInv": 0,
+          "totInv": 0,
+          "tbc": 20238.876,
+          "ob": 0,
+          "co": 0
+        }
+      },
+      {
+        "label": "WOOD FLOOR COVERINGS",
+        "items": [
+          {
+            "label": "Flooring Material",
+            "type": "detail",
+            "budget": 12505.5,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 12505.5,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Flooring Install Labour",
+            "type": "detail",
+            "budget": 12505.5,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 12505.5,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Floor Sanding & Prep / Self living",
+            "type": "detail",
+            "budget": 3150,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 3150,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Protective Floor Covering",
+            "type": "detail",
+            "budget": 15750,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 15750,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Custom Stair Nosings",
+            "type": "detail",
+            "budget": 840,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 840,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "WOOD FLOOR COVERINGS — Subtotal",
-          "budget": 42780,
+          "budget": 44751,
+          "prevInv": 0,
           "curInv": 0,
           "totInv": 0,
-          "tbc": 42780,
+          "tbc": 44751,
           "ob": 0,
           "co": 0
         }
@@ -1200,166 +1047,145 @@
         "label": "TILE",
         "items": [
           {
-            "label": "Floor Tile Material - Addition",
+            "label": "Floor Tile Material",
             "type": "detail",
-            "budget": 2532,
+            "budget": 3640.14,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 2532,
+            "tbc": 3640.14,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Floor Tile Install Labour - Addition",
+            "label": "Floor Tie Install Labour",
             "type": "detail",
-            "budget": 2534,
+            "budget": 4536,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 2534,
+            "tbc": 4536,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Floor Tile Prep",
+            "label": "Wall Tile Prep",
             "type": "detail",
-            "budget": 1000,
+            "budget": 1568.7,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 1000,
+            "tbc": 1568.7,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Wall Tile Material (Ensuite & Main Bath Shower)",
+            "label": "Wall Tile Material",
             "type": "detail",
-            "budget": 2726.7,
+            "budget": 3357.018,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 2726.7,
+            "tbc": 3357.018,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Wall Tile Labour (Ensuite & Main Bath Shower)",
+            "label": "Wall Tile Labour",
             "type": "detail",
-            "budget": 4070,
+            "budget": 6274.8,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 4070,
+            "tbc": 6274.8,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Backsplash Tile Material",
             "type": "detail",
-            "budget": 400,
+            "budget": 1348.2,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 400,
+            "tbc": 1348.2,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Backsplash Tile Labour",
             "type": "detail",
-            "budget": 1200,
+            "budget": 840,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 1200,
+            "tbc": 840,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Heated Floor Prep",
             "type": "detail",
-            "budget": 2495.5,
+            "budget": 2604,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 2495.5,
+            "tbc": 2604,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Thermostats",
+            "label": "Heated floor Thermostat",
             "type": "detail",
-            "budget": 610.42,
+            "budget": 640.941,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 610.42,
+            "tbc": 640.941,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Ensuite Shower Linear Drain",
+            "label": "Heated Floor Cables",
             "type": "detail",
-            "budget": 1000,
+            "budget": 1106.616,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 1000,
+            "tbc": 1106.616,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Floor Tile Material - Existing House",
+            "label": "Custom Niche",
             "type": "detail",
-            "budget": 3000,
+            "budget": 3465,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 3000,
+            "tbc": 3465,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Floor Tile Installation - Existing House",
+            "label": "Schluter Trim",
             "type": "detail",
-            "budget": 5000,
+            "budget": 157.5,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 5000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Floor Tile Removal - Existing House",
-            "type": "detail",
-            "budget": 1200,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 1200,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 1806.86,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 1806.86,
+            "tbc": 157.5,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "TILE — Subtotal",
-          "budget": 29575.48,
+          "budget": 29538.915,
+          "prevInv": 0,
           "curInv": 0,
           "totInv": 0,
-          "tbc": 29575.48,
+          "tbc": 29538.915,
           "ob": 0,
           "co": 0
         }
@@ -1368,67 +1194,24 @@
         "label": "PAINT",
         "items": [
           {
-            "label": "Interior Paint",
+            "label": "Interior & Exterior Paint",
             "type": "detail",
-            "budget": 22000,
+            "budget": 36750,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 22000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Exterior Paint",
-            "type": "detail",
-            "budget": 8500,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 8500,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Door Painting & Staining",
-            "type": "detail",
-            "budget": 2500,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 2500,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Interior Staining T&G and Beams",
-            "type": "detail",
-            "budget": 8000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 8000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Contingency",
-            "type": "detail",
-            "budget": 4100,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 4100,
+            "tbc": 36750,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "PAINT — Subtotal",
-          "budget": 45100,
+          "budget": 36750,
+          "prevInv": 0,
           "curInv": 0,
           "totInv": 0,
-          "tbc": 45100,
+          "tbc": 36750,
           "ob": 0,
           "co": 0
         }
@@ -1437,56 +1220,57 @@
         "label": "EXTERIOR HARDSCAPE",
         "items": [
           {
-            "label": "Patio Driveway Stone Removal",
+            "label": "Patio/Drives/Walkways Concrete & Material",
             "type": "detail",
-            "budget": 5000,
+            "budget": 12600,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 5000,
+            "tbc": 12600,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "New Concrete Driveway to New Garage Bays Material",
+            "label": "Patio/Drives/Walkways Finishing Labour",
             "type": "detail",
-            "budget": 8600,
+            "budget": 6300,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 8600,
+            "tbc": 6300,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "New Concrete Driveway Finishing",
+            "label": "Retaining Walls Concrete & Material",
             "type": "detail",
-            "budget": 4825,
+            "budget": 5250,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 4825,
+            "tbc": 5250,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Forming Driveway Labour",
+            "label": "Landscaping",
             "type": "detail",
-            "budget": 3000,
+            "budget": 31500,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 3000,
+            "tbc": 31500,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "EXTERIOR HARDSCAPE — Subtotal",
-          "budget": 21425,
+          "budget": 55650,
+          "prevInv": 0,
           "curInv": 0,
           "totInv": 0,
-          "tbc": 21425,
+          "tbc": 55650,
           "ob": 0,
           "co": 0
         }
@@ -1495,161 +1279,83 @@
         "label": "CONSTRUCTION CLEAN UP",
         "items": [
           {
-            "label": "Clean Up Labour",
-            "type": "detail",
-            "budget": 10000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 10000,
-            "ob": 0,
-            "co": 0
-          },
-          {
             "label": "Disposal & Dump Fees",
             "type": "detail",
-            "budget": 5500,
+            "budget": 2625,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 1792,
             "totInv": 0,
-            "tbc": 5500,
+            "tbc": 2625,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Dumpster Rental",
             "type": "detail",
-            "budget": 1500,
+            "budget": 2625,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 1500,
+            "tbc": 2625,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Final Site Clean",
             "type": "detail",
-            "budget": 2500,
+            "budget": 2625,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 2500,
+            "tbc": 2625,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "CONSTRUCTION CLEAN UP — Subtotal",
-          "budget": 19500,
-          "curInv": 0,
+          "budget": 7875,
+          "prevInv": 0,
+          "curInv": 1792,
           "totInv": 0,
-          "tbc": 19500,
+          "tbc": 7875,
           "ob": 0,
           "co": 0
         }
       },
       {
-        "label": "JOBSITE FACILITIES",
+        "label": "RENTAL& JOBSITE FACILITIES",
         "items": [
           {
-            "label": "Portable Washroom",
+            "label": "Site Portable Washroom Rental",
             "type": "detail",
-            "budget": 1200,
+            "budget": 2136.75,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 1200,
+            "curInv": 576.65,
+            "totInv": 576.65,
+            "tbc": 1560.1,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Site Signage",
+            "label": "Specialty Tool & Equipment Rental",
             "type": "detail",
-            "budget": 1500,
+            "budget": 2625,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 1500,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Tool & Rental Equipment",
-            "type": "detail",
-            "budget": 1000,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 1000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Scaffolding",
-            "type": "detail",
-            "budget": 3500,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 3500,
+            "curInv": 2448.6800000000003,
+            "totInv": 2448.6800000000003,
+            "tbc": 176.3199999999997,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
-          "label": "JOBSITE FACILITIES — Subtotal",
-          "budget": 7200,
-          "curInv": 0,
-          "totInv": 0,
-          "tbc": 7200,
-          "ob": 0,
-          "co": 0
-        }
-      },
-      {
-        "label": "PROJECT MANAGEMENT",
-        "items": [
-          {
-            "label": "Management & Supervision",
-            "type": "detail",
-            "budget": 25200,
-            "prevInv": 0,
-            "curInv": 10186.2,
-            "totInv": 10186.2,
-            "tbc": 15013.8,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Credit - Management Billing as per Pricing Contract",
-            "type": "co",
-            "budget": 0,
-            "prevInv": 0,
-            "curInv": -5000,
-            "totInv": -5000,
-            "tbc": 5000,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Accounting & Admin",
-            "type": "detail",
-            "budget": 12600,
-            "prevInv": 0,
-            "curInv": 720,
-            "totInv": 720,
-            "tbc": 11880,
-            "ob": 0,
-            "co": 0
-          }
-        ],
-        "subtotal": {
-          "label": "PROJECT MANAGEMENT — Subtotal",
-          "budget": 37800,
-          "curInv": 5906.2,
-          "totInv": 5906.2,
-          "tbc": 31893.8,
+          "label": "RENTAL& JOBSITE FACILITIES— Subtotal",
+          "budget": 4761.75,
+          "prevInv": 0,
+          "curInv": 3025.3300000000004,
+          "totInv": 3025.3300000000004,
+          "tbc": 1736.4199999999996,
           "ob": 0,
           "co": 0
         }
@@ -1658,67 +1364,165 @@
         "label": "MISCELLANEOUS",
         "items": [
           {
-            "label": "Travel",
+            "label": "Appliances",
             "type": "detail",
-            "budget": 8628.48,
+            "budget": 26250,
             "prevInv": 0,
-            "curInv": 435.6,
-            "totInv": 435.6,
-            "tbc": 8192.88,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 26250,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Deficiencies",
+            "label": "Appraisal",
             "type": "detail",
-            "budget": 5000,
+            "budget": 2625,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 5000,
+            "tbc": 2625,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Demolition",
+            "label": "Insurance",
             "type": "detail",
-            "budget": 23400,
+            "budget": 5250,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 4450,
             "totInv": 0,
-            "tbc": 23400,
+            "tbc": 5250,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Demolition Dembri removal labour",
+            "label": "Lawyer Fees",
             "type": "detail",
-            "budget": 2000,
+            "budget": 6300,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 2000,
+            "tbc": 6300,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "COLOUR LEGEND",
+            "label": "Interest",
             "type": "detail",
-            "budget": 0,
+            "budget": 31500,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 0,
+            "tbc": 31500,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Transfer Tax",
+            "type": "detail",
+            "budget": 12600,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 12600,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Furniture",
+            "type": "detail",
+            "budget": 15750,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 15750,
+            "ob": 0,
+            "co": 0
+          }
+        ],
+        "subtotal": {}
+      },
+      {
+        "label": "Land Cost",
+        "items": [],
+        "subtotal": {
+          "label": "MISCELLANEOUS — Subtotal",
+          "budget": 100275,
+          "prevInv": 0,
+          "curInv": 4450,
+          "totInv": 0,
+          "tbc": 100275,
+          "ob": 0,
+          "co": 0
+        }
+      },
+      {
+        "label": "Mcmann Labour Site work - Foundation- Framing- Siding - Finishing",
+        "items": [
+          {
+            "label": "Seth",
+            "type": "detail",
+            "budget": 7980,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 7980,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Aaron",
+            "type": "detail",
+            "budget": 6300,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 6300,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Alaa",
+            "type": "detail",
+            "budget": 8400,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 8400,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "James",
+            "type": "detail",
+            "budget": 9030,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 9030,
+            "ob": 0,
+            "co": 0
+          },
+          {
+            "label": "Fielding",
+            "type": "detail",
+            "budget": 13104,
+            "prevInv": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 13104,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
-          "label": "MISCELLANEOUS — Subtotal",
-          "budget": 39028.48,
-          "curInv": 435.6,
-          "totInv": 435.6,
-          "tbc": 38592.88,
+          "label": "Mcmann Labour  — Subtotal",
+          "budget": 44814,
+          "prevInv": 0,
+          "curInv": 0,
+          "totInv": 0,
+          "tbc": 44814,
           "ob": 0,
           "co": 0
         }
@@ -1726,531 +1530,3707 @@
     ],
     "totals": [
       {
-        "label": "Project Subtotal",
-        "budget": 1172519.65,
-        "curInv": 45894.91,
-        "totInv": 45894.91,
-        "tbc": 1140784.95,
-        "ob": 8763.15,
-        "co": 5397.06
-      },
-      {
-        "label": "15% Mark-up",
-        "budget": 175877.95,
-        "curInv": 4999.1,
-        "totInv": 4999.1,
-        "tbc": 171117.74,
-        "ob": 380.61,
-        "co": 809.56
-      },
-      {
-        "label": "GST (5%)",
-        "budget": 67419.88,
-        "curInv": 2544.7,
-        "totInv": 2544.7,
-        "tbc": 65595.13,
-        "ob": 457.19,
-        "co": 310.33
-      },
-      {
         "label": "PROJECT TOTAL",
-        "budget": 1415817.48,
-        "curInv": 53438.71,
-        "totInv": 53438.71,
-        "tbc": 1377497.83,
-        "ob": 9600.95,
-        "co": 6516.95
+        "budget": 1226617.4025,
+        "prevInv": 0,
+        "curInv": 317061.4000000001,
+        "totInv": 269484.50000000006,
+        "tbc": 982681.1195,
+        "ob": -25548.217000000004,
+        "co": 0
       }
     ]
   },
   "timesheet": {
     "groups": [
       {
-        "label": "Project Managment",
+        "label": "04 Site Work:Excavation,Backfill,Perimeter &",
         "items": [
           {
-            "date": "45783",
-            "name": "Russell McMann",
-            "status": "Unbilled",
-            "hours": 3,
-            "rate": 90,
-            "amount": 270
-          },
-          {
-            "date": "45791",
-            "name": "James McMann",
-            "status": "Unbilled",
-            "hours": 1.5,
-            "rate": 90,
-            "amount": 135
-          },
-          {
-            "date": "45798",
-            "name": "James McMann",
-            "status": "Unbilled",
-            "hours": 1.5,
-            "rate": 90,
-            "amount": 135
-          },
-          {
-            "date": "45807",
-            "name": "James McMann",
+            "date": "46070",
+            "name": "Fielding K Benton",
             "status": "Unbilled",
             "hours": 4,
-            "rate": 90,
-            "amount": 360
+            "rate": 0,
+            "amount": 0
           },
           {
-            "date": "45810",
-            "name": "James McMann",
-            "status": "Unbilled",
-            "hours": 1.68,
-            "rate": 90,
-            "amount": 151.2
-          },
-          {
-            "date": "45811",
-            "name": "James McMann",
-            "status": "Unbilled",
-            "hours": 5.17,
-            "rate": 90,
-            "amount": 465.3
-          },
-          {
-            "date": "45812",
-            "name": "Abdullah Ibn Alamir",
+            "date": "46070",
+            "name": "Fielding K Benton",
             "status": "Unbilled",
             "hours": 4,
-            "rate": 90,
-            "amount": 360
+            "rate": 0,
+            "amount": 0
           },
           {
-            "date": "45812",
-            "name": "James McMann",
-            "status": "Unbilled",
-            "hours": 3.33,
-            "rate": 90,
-            "amount": 299.7
-          },
-          {
-            "date": "45812",
-            "name": "James McMann",
-            "status": "Unbilled",
-            "hours": 1.67,
-            "rate": 90,
-            "amount": 150.29999999999998
-          },
-          {
-            "date": "45813",
-            "name": "Abdullah Ibn Alamir",
-            "status": "Unbilled",
-            "hours": 5,
-            "rate": 90,
-            "amount": 450
-          },
-          {
-            "date": "45813",
-            "name": "James McMann",
-            "status": "Unbilled",
-            "hours": 2.17,
-            "rate": 90,
-            "amount": 195.29999999999998
-          },
-          {
-            "date": "45824",
-            "name": "Russell McMann",
-            "status": "Unbilled",
-            "hours": 3,
-            "rate": 90,
-            "amount": 270
-          },
-          {
-            "date": "45826",
-            "name": "James McMann",
+            "date": "46071",
+            "name": "Fielding K Benton",
             "status": "Unbilled",
             "hours": 4.5,
-            "rate": 90,
-            "amount": 405
+            "rate": 0,
+            "amount": 0
           },
           {
-            "date": "45830",
-            "name": "Abdullah Ibn Alamir",
-            "status": "Unbilled",
-            "hours": 5.67,
-            "rate": 90,
-            "amount": 510.3
-          },
-          {
-            "date": "45835",
-            "name": "Abdullah Ibn Alamir",
-            "status": "Unbilled",
-            "hours": 4.83,
-            "rate": 90,
-            "amount": 434.7
-          },
-          {
-            "date": "45835",
-            "name": "Kevin Mammen",
-            "status": "Unbilled",
-            "hours": 3.67,
-            "rate": 90,
-            "amount": 330.3
-          },
-          {
-            "date": "45925",
-            "name": "James McMann",
-            "status": "Unbilled",
-            "hours": 3,
-            "rate": 90,
-            "amount": 270
-          },
-          {
-            "date": "45932",
-            "name": "James McMann",
-            "status": "Unbilled",
-            "hours": 5.67,
-            "rate": 90,
-            "amount": 510.3
-          },
-          {
-            "date": "45938",
-            "name": "Russell McMann",
-            "status": "Unbilled",
-            "hours": 2,
-            "rate": 90,
-            "amount": 180
-          },
-          {
-            "date": "45939",
-            "name": "Kevin Mammen",
-            "status": "Unbilled",
-            "hours": 2.67,
-            "rate": 90,
-            "amount": 240.29999999999998
-          },
-          {
-            "date": "45945",
-            "name": "James McMann",
-            "status": "Unbilled",
-            "hours": 2.33,
-            "rate": 90,
-            "amount": 209.70000000000002
-          },
-          {
-            "date": "45945",
-            "name": "Kevin Mammen",
-            "status": "Unbilled",
-            "hours": 5.83,
-            "rate": 90,
-            "amount": 524.7
-          },
-          {
-            "date": "45947",
-            "name": "Kevin Mammen",
-            "status": "Unbilled",
-            "hours": 1.83,
-            "rate": 90,
-            "amount": 164.70000000000002
-          },
-          {
-            "date": "45952",
-            "name": "James McMann",
-            "status": "Unbilled",
-            "hours": 2.33,
-            "rate": 90,
-            "amount": 209.70000000000002
-          },
-          {
-            "date": "45974",
-            "name": "James McMann",
-            "status": "Unbilled",
-            "hours": 2.17,
-            "rate": 90,
-            "amount": 195.29999999999998
-          },
-          {
-            "date": "45979",
-            "name": "Kevin Mammen",
-            "status": "Unbilled",
-            "hours": 0.33,
-            "rate": 90,
-            "amount": 29.700000000000003
-          },
-          {
-            "date": "45994",
-            "name": "Kevin Mammen",
-            "status": "Unbilled",
-            "hours": 6.33,
-            "rate": 90,
-            "amount": 569.7
-          },
-          {
-            "date": "46000",
-            "name": "James McMann",
-            "status": "Unbilled",
-            "hours": 1.17,
-            "rate": 90,
-            "amount": 105.3
-          },
-          {
-            "date": "46003",
-            "name": "Abdullah Ibn Alamir",
-            "status": "Unbilled",
-            "hours": 4.5,
-            "rate": 90,
-            "amount": 405
-          },
-          {
-            "date": "46007",
-            "name": "Kevin Mammen",
-            "status": "Unbilled",
-            "hours": 3.67,
-            "rate": 90,
-            "amount": 330.3
-          },
-          {
-            "date": "46043",
-            "name": "Abdullah Ibn Alamir",
+            "date": "46071",
+            "name": "Fielding K Benton",
             "status": "Unbilled",
             "hours": 0.67,
-            "rate": 90,
-            "amount": 60.300000000000004
+            "rate": 0,
+            "amount": 0
           },
           {
-            "date": "46129",
-            "name": "James McMann",
+            "date": "46072",
+            "name": "Fielding K Benton",
             "status": "Unbilled",
-            "hours": 3,
-            "rate": 90,
-            "amount": 270
+            "hours": 2.17,
+            "rate": 0,
+            "amount": 0
           },
           {
-            "date": "46132",
-            "name": "Russell McMann",
+            "date": "46072",
+            "name": "Fielding K Benton",
             "status": "Unbilled",
-            "hours": 2,
-            "rate": 90,
-            "amount": 180
+            "hours": 0.33,
+            "rate": 0,
+            "amount": 0
           },
           {
-            "date": "46132",
-            "name": "James McMann",
+            "date": "46073",
+            "name": "Fielding K Benton",
             "status": "Unbilled",
-            "hours": 2,
-            "rate": 90,
-            "amount": 180
+            "hours": 3.83,
+            "rate": 0,
+            "amount": 0
           },
           {
-            "date": "46134",
-            "name": "James McMann",
+            "date": "46076",
+            "name": "Fielding K Benton",
             "status": "Unbilled",
-            "hours": 1.5,
-            "rate": 90,
-            "amount": 135
+            "hours": 0.5,
+            "rate": 0,
+            "amount": 0
           },
           {
-            "date": "46140",
-            "name": "James McMann",
+            "date": "46080",
+            "name": "Fielding K Benton",
             "status": "Unbilled",
-            "hours": 2.08,
-            "rate": 90,
-            "amount": 187.20000000000002
+            "hours": 5.17,
+            "rate": 0,
+            "amount": 0
           },
           {
-            "date": "46141",
-            "name": "James McMann",
+            "date": "46080",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 2.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46083",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46084",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46084",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46085",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 2.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46085",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46085",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46086",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46086",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46087",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 1.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46087",
+            "name": "Fielding K Benton",
             "status": "Unbilled",
             "hours": 2.25,
-            "rate": 90,
-            "amount": 202.5
+            "rate": 0,
+            "amount": 0
           },
           {
-            "date": "46142",
-            "name": "James McMann",
+            "date": "46087",
+            "name": "Fielding K Benton",
             "status": "Unbilled",
-            "hours": 1.1600000000000001,
-            "rate": 90,
-            "amount": 104.4
+            "hours": 3.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46087",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.33,
+            "rate": 0,
+            "amount": 0
           }
         ],
-        "total_hours": 113.18,
+        "total_hours": 56.239999999999995,
         "total_amount": 0
       },
       {
-        "label": "Travel Time",
+        "label": "05 Foundation:Footings & Foundation Labor",
         "items": [
           {
-            "date": "46129",
-            "name": "James McMann",
+            "date": "46076",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46076",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46077",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46078",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46078",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 2.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46079",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 3.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46083",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 2.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46090",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 2.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46090",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 4.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46090",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 6.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46090",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 2.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46091",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 4,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46091",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 0,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46091",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 3.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46091",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46091",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 2.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46092",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 0.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46092",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 6.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46092",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46092",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46093",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46093",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 2.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46093",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 2.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46094",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 2,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46094",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 1,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46094",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 3.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46094",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 6,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46097",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46097",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 2.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46099",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 1.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46101",
+            "name": "Fielding K Benton",
             "status": "Unbilled",
             "hours": 1.33,
-            "rate": 90,
-            "amount": 119.7
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46101",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.17,
+            "rate": 0,
+            "amount": 0
+          }
+        ],
+        "total_hours": 90.44000000000001,
+        "total_amount": 0
+      },
+      {
+        "label": "06 Framing:Framing Labor",
+        "items": [
+          {
+            "date": "46104",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46104",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 3.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46104",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46104",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46106",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46106",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 0,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46106",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 5.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46106",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 2.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46106",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46107",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46107",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 3.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46107",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46107",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 2.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46108",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 1.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46108",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 1.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46108",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 0.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46111",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46111",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 3.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46111",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46111",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46112",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46112",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46112",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46112",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46113",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 3.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46113",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 1.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46114",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46114",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 3.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46114",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46114",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46118",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 5.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46118",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46118",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46118",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46119",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 5.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46119",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46119",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 4.92,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46119",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 4.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46119",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46119",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46120",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 5.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46120",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46120",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 0.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46120",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 0.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46120",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 4.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46120",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 0.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46120",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 1.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46120",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46121",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 5.92,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46121",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 3.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46121",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 6.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46121",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46125",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 6,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46125",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46125",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 5.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46125",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 3.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46125",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 6.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46125",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46125",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46125",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 1.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46125",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 0.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46126",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46126",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46126",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46126",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46126",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 5.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46126",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 0.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46127",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 5.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46127",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46127",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46127",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46127",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 5.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46127",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 4.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46128",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 6.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46128",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 3.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46128",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 0.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46128",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 6.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46128",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46128",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46128",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 6.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46128",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 3.75,
+            "rate": 0,
+            "amount": 0
           },
           {
             "date": "46132",
-            "name": "James McMann",
+            "name": "Aaron Maskill",
             "status": "Unbilled",
-            "hours": 1.17,
-            "rate": 90,
-            "amount": 105.3
+            "hours": 6.17,
+            "rate": 0,
+            "amount": 0
           },
           {
-            "date": "46134",
-            "name": "James McMann",
+            "date": "46132",
+            "name": "Aaron Maskill",
             "status": "Unbilled",
-            "hours": 1.17,
-            "rate": 90,
-            "amount": 105.3
+            "hours": 3.58,
+            "rate": 0,
+            "amount": 0
           },
           {
-            "date": "46142",
+            "date": "46132",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 6,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46132",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46132",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 6.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46133",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46146",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46146",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46147",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 10,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46147",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46148",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46148",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46149",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 7.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46149",
             "name": "James McMann",
             "status": "Unbilled",
+            "hours": 8.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46150",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 3.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46150",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 1.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46153",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 6,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46153",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46153",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
             "hours": 1.17,
-            "rate": 90,
-            "amount": 105.3
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46154",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46154",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46154",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 1.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46154",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 1.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46155",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 5.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46155",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46155",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 0.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46155",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46155",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46155",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 5.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46155",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 4.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46156",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 5.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46156",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 4.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46156",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 9.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46156",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 5.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46156",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 4.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46156",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 0.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46161",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46161",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46161",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46161",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 5.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46161",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 4.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46161",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 0.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46162",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 6.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46162",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 3.92,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46162",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 0.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46162",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 6.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46162",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 1,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46162",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 1.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46162",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46162",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 5.92,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46162",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 1.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46162",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 1.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46162",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 0.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46163",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 6.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46163",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 1.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46163",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46163",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 5.92,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46163",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 4.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46163",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 0.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46164",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 2.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46164",
+            "name": "Aaron Maskill",
+            "status": "Unbilled",
+            "hours": 2,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46164",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 3.92,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46164",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 0,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46167",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 5.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46167",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 4.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46167",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 6.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46167",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 3.92,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46167",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 0.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46167",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46167",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46167",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46168",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 5.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46168",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 4.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46168",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 0.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46168",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 5.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46168",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 4.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46168",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 1,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46168",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46168",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46168",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46168",
+            "name": "James McMann",
+            "status": "Unbilled",
+            "hours": 4.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46168",
+            "name": "James McMann",
+            "status": "Unbilled",
+            "hours": 1.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46168",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 5.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46168",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 4.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 5.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 4.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 0.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 6.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 3.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 0.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 2.92,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "James McMann",
+            "status": "Unbilled",
+            "hours": 2.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 6.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 3.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 0.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46170",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 1.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46170",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 5.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46170",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 3.92,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46170",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 6.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46170",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46170",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 5.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46170",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 4.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46171",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 0.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46171",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 5.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46171",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 4.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46174",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 5.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46174",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 0,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46174",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 4.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46174",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 0.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46174",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 5.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46174",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 0.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46174",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 0.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46174",
+            "name": "Jason A Kirstein",
+            "status": "Unbilled",
+            "hours": 0.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46174",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 5.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46174",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 4.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46175",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 5.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46175",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 4.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46175",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 0.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46175",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 0,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46175",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46175",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 4.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46175",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46175",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 5.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46175",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 3.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46176",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 5.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46176",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 4.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46176",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 6.08,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46176",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.92,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46176",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46176",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 5.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46176",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 4.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46177",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 10,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46177",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 0.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46177",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 10,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46177",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46177",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 5.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46177",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 4.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46178",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 10,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46178",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 0.58,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46179",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 9.58,
+            "rate": 0,
+            "amount": 0
           }
         ],
-        "total_hours": 4.84,
+        "total_hours": 831.4200000000003,
+        "total_amount": 0
+      },
+      {
+        "label": "06 Framing:Timber Framing Labour Cost",
+        "items": [
+          {
+            "date": "46171",
+            "name": "James McMann",
+            "status": "Unbilled",
+            "hours": 1.92,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46171",
+            "name": "James McMann",
+            "status": "Unbilled",
+            "hours": 1.08,
+            "rate": 0,
+            "amount": 0
+          }
+        ],
+        "total_hours": 3,
+        "total_amount": 0
+      },
+      {
+        "label": "21 Exterior Areas & Finishes:Landscaping",
+        "items": [
+          {
+            "date": "46114",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 3.17,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46127",
+            "name": "Alaa Kadah",
+            "status": "Unbilled",
+            "hours": 0,
+            "rate": 0,
+            "amount": 0
+          }
+        ],
+        "total_hours": 3.17,
+        "total_amount": 0
+      },
+      {
+        "label": "22 Construction Clean Up:Clean Labour",
+        "items": [
+          {
+            "date": "46104",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0,
+            "rate": 0,
+            "amount": 0
+          }
+        ],
+        "total_hours": 0,
+        "total_amount": 0
+      },
+      {
+        "label": "24 Supervision:Project Managment",
+        "items": [
+          {
+            "date": "46078",
+            "name": "James McMann",
+            "status": "Unbilled",
+            "hours": 1.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46169",
+            "name": "James McMann",
+            "status": "Unbilled",
+            "hours": 2.83,
+            "rate": 0,
+            "amount": 0
+          }
+        ],
+        "total_hours": 4.66,
+        "total_amount": 0
+      },
+      {
+        "label": "TOTAL",
+        "items": [],
+        "total_hours": 0,
         "total_amount": 0
       }
     ],
-    "totalHours": 118.02000000000001,
+    "totalHours": 988.9300000000003,
     "totalAmount": 0
   },
   "materials": {
     "vendors": [
       {
+        "name": "1047335 B.C. LTD (dba Complete Damp Proof",
+        "bills": [
+          {
+            "date": "46086",
+            "num": "11452",
+            "memo": "Foundation : Damp proofing",
+            "amount": -3379.95
+          }
+        ],
+        "total": -3379.95
+      },
+      {
+        "name": "Andrew Sheret Ltd",
+        "bills": [
+          {
+            "date": "46080",
+            "num": "03-084405",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -411.09
+          },
+          {
+            "date": "46083",
+            "num": "03-084596",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -1162.28
+          },
+          {
+            "date": "46088",
+            "num": "03-085259",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -408.36
+          },
+          {
+            "date": "46090",
+            "num": "03-085292",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -227.04
+          },
+          {
+            "date": "46091",
+            "num": "03-085458",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -627.47
+          },
+          {
+            "date": "46093",
+            "num": "03-085864",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -533.88
+          },
+          {
+            "date": "46139",
+            "num": "03-090686",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -797.73
+          },
+          {
+            "date": "46154",
+            "num": "03-092447",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -510.81
+          }
+        ],
+        "total": -4423.4
+      },
+      {
+        "name": "BC Housing Licensing & Consumer Services",
+        "bills": [
+          {
+            "date": "46000",
+            "num": "875433",
+            "memo": "HPO Fees",
+            "amount": -40
+          }
+        ],
+        "total": -40
+      },
+      {
+        "name": "City of Nanaimo",
+        "bills": [
+          {
+            "date": "46035",
+            "num": "BP131412",
+            "memo": "Building Permit",
+            "amount": -739.5
+          }
+        ],
+        "total": -8139.85
+      },
+      {
+        "name": "Coast To Coast Equipment Rentals LTD",
+        "bills": [
+          {
+            "date": "46106",
+            "num": "R1692-1",
+            "memo": "Rental Tools",
+            "amount": -1675.88
+          }
+        ],
+        "total": -1675.88
+      },
+      {
+        "name": "Coastline Plumbing Ltd",
+        "bills": [
+          {
+            "date": "46094",
+            "num": "3142",
+            "memo": "Footings and Foundation Material",
+            "amount": -1422.77
+          }
+        ],
+        "total": -1422.77
+      },
+      {
+        "name": "DBL Disposal Services Ltd",
+        "bills": [
+          {
+            "date": "46097",
+            "num": "275197",
+            "memo": "Portable Toilet",
+            "amount": -78.75
+          },
+          {
+            "date": "46112",
+            "num": "275170",
+            "memo": "Portable Toilet",
+            "amount": -130.4
+          },
+          {
+            "date": "46142",
+            "num": "284099",
+            "memo": "Portable Toilet",
+            "amount": -183.75
+          },
+          {
+            "date": "46173",
+            "num": "295928",
+            "memo": "Portable Toilet",
+            "amount": -183.75
+          }
+        ],
+        "total": -576.65
+      },
+      {
         "name": "Ecolibrium Energy Solutions Inc.",
         "bills": [
           {
-            "date": "45949",
-            "num": "2344",
-            "memo": "Ecolibrium Energy Solutions Inc. Energy Advisor Report 2344",
-            "amount": 975
+            "date": "45954",
+            "num": "2354",
+            "memo": "Energy Advisors",
+            "amount": -918.75
           }
         ],
-        "total": 975
+        "total": -918.75
       },
       {
-        "name": "Island Electric Company",
+        "name": "Harleen Parmar",
         "bills": [
           {
-            "date": "46142",
-            "num": "1189-1",
-            "memo": "Island Electric Company Change Order Underground Cable Replacement 1189-1",
-            "amount": 1864.51
+            "date": "46173",
+            "num": "",
+            "memo": "Roof Trusses",
+            "amount": -23603.7
+          },
+          {
+            "date": "46173",
+            "num": "",
+            "memo": "Floor System",
+            "amount": -12383
           }
         ],
-        "total": 1864.51
+        "total": -55986.7
+      },
+      {
+        "name": "Heidelberg Materials Canada Limited",
+        "bills": [
+          {
+            "date": "46073",
+            "num": "3183511",
+            "memo": "Foundation & Footings concrete",
+            "amount": -9798.42
+          },
+          {
+            "date": "46084",
+            "num": "3184417",
+            "memo": "Foundation & Footings concrete",
+            "amount": -13751.36
+          },
+          {
+            "date": "46094",
+            "num": "3185376",
+            "memo": "Concrete -Skim Coat concrete",
+            "amount": -5354.94
+          }
+        ],
+        "total": -28904.72
+      },
+      {
+        "name": "Immersive Design Inc",
+        "bills": [
+          {
+            "date": "45961",
+            "num": "25103103",
+            "memo": "Plans & Design",
+            "amount": -9246.3
+          }
+        ],
+        "total": -9246.3
+      },
+      {
+        "name": "Island Aggregates Ltd",
+        "bills": [],
+        "total": -9497.61
+      },
+      {
+        "name": "Island Concrete Pumping Ltd",
+        "bills": [
+          {
+            "date": "46073",
+            "num": "28128",
+            "memo": "Foundation - Concrete Pumping",
+            "amount": -1167.77
+          },
+          {
+            "date": "46084",
+            "num": "28163",
+            "memo": "Foundation - Concrete Pumping",
+            "amount": -1317.12
+          },
+          {
+            "date": "46094",
+            "num": "28193",
+            "memo": "Foundation - Concrete Pumping",
+            "amount": -1179.53
+          }
+        ],
+        "total": -3664.42
+      },
+      {
+        "name": "J. Mayzes Excavating Ltd",
+        "bills": [
+          {
+            "date": "46073",
+            "num": "107036",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -1743
+          },
+          {
+            "date": "46073",
+            "num": "107038",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -646.21
+          },
+          {
+            "date": "46094",
+            "num": "107092",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -459.38
+          },
+          {
+            "date": "46094",
+            "num": "107093",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -1378.13
+          },
+          {
+            "date": "46094",
+            "num": "107094",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -1378.13
+          },
+          {
+            "date": "46097",
+            "num": "107101",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -315
+          },
+          {
+            "date": "46097",
+            "num": "107102",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -921.38
+          },
+          {
+            "date": "46097",
+            "num": "107100",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -1023.75
+          },
+          {
+            "date": "46097",
+            "num": "107099",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -918.75
+          },
+          {
+            "date": "46097",
+            "num": "107098",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -876.75
+          },
+          {
+            "date": "46125",
+            "num": "107150",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -4432.58
+          },
+          {
+            "date": "46125",
+            "num": "107147",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -2210.25
+          },
+          {
+            "date": "46125",
+            "num": "107149",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -4320.75
+          },
+          {
+            "date": "46125",
+            "num": "107146",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -2793
+          },
+          {
+            "date": "46125",
+            "num": "107148",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -2449.13
+          },
+          {
+            "date": "46125",
+            "num": "107145",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -472.5
+          },
+          {
+            "date": "46129",
+            "num": "107156",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -763.17
+          },
+          {
+            "date": "46171",
+            "num": "107255",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": -1372.88
+          }
+        ],
+        "total": -28474.74
       },
       {
         "name": "JE Anderson & Associates",
         "bills": [
           {
-            "date": "45974",
-            "num": "0066328",
-            "memo": "JE Anderson & Associates Survey 0066328",
-            "amount": 3760.4
+            "date": "46085",
+            "num": "0067336",
+            "memo": "Land Survey",
+            "amount": -3447.82
           },
           {
-            "date": "46063",
-            "num": "0067130",
-            "memo": "JE Anderson & Associates Survey 0067130",
-            "amount": 210.75
+            "date": "46148",
+            "num": "0067943",
+            "memo": "Land Survey",
+            "amount": -231.53
           }
         ],
-        "total": 3971.15
+        "total": -3679.35
+      },
+      {
+        "name": "JINGLEPOT GENERAL STORE",
+        "bills": [],
+        "total": -293.51
+      },
+      {
+        "name": "JXN SOLUTIONS LTD",
+        "bills": [
+          {
+            "date": "46097",
+            "num": "invoice 31",
+            "memo": "Footings & Foundation Labor",
+            "amount": -15750
+          }
+        ],
+        "total": -15750
       },
       {
         "name": "Kivela Contracting Ltd.",
         "bills": [
           {
             "date": "46038",
-            "num": "2658",
-            "memo": "Kivela Contracting Ltd. Septic Design and Permit 2658",
-            "amount": 1800
+            "num": "2657",
+            "memo": "Septic",
+            "amount": -1890
           },
           {
-            "date": "46142",
-            "num": "2694",
-            "memo": "Kivela Contracting Ltd. Site Work 2694",
-            "amount": 7625
-          },
-          {
-            "date": "46142",
-            "num": "2694",
-            "memo": "Kivela Contracting Ltd. Change Order Septic Field Work 2694",
-            "amount": 1732.55
+            "date": "46038",
+            "num": "2657",
+            "memo": "Septic",
+            "amount": 94.5
           }
         ],
-        "total": 11157.55
+        "total": -1795.5
       },
       {
         "name": "Lewkowich Engineering Associates Ltd",
         "bills": [
           {
-            "date": "46001",
-            "num": "102800",
-            "memo": "Lewkowich Engineering Associates Ltd Geotechnical Assessment Report 102800",
-            "amount": 3760
-          },
-          {
-            "date": "46062",
-            "num": "103557",
-            "memo": "Lewkowich Engineering Associates Ltd Geotechnical Assessment Report 103557",
-            "amount": 300
+            "date": "46091",
+            "num": "103889",
+            "memo": "Geotechnical Engineering",
+            "amount": -289.17
           },
           {
             "date": "46122",
-            "num": "104422",
-            "memo": "Lewkowich Engineering Associates Ltd Geotechnical Engineering 104422",
-            "amount": 2477.4
+            "num": "104329",
+            "memo": "Geotechnical Engineering",
+            "amount": -152.67
+          },
+          {
+            "date": "46153",
+            "num": "104785",
+            "memo": "Geotechnical Engineering",
+            "amount": -305.34
           }
         ],
-        "total": 6537.4
+        "total": -747.18
+      },
+      {
+        "name": "Maxxam Insurance Services",
+        "bills": [
+          {
+            "date": "46084",
+            "num": "0071798",
+            "memo": "Insurance",
+            "amount": -4450
+          }
+        ],
+        "total": -4450
+      },
+      {
+        "name": "Metal Supermarkets",
+        "bills": [],
+        "total": -12.61
+      },
+      {
+        "name": "Mid Island Co-op",
+        "bills": [],
+        "total": -4320
+      },
+      {
+        "name": "Mission Island Group",
+        "bills": [
+          {
+            "date": "46124",
+            "num": "MR469858",
+            "memo": "Disposal & Dump Fees",
+            "amount": -71.24
+          }
+        ],
+        "total": -71.24
+      },
+      {
+        "name": "New-Line Hose & Fittings",
+        "bills": [
+          {
+            "date": "46073",
+            "num": "IN2735196",
+            "memo": "Footings and Foundation Material",
+            "amount": -130.28
+          }
+        ],
+        "total": -230.14
+      },
+      {
+        "name": "Pacific Net & Twine",
+        "bills": [],
+        "total": -513.57
+      },
+      {
+        "name": "Petro Canada",
+        "bills": [],
+        "total": -650
+      },
+      {
+        "name": "Ply Gem Windows",
+        "bills": [
+          {
+            "date": "46167",
+            "num": "3238324",
+            "memo": "Sliding Door",
+            "amount": -15118.53
+          },
+          {
+            "date": "46167",
+            "num": "3238325",
+            "memo": "Windows",
+            "amount": -25812.63
+          }
+        ],
+        "total": -40931.16
       },
       {
         "name": "Print Three Nanaimo",
         "bills": [
           {
-            "date": "46128",
-            "num": "5-36986",
-            "memo": "Print Three Nanaimo Revised Plan Printing 5-36986",
-            "amount": 321.75
+            "date": "46077",
+            "num": "5-36457",
+            "memo": "Plans & Design",
+            "amount": -158.93
           }
         ],
-        "total": 321.75
+        "total": -158.93
       },
       {
-        "name": "Regional District of Nanaimo",
+        "name": "Rona 221227- Mcmann Group",
         "bills": [
           {
-            "date": "46007",
-            "num": "2182719713",
-            "memo": "Regional District of Nanaimo Building Permit Fees 2182719713",
-            "amount": 1025
+            "date": "46064",
+            "num": "103-25181721",
+            "memo": "Footings and Foundation Material",
+            "amount": -96.75
+          },
+          {
+            "date": "46064",
+            "num": "83323-10436131",
+            "memo": "Footings and Foundation Material",
+            "amount": -269.15
+          },
+          {
+            "date": "46069",
+            "num": "83323-10437221",
+            "memo": "Footings and Foundation Material",
+            "amount": -332.64
+          },
+          {
+            "date": "46070",
+            "num": "103-25183381",
+            "memo": "Footings and Foundation Material",
+            "amount": -11877.03
+          },
+          {
+            "date": "46071",
+            "num": "104-27026191",
+            "memo": "Footings and Foundation Material",
+            "amount": -649.47
+          },
+          {
+            "date": "46076",
+            "num": "103?25178881",
+            "memo": "Footings and Foundation Material",
+            "amount": -581.92
+          },
+          {
+            "date": "46076",
+            "num": "103?25190601",
+            "memo": "Footings and Foundation Material",
+            "amount": -108.06
+          },
+          {
+            "date": "46083",
+            "num": "103-25198351",
+            "memo": "Footings and Foundation Material",
+            "amount": -11546.35
+          },
+          {
+            "date": "46084",
+            "num": "103-25198891",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -2369.25
+          },
+          {
+            "date": "46084",
+            "num": "104-27039681",
+            "memo": "Footings and Foundation Material",
+            "amount": -183.64
+          },
+          {
+            "date": "46087",
+            "num": "103-25198941",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -2471.14
+          },
+          {
+            "date": "46089",
+            "num": "83323-10444521",
+            "memo": "Footings and Foundation Material",
+            "amount": -96.37
+          },
+          {
+            "date": "46093",
+            "num": "83323-10445991",
+            "memo": "Footings and Foundation Material",
+            "amount": -212.17
+          },
+          {
+            "date": "46097",
+            "num": "103-25211741",
+            "memo": "Framing Materials Cost",
+            "amount": -356.54
+          },
+          {
+            "date": "46099",
+            "num": "103-25214341",
+            "memo": "Framing Materials Cost",
+            "amount": -1133.28
           },
           {
             "date": "46105",
-            "num": "PR20250000587",
-            "memo": "Regional District of Nanaimo Building Permit PR20250000587",
-            "amount": 13700.75
+            "num": "104-27064131",
+            "memo": "Framing Materials Cost",
+            "amount": -7854.28
+          },
+          {
+            "date": "46106",
+            "num": "103-25220951",
+            "memo": "Framing Material Cost",
+            "amount": -80.58
+          },
+          {
+            "date": "46111",
+            "num": "103-25222411",
+            "memo": "Framing Material Cost",
+            "amount": -14103.16
+          },
+          {
+            "date": "46112",
+            "num": "103-25226171",
+            "memo": "Framing Material Cost",
+            "amount": -224.22
+          },
+          {
+            "date": "46115",
+            "num": "83323-10454461",
+            "memo": "Framing Material Cost",
+            "amount": -297.91
+          },
+          {
+            "date": "46119",
+            "num": "104-27080521",
+            "memo": "Framing Material Cost",
+            "amount": -4177.56
+          },
+          {
+            "date": "46127",
+            "num": "103-25239371",
+            "memo": "Framing Material Cost",
+            "amount": -1637
+          },
+          {
+            "date": "46132",
+            "num": "103?25246351",
+            "memo": "Framing Material Cost",
+            "amount": -224.89
+          },
+          {
+            "date": "46149",
+            "num": "103-25265461",
+            "memo": "Framing Material Cost",
+            "amount": -2178.89
+          },
+          {
+            "date": "46154",
+            "num": "103-25272441",
+            "memo": "Framing Material Cost",
+            "amount": -1876.9
+          },
+          {
+            "date": "46154",
+            "num": "103-25272451",
+            "memo": "Framing Material Cost",
+            "amount": -2565.09
+          },
+          {
+            "date": "46162",
+            "num": "83323-10475251",
+            "memo": "Framing Material Cost",
+            "amount": -34.7
+          },
+          {
+            "date": "46163",
+            "num": "103-25281281",
+            "memo": "Framing Material Cost",
+            "amount": -3192.65
+          },
+          {
+            "date": "46167",
+            "num": "83323-10477381",
+            "memo": "Framing Material Cost",
+            "amount": -192.47
+          },
+          {
+            "date": "46168",
+            "num": "103-25285711",
+            "memo": "Siding Material",
+            "amount": -403.74
+          },
+          {
+            "date": "46169",
+            "num": "103-25288111",
+            "memo": "Framing Material Cost",
+            "amount": -523.67
+          },
+          {
+            "date": "46169",
+            "num": "83323-10478011",
+            "memo": "Framing Material Cost",
+            "amount": -122.57
+          },
+          {
+            "date": "46171",
+            "num": "103-25289981",
+            "memo": "Framing Material Cost",
+            "amount": -145.6
+          },
+          {
+            "date": "46175",
+            "num": "103-25293991",
+            "memo": "Framing Material Cost",
+            "amount": -376.32
+          },
+          {
+            "date": "46176",
+            "num": "83323-10481301",
+            "memo": "Framing Material Cost",
+            "amount": -48.15
+          },
+          {
+            "date": "46177",
+            "num": "103-25296581",
+            "memo": "Framing Material Cost",
+            "amount": -166.37
+          },
+          {
+            "date": "46177",
+            "num": "103-25296751",
+            "memo": "Framing Material Cost",
+            "amount": -1072.63
           }
         ],
-        "total": 14725.75
+        "total": -58560.88
+      },
+      {
+        "name": "Slegg Building Materials",
+        "bills": [
+          {
+            "date": "46066",
+            "num": "IN5453830",
+            "memo": "Footings and Foundation Material",
+            "amount": -229.69
+          },
+          {
+            "date": "46077",
+            "num": "IN5464800",
+            "memo": "Footings and Foundation Material",
+            "amount": -769.62
+          },
+          {
+            "date": "46078",
+            "num": "IN5465953",
+            "memo": "Footings and Foundation Material",
+            "amount": -646.83
+          },
+          {
+            "date": "46078",
+            "num": "IN5466475",
+            "memo": "Footings and Foundation Material",
+            "amount": -43.37
+          },
+          {
+            "date": "46079",
+            "num": "IN5467679",
+            "memo": "Footings and Foundation Material",
+            "amount": -75.41
+          },
+          {
+            "date": "46080",
+            "num": "IN5468448",
+            "memo": "Footings and Foundation Material",
+            "amount": -265.44
+          },
+          {
+            "date": "46083",
+            "num": "IN5471570",
+            "memo": "Footings and Foundation Material",
+            "amount": -27.94
+          },
+          {
+            "date": "46088",
+            "num": "IN5478756",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -102.11
+          },
+          {
+            "date": "46094",
+            "num": "IN5486064",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -48.5
+          },
+          {
+            "date": "46094",
+            "num": "IN5486236",
+            "memo": "Footings and Foundation Material",
+            "amount": -83.89
+          },
+          {
+            "date": "46098",
+            "num": "IN5490588",
+            "memo": "Footings and Foundation Material",
+            "amount": -62.53
+          },
+          {
+            "date": "46102",
+            "num": "IN5496082",
+            "memo": "Footings and Foundation Material",
+            "amount": -419.11
+          },
+          {
+            "date": "46104",
+            "num": "IN5497521",
+            "memo": "Framing Material Cost",
+            "amount": -302.39
+          },
+          {
+            "date": "46107",
+            "num": "IN5501757",
+            "memo": "Framing Material Cost",
+            "amount": -253.72
+          },
+          {
+            "date": "46111",
+            "num": "IN5506232",
+            "memo": "Framing Material Cost",
+            "amount": -253.24
+          },
+          {
+            "date": "46111",
+            "num": "IN5507454",
+            "memo": "Framing Material Cost",
+            "amount": -68.38
+          },
+          {
+            "date": "46112",
+            "num": "IN5508162",
+            "memo": "Framing Material Cost",
+            "amount": -30.04
+          },
+          {
+            "date": "46112",
+            "num": "IN5508881",
+            "memo": "Framing Material Cost",
+            "amount": -147.43
+          },
+          {
+            "date": "46119",
+            "num": "IN5515738",
+            "memo": "Framing Material Cost",
+            "amount": -514.91
+          },
+          {
+            "date": "46119",
+            "num": "IN5516315",
+            "memo": "Framing Material Cost",
+            "amount": -372.72
+          },
+          {
+            "date": "46121",
+            "num": "IN5518906",
+            "memo": "Framing Material Cost",
+            "amount": -110.7
+          },
+          {
+            "date": "46125",
+            "num": "IN5523868",
+            "memo": "Framing Material Cost",
+            "amount": -646.51
+          },
+          {
+            "date": "46125",
+            "num": "IN5524358",
+            "memo": "Framing Material Cost",
+            "amount": -84.89
+          },
+          {
+            "date": "46125",
+            "num": "IN5524361",
+            "memo": "Framing Material Cost",
+            "amount": -111.49
+          },
+          {
+            "date": "46126",
+            "num": "IN5526061",
+            "memo": "Framing Material Cost",
+            "amount": -185.12
+          },
+          {
+            "date": "46127",
+            "num": "IN5527570",
+            "memo": "Framing Material Cost",
+            "amount": -104.23
+          },
+          {
+            "date": "46128",
+            "num": "IN5529480",
+            "memo": "Framing Material Cost",
+            "amount": -277.41
+          },
+          {
+            "date": "46128",
+            "num": "IN5529982",
+            "memo": "Framing Material Cost",
+            "amount": -13.31
+          },
+          {
+            "date": "46129",
+            "num": "IN5531157",
+            "memo": "Framing Material Cost",
+            "amount": -175.79
+          },
+          {
+            "date": "46143",
+            "num": "IN5552211",
+            "memo": "Framing Material Cost",
+            "amount": -604.19
+          },
+          {
+            "date": "46146",
+            "num": "IN5555954",
+            "memo": "Framing Material Cost",
+            "amount": -183.01
+          },
+          {
+            "date": "46147",
+            "num": "IN5556574",
+            "memo": "Framing Material Cost",
+            "amount": -171.08
+          },
+          {
+            "date": "46147",
+            "num": "IN5557196",
+            "memo": "Framing Material Cost",
+            "amount": -22.34
+          },
+          {
+            "date": "46148",
+            "num": "IN5558987",
+            "memo": "Framing Material Cost",
+            "amount": -36.53
+          },
+          {
+            "date": "46155",
+            "num": "IN5569181",
+            "memo": "Framing Material Cost",
+            "amount": -42.55
+          },
+          {
+            "date": "46155",
+            "num": "IN5569754",
+            "memo": "Framing Material Cost",
+            "amount": -459
+          },
+          {
+            "date": "46169",
+            "num": "IN5588115",
+            "memo": "Framing Material Cost",
+            "amount": -219.94
+          },
+          {
+            "date": "46169",
+            "num": "IN5589995",
+            "memo": "Framing Material Cost",
+            "amount": -36.31
+          },
+          {
+            "date": "46171",
+            "num": "IN5591826",
+            "memo": "Framing Material Cost",
+            "amount": -38.27
+          },
+          {
+            "date": "46174",
+            "num": "IN3-0000758",
+            "memo": "Framing Material Cost",
+            "amount": -9.49
+          },
+          {
+            "date": "46174",
+            "num": "IN3-0000155",
+            "memo": "Framing Material Cost",
+            "amount": -31.9
+          },
+          {
+            "date": "46174",
+            "num": "IN3-0003254",
+            "memo": "Framing Material Cost",
+            "amount": -136.28
+          },
+          {
+            "date": "46176",
+            "num": "IN3-0008495",
+            "memo": "Framing Material Cost",
+            "amount": -43.52
+          },
+          {
+            "date": "46176",
+            "num": "IN3-0007736",
+            "memo": "Framing Material Cost",
+            "amount": -57.43
+          },
+          {
+            "date": "46176",
+            "num": "IN3-0007042",
+            "memo": "Framing Material Cost",
+            "amount": -208.61
+          },
+          {
+            "date": "46177",
+            "num": "IN3-0009718",
+            "memo": "Framing Material Cost",
+            "amount": -335.71
+          },
+          {
+            "date": "46177",
+            "num": "IN3-0009059",
+            "memo": "Framing Material Cost",
+            "amount": -177.08
+          },
+          {
+            "date": "46179",
+            "num": "IN3-0013767",
+            "memo": "Framing Material Cost",
+            "amount": -155.59
+          }
+        ],
+        "total": -9454.53
+      },
+      {
+        "name": "Summit Tree Care Ltd.",
+        "bills": [
+          {
+            "date": "46083",
+            "num": "1713",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour - Tree Removal",
+            "amount": -787.5
+          }
+        ],
+        "total": -787.5
+      },
+      {
+        "name": "Sunbelt Rentals",
+        "bills": [
+          {
+            "date": "46080",
+            "num": "79499564-0001",
+            "memo": "Rental Tools",
+            "amount": -705.6
+          }
+        ],
+        "total": -705.6
+      },
+      {
+        "name": "The Home Depot",
+        "bills": [],
+        "total": -138.03
+      },
+      {
+        "name": "Travelers Canada",
+        "bills": [
+          {
+            "date": "46000",
+            "num": "C1-0R0J3BB5",
+            "memo": "Home Warranty",
+            "amount": -1250
+          }
+        ],
+        "total": -1250
+      },
+      {
+        "name": "Westerra Equipment",
+        "bills": [
+          {
+            "date": "46114",
+            "num": "SI142163",
+            "memo": "Framing Material Cost",
+            "amount": -223.29
+          },
+          {
+            "date": "46114",
+            "num": "SI142162",
+            "memo": "Framing Material Cost",
+            "amount": -20.81
+          }
+        ],
+        "total": -244.1
+      },
+      {
+        "name": "Westshore Structural Engineering Ltd",
+        "bills": [
+          {
+            "date": "46023",
+            "num": "2025-1506",
+            "memo": "Structural Engineering",
+            "amount": -5775
+          },
+          {
+            "date": "46053",
+            "num": "2026-0081",
+            "memo": "Structural Engineering",
+            "amount": -530.25
+          },
+          {
+            "date": "46081",
+            "num": "2025-0188",
+            "memo": "Structural Engineering",
+            "amount": -908.67
+          },
+          {
+            "date": "46142",
+            "num": "2026-0578",
+            "memo": "Structural Engineering",
+            "amount": -162.75
+          }
+        ],
+        "total": -7376.67
+      },
+      {
+        "name": "Xtend Rentals Tool Sales",
+        "bills": [
+          {
+            "date": "46090",
+            "num": "138262-3",
+            "memo": "Rental Tools",
+            "amount": -67.2
+          }
+        ],
+        "total": -67.2
+      },
+      {
+        "name": "TOTAL",
+        "bills": [],
+        "total": 0
       }
     ],
-    "grandTotal": 39553.11
+    "grandTotal": 0
   },
-  "schedule": [],
+  "schedule": [
+    {
+      "name": "Full Size, Waterproof, Colour Plans Printed for Site",
+      "group": "Pre-Construction",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Building Permit Application",
+      "group": "Pre-Construction",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Lot Clearing",
+      "group": "Pre-Construction",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Complete WCB NOP & Post On Site",
+      "group": "Pre-Construction",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Portable Washroom Rental",
+      "group": "Pre-Construction",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Private Pole Installation",
+      "group": "Pre-Construction",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "McMann Group Start Excavation Layout Checklist",
+      "group": "Excavation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "McMann Group Backfill Checklist",
+      "group": "Excavation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Backfill",
+      "group": "Excavation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Schedule Backfill & Slab Prep",
+      "group": "Excavation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Septic Field Install",
+      "group": "Excavation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Excavation",
+      "group": "Excavation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "McMann Group Footings Checklist",
+      "group": "Foundation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Complete Footings Material Take Offs & Order Materials",
+      "group": "Foundation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Book Footings Inspection & Engineer Field Review",
+      "group": "Foundation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Footings Labour",
+      "group": "Foundation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Foundation Wall Forming Labour",
+      "group": "Foundation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Foundation Wall Concrete Pour",
+      "group": "Foundation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Book Footings Concrete Pour",
+      "group": "Foundation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Schedule Foundation Labour",
+      "group": "Foundation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Schedule Foundation Concrete Pour",
+      "group": "Foundation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Footings Concrete Pour",
+      "group": "Foundation",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Roof System Labour",
+      "group": "Framing",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Second Floor Framing Labour",
+      "group": "Framing",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Order Main Floor Framing Package",
+      "group": "Framing",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Order Crawl Space Framing Package",
+      "group": "Framing",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Install Timber Frame",
+      "group": "Framing",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Main Floor Framing Labour",
+      "group": "Framing",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Order Any Required Engineering Components",
+      "group": "Framing",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Crawl Space Framing Labour",
+      "group": "Framing",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Schedule Roof Truss & Floor System Delivery",
+      "group": "Framing",
+      "status": "",
+      "timeline": ""
+    },
+    {
+      "name": "Order Second Floor Framing Package",
+      "group": "Framing",
+      "status": "",
+      "timeline": ""
+    }
+  ],
   "_meta": {
     "report": "May 2026",
     "dateFrom": "",
     "dateTo": "",
     "jobId": "russ_rachelle_mcmann",
     "jobRepo": "Russ-Rachelle-Mcmann",
-    "syncedAt": "2026-06-15T17:38:20.671Z"
+    "syncedAt": "2026-06-16T17:05:18.571Z"
   }
 }
