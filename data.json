@@ -5,7 +5,7 @@
   "clientPhone": "",
   "projectAddress": "",
   "projectManager": "A. McMann",
-  "reportLabel": "",
+  "reportLabel": "November 1, 2025 – June 6, 2026",
   "updated": "June 16, 2026",
   "costBreakdown": {
     "categories": [
@@ -5227,10 +5227,10 @@
   ],
   "_meta": {
     "report": "May 2026",
-    "dateFrom": "",
-    "dateTo": "",
+    "dateFrom": "2025-11-01",
+    "dateTo": "2026-06-06",
     "jobId": "russ_rachelle_mcmann",
     "jobRepo": "Russ-Rachelle-Mcmann",
-    "syncedAt": "2026-06-16T17:05:18.571Z"
+    "syncedAt": "2026-06-16T17:06:09.954Z"
   }
 }
