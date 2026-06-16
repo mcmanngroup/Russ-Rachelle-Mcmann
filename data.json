@@ -1504,9 +1504,9 @@
             "type": "detail",
             "budget": 13104,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 13104,
+            "curInv": 1000000,
+            "totInv": 1000000,
+            "tbc": 0,
             "ob": 0,
             "co": 0
           }
@@ -1515,9 +1515,9 @@
           "label": "Mcmann Labour  — Subtotal",
           "budget": 44814,
           "prevInv": 0,
-          "curInv": 0,
-          "totInv": 0,
-          "tbc": 44814,
+          "curInv": 1000000,
+          "totInv": 1000000,
+          "tbc": 31710,
           "ob": 0,
           "co": 0
         }
@@ -1528,9 +1528,9 @@
         "label": "PROJECT TOTAL",
         "budget": 1226617.4,
         "prevInv": 0,
-        "curInv": 317061.4,
-        "totInv": 317061.4,
-        "tbc": 960916.85,
+        "curInv": 1317061.4,
+        "totInv": 1317061.4,
+        "tbc": 947812.85,
         "ob": 0,
         "co": 0
       }
@@ -5053,6 +5053,6 @@
     "dateTo": "",
     "jobId": "2590_stobart_road",
     "jobRepo": "Russ-Rachelle-Mcmann",
-    "syncedAt": "2026-06-16T18:55:16.455Z"
+    "syncedAt": "2026-06-16T19:01:41.709Z"
   }
 }
