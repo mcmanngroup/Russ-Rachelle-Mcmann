@@ -1,11 +1,11 @@
 {
   "job": "2590 Stobart Road",
-  "client": "Russ McMann",
+  "client": "Russ & Rachelle McMann",
   "clientEmail": "",
   "clientPhone": "",
   "projectAddress": "",
   "projectManager": "A. McMann",
-  "reportLabel": "",
+  "reportLabel": "November 1, 2025 – June 6, 2026",
   "updated": "June 16, 2026",
   "costBreakdown": {
     "categories": [
@@ -149,7 +149,7 @@
             "curInv": 7377,
             "totInv": 7377,
             "tbc": 0,
-            "ob": 0,
+            "ob": -27,
             "co": 0
           }
         ],
@@ -160,7 +160,7 @@
           "curInv": 13529.95,
           "totInv": 13529.95,
           "tbc": 5922.05,
-          "ob": 0,
+          "ob": -27,
           "co": 0
         }
       },
@@ -186,7 +186,7 @@
             "curInv": 33395.5,
             "totInv": 33395.5,
             "tbc": 0,
-            "ob": 0,
+            "ob": -12395.5,
             "co": 0
           },
           {
@@ -208,7 +208,7 @@
           "curInv": 51959.5,
           "totInv": 51959.5,
           "tbc": 28686,
-          "ob": 0,
+          "ob": -12395.5,
           "co": 0
         }
       },
@@ -218,12 +218,12 @@
           {
             "label": "Footings & Foundation Material",
             "type": "detail",
-            "budget": 8597.54,
+            "budget": 8597.5365,
             "prevInv": 0,
             "curInv": 17673,
             "totInv": 17673,
             "tbc": 0,
-            "ob": 0,
+            "ob": -9075.4635,
             "co": 0
           },
           {
@@ -233,29 +233,29 @@
             "prevInv": 0,
             "curInv": 23549.78,
             "totInv": 23549.78,
-            "tbc": 4590.22,
+            "tbc": 4590.220000000001,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Footings & Foundation Labor",
             "type": "detail",
-            "budget": 13649.38,
+            "budget": 13649.3805,
             "prevInv": 0,
             "curInv": 15750,
             "totInv": 15750,
             "tbc": 0,
-            "ob": 0,
+            "ob": -2100.6195000000007,
             "co": 0
           },
           {
             "label": "Slab Prep - Material",
             "type": "detail",
-            "budget": 435.37,
+            "budget": 435.372,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 435.37,
+            "tbc": 435.372,
             "ob": 0,
             "co": 0
           },
@@ -267,7 +267,7 @@
             "curInv": 5354.94,
             "totInv": 5354.94,
             "tbc": 0,
-            "ob": 0,
+            "ob": -314.9399999999996,
             "co": 0
           },
           {
@@ -284,11 +284,11 @@
           {
             "label": "Garage Concrete Slab Finishing Labor",
             "type": "detail",
-            "budget": 3620.93,
+            "budget": 3620.925,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 3620.93,
+            "tbc": 3620.925,
             "ob": 0,
             "co": 0
           },
@@ -299,7 +299,7 @@
             "prevInv": 0,
             "curInv": 3664.42,
             "totInv": 3664.42,
-            "tbc": 115.58,
+            "tbc": 115.57999999999993,
             "ob": 0,
             "co": 0
           },
@@ -328,12 +328,12 @@
         ],
         "subtotal": {
           "label": "FOUNDATION — Subtotal",
-          "budget": 87358.61,
+          "budget": 87358.614,
           "prevInv": 0,
           "curInv": 70137.02,
           "totInv": 70137.02,
-          "tbc": 28712.62,
-          "ob": 0,
+          "tbc": 28712.617,
+          "ob": -11491.023000000001,
           "co": 0
         }
       },
@@ -343,12 +343,12 @@
           {
             "label": "Framing Materials",
             "type": "detail",
-            "budget": 41235.09,
+            "budget": 41235.0855,
             "prevInv": 0,
-            "curInv": 42869.78,
-            "totInv": 42869.78,
+            "curInv": 42869.779500000004,
+            "totInv": 42869.779500000004,
             "tbc": 0,
-            "ob": 0,
+            "ob": -1634.6940000000031,
             "co": 0
           },
           {
@@ -358,28 +358,28 @@
             "prevInv": 0,
             "curInv": 43603.7,
             "totInv": 43603.7,
-            "tbc": 1546.3,
+            "tbc": 1546.300000000003,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Floor System",
             "type": "detail",
-            "budget": 14275.68,
+            "budget": 14275.6845,
             "prevInv": 0,
             "curInv": 12383,
             "totInv": 12383,
-            "tbc": 1892.68,
+            "tbc": 1892.6844999999994,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Engineering Hardware",
             "type": "detail",
-            "budget": 11718.22,
+            "budget": 11718.2205,
             "prevInv": 0,
-            "curInv": 11718.22,
-            "totInv": 11718.22,
+            "curInv": 11718.2205,
+            "totInv": 11718.2205,
             "tbc": 0,
             "ob": 0,
             "co": 0
@@ -398,12 +398,12 @@
         ],
         "subtotal": {
           "label": "FRAMING — Subtotal",
-          "budget": 117628.99,
+          "budget": 117628.9905,
           "prevInv": 0,
           "curInv": 110574.7,
           "totInv": 110574.7,
-          "tbc": 8688.98,
-          "ob": 0,
+          "tbc": 8688.984500000002,
+          "ob": -1634.6940000000031,
           "co": 0
         }
       },
@@ -413,11 +413,11 @@
           {
             "label": "Windows",
             "type": "detail",
-            "budget": 32873.74,
+            "budget": 32873.736,
             "prevInv": 0,
             "curInv": 25812.63,
             "totInv": 25812.63,
-            "tbc": 32873.74,
+            "tbc": 32873.736,
             "ob": 0,
             "co": 0
           },
@@ -435,11 +435,11 @@
         ],
         "subtotal": {
           "label": "WINDOWS — Subtotal",
-          "budget": 39173.74,
+          "budget": 39173.736,
           "prevInv": 0,
           "curInv": 25812.63,
           "totInv": 25812.63,
-          "tbc": 39173.74,
+          "tbc": 39173.736,
           "ob": 0,
           "co": 0
         }
@@ -472,11 +472,11 @@
           {
             "label": "Garage Doors",
             "type": "detail",
-            "budget": 20250.42,
+            "budget": 20250.4155,
             "prevInv": 0,
             "curInv": 15118.53,
             "totInv": 15118.53,
-            "tbc": 5131.89,
+            "tbc": 5131.8854999999985,
             "ob": 0,
             "co": 0
           },
@@ -494,22 +494,22 @@
           {
             "label": "Sliding Door",
             "type": "detail",
-            "budget": 16168.51,
+            "budget": 16168.509,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 16168.51,
+            "tbc": 16168.509,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "DOORS — Subtotal",
-          "budget": 52693.92,
+          "budget": 52693.9245,
           "prevInv": 0,
           "curInv": 15118.53,
           "totInv": 15118.53,
-          "tbc": 37575.39,
+          "tbc": 37575.394499999995,
           "ob": 0,
           "co": 0
         }
@@ -717,33 +717,33 @@
           {
             "label": "Insulation",
             "type": "detail",
-            "budget": 38921.7,
+            "budget": 38921.7045,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 38921.7,
+            "tbc": 38921.7045,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Drywall",
             "type": "detail",
-            "budget": 50539.89,
+            "budget": 50539.8915,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 50539.89,
+            "tbc": 50539.8915,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "INSULATION & DRYWALL — Subtotal",
-          "budget": 89461.6,
+          "budget": 89461.59599999999,
           "prevInv": 0,
           "curInv": 0,
           "totInv": 0,
-          "tbc": 89461.6,
+          "tbc": 89461.59599999999,
           "ob": 0,
           "co": 0
         }
@@ -754,11 +754,11 @@
           {
             "label": "Siding Materials",
             "type": "detail",
-            "budget": 18640.04,
+            "budget": 18640.041,
             "prevInv": 0,
             "curInv": 403.74,
             "totInv": 403.74,
-            "tbc": 18236.3,
+            "tbc": 18236.301,
             "ob": 0,
             "co": 0
           },
@@ -798,11 +798,11 @@
           {
             "label": "Cedar Soffit",
             "type": "detail",
-            "budget": 6023.21,
+            "budget": 6023.2095,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 6023.21,
+            "tbc": 6023.2095,
             "ob": 0,
             "co": 0
           },
@@ -820,11 +820,11 @@
         ],
         "subtotal": {
           "label": "EXTERIOR VENEER — Subtotal",
-          "budget": 72763.75,
+          "budget": 72763.7505,
           "prevInv": 0,
           "curInv": 403.74,
           "totInv": 403.74,
-          "tbc": 72360.01,
+          "tbc": 72360.0105,
           "ob": 0,
           "co": 0
         }
@@ -909,11 +909,11 @@
           {
             "label": "Interior Trim Materials",
             "type": "detail",
-            "budget": 4488.88,
+            "budget": 4488.876,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 4488.88,
+            "tbc": 4488.876,
             "ob": 0,
             "co": 0
           },
@@ -964,11 +964,11 @@
         ],
         "subtotal": {
           "label": "INTERIOR FINISHING — Subtotal",
-          "budget": 20238.88,
+          "budget": 20238.876,
           "prevInv": 0,
           "curInv": 0,
           "totInv": 0,
-          "tbc": 20238.88,
+          "tbc": 20238.876,
           "ob": 0,
           "co": 0
         }
@@ -1082,11 +1082,11 @@
           {
             "label": "Wall Tile Material",
             "type": "detail",
-            "budget": 3357.02,
+            "budget": 3357.018,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 3357.02,
+            "tbc": 3357.018,
             "ob": 0,
             "co": 0
           },
@@ -1137,22 +1137,22 @@
           {
             "label": "Heated floor Thermostat",
             "type": "detail",
-            "budget": 640.94,
+            "budget": 640.941,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 640.94,
+            "tbc": 640.941,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Heated Floor Cables",
             "type": "detail",
-            "budget": 1106.62,
+            "budget": 1106.616,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 1106.62,
+            "tbc": 1106.616,
             "ob": 0,
             "co": 0
           },
@@ -1181,11 +1181,11 @@
         ],
         "subtotal": {
           "label": "TILE — Subtotal",
-          "budget": 29538.92,
+          "budget": 29538.915,
           "prevInv": 0,
           "curInv": 0,
           "totInv": 0,
-          "tbc": 29538.92,
+          "tbc": 29538.915,
           "ob": 0,
           "co": 0
         }
@@ -1342,9 +1342,9 @@
             "type": "detail",
             "budget": 2625,
             "prevInv": 0,
-            "curInv": 2448.68,
-            "totInv": 2448.68,
-            "tbc": 176.32,
+            "curInv": 2448.6800000000003,
+            "totInv": 2448.6800000000003,
+            "tbc": 176.3199999999997,
             "ob": 0,
             "co": 0
           }
@@ -1353,9 +1353,9 @@
           "label": "RENTAL& JOBSITE FACILITIES— Subtotal",
           "budget": 4761.75,
           "prevInv": 0,
-          "curInv": 3025.33,
-          "totInv": 3025.33,
-          "tbc": 1736.42,
+          "curInv": 3025.3300000000004,
+          "totInv": 3025.3300000000004,
+          "tbc": 1736.4199999999996,
           "ob": 0,
           "co": 0
         }
@@ -1507,7 +1507,7 @@
             "curInv": 1000000,
             "totInv": 1000000,
             "tbc": 0,
-            "ob": 0,
+            "ob": -986896,
             "co": 0
           }
         ],
@@ -1518,7 +1518,7 @@
           "curInv": 1000000,
           "totInv": 1000000,
           "tbc": 31710,
-          "ob": 0,
+          "ob": -986896,
           "co": 0
         }
       }
@@ -1526,12 +1526,12 @@
     "totals": [
       {
         "label": "PROJECT TOTAL",
-        "budget": 1226617.4,
+        "budget": 1226617.4025,
         "prevInv": 0,
-        "curInv": 1317061.4,
-        "totInv": 1317061.4,
-        "tbc": 947812.85,
-        "ob": 0,
+        "curInv": 1317061.4000000001,
+        "totInv": 1317061.4000000001,
+        "tbc": 947812.8495000001,
+        "ob": -1012444.217,
         "co": 0
       }
     ]
@@ -5049,10 +5049,10 @@
   },
   "_meta": {
     "report": "May 2026",
-    "dateFrom": "",
-    "dateTo": "",
+    "dateFrom": "2025-11-01",
+    "dateTo": "2026-06-06",
     "jobId": "2590_stobart_road",
     "jobRepo": "Russ-Rachelle-Mcmann",
-    "syncedAt": "2026-06-16T19:01:41.709Z"
+    "syncedAt": "2026-06-16T19:03:58.878Z"
   }
 }
