@@ -1,11 +1,11 @@
 {
   "job": "2590 Stobart Road",
-  "client": "Russ & Rachelle Mcmann",
+  "client": "Russ McMann",
   "clientEmail": "",
   "clientPhone": "",
   "projectAddress": "",
   "projectManager": "A. McMann",
-  "reportLabel": "November 1, 2025 – June 6, 2026",
+  "reportLabel": "",
   "updated": "June 16, 2026",
   "costBreakdown": {
     "categories": [
@@ -17,7 +17,7 @@
             "type": "detail",
             "budget": 17850,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 9246.3,
             "totInv": 9246.3,
             "tbc": 8603.7,
             "ob": 0,
@@ -28,7 +28,7 @@
             "type": "detail",
             "budget": 525,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 158.93,
             "totInv": 158.93,
             "tbc": 366.07,
             "ob": 0,
@@ -39,7 +39,7 @@
           "label": "DESIGN SERVICES — Subtotal",
           "budget": 18375,
           "prevInv": 0,
-          "curInv": 0,
+          "curInv": 9405.23,
           "totInv": 9405.23,
           "tbc": 8969.77,
           "ob": 0,
@@ -54,7 +54,7 @@
             "type": "detail",
             "budget": 10500,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 8140,
             "totInv": 8140,
             "tbc": 2360,
             "ob": 0,
@@ -65,7 +65,7 @@
             "type": "detail",
             "budget": 2100,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 1250,
             "totInv": 1250,
             "tbc": 850,
             "ob": 0,
@@ -76,7 +76,7 @@
             "type": "detail",
             "budget": 42,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 40,
             "totInv": 40,
             "tbc": 2,
             "ob": 0,
@@ -98,7 +98,7 @@
           "label": "PERMITS & HOME WARRANTY — Subtotal",
           "budget": 23142,
           "prevInv": 0,
-          "curInv": 0,
+          "curInv": 9430,
           "totInv": 9430,
           "tbc": 13712,
           "ob": 0,
@@ -113,7 +113,7 @@
             "type": "detail",
             "budget": 1575,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 918.75,
             "totInv": 918.75,
             "tbc": 656.25,
             "ob": 0,
@@ -124,7 +124,7 @@
             "type": "detail",
             "budget": 8400,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 4487,
             "totInv": 4487,
             "tbc": 3913,
             "ob": 0,
@@ -135,7 +135,7 @@
             "type": "detail",
             "budget": 2100,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 747.2,
             "totInv": 747.2,
             "tbc": 1352.8,
             "ob": 0,
@@ -146,7 +146,7 @@
             "type": "detail",
             "budget": 7350,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 7377,
             "totInv": 7377,
             "tbc": 0,
             "ob": 0,
@@ -157,7 +157,7 @@
           "label": "ENGINEERING FEES — Subtotal",
           "budget": 19425,
           "prevInv": 0,
-          "curInv": 0,
+          "curInv": 13529.95,
           "totInv": 13529.95,
           "tbc": 5922.05,
           "ob": 0,
@@ -172,7 +172,7 @@
             "type": "detail",
             "budget": 21000,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 16768,
             "totInv": 16768,
             "tbc": 4232,
             "ob": 0,
@@ -183,7 +183,7 @@
             "type": "detail",
             "budget": 21000,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 33395.5,
             "totInv": 33395.5,
             "tbc": 0,
             "ob": 0,
@@ -194,7 +194,7 @@
             "type": "detail",
             "budget": 26250,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 1796,
             "totInv": 1796,
             "tbc": 24454,
             "ob": 0,
@@ -205,7 +205,7 @@
           "label": "SITE WORK — Subtotal",
           "budget": 68250,
           "prevInv": 0,
-          "curInv": 0,
+          "curInv": 51959.5,
           "totInv": 51959.5,
           "tbc": 28686,
           "ob": 0,
@@ -220,7 +220,7 @@
             "type": "detail",
             "budget": 8597.54,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 17673,
             "totInv": 17673,
             "tbc": 0,
             "ob": 0,
@@ -231,7 +231,7 @@
             "type": "detail",
             "budget": 28140,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 23549.78,
             "totInv": 23549.78,
             "tbc": 4590.22,
             "ob": 0,
@@ -242,7 +242,7 @@
             "type": "detail",
             "budget": 13649.38,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 15750,
             "totInv": 15750,
             "tbc": 0,
             "ob": 0,
@@ -264,7 +264,7 @@
             "type": "detail",
             "budget": 5040,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 5354.94,
             "totInv": 5354.94,
             "tbc": 0,
             "ob": 0,
@@ -297,7 +297,7 @@
             "type": "detail",
             "budget": 3780,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 3664.42,
             "totInv": 3664.42,
             "tbc": 115.58,
             "ob": 0,
@@ -308,7 +308,7 @@
             "type": "detail",
             "budget": 10500,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 4144.88,
             "totInv": 4144.88,
             "tbc": 6355.12,
             "ob": 0,
@@ -330,7 +330,7 @@
           "label": "FOUNDATION — Subtotal",
           "budget": 87358.61,
           "prevInv": 0,
-          "curInv": 0,
+          "curInv": 70137.02,
           "totInv": 70137.02,
           "tbc": 28712.62,
           "ob": 0,
@@ -345,7 +345,7 @@
             "type": "detail",
             "budget": 41235.09,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 42869.78,
             "totInv": 42869.78,
             "tbc": 0,
             "ob": 0,
@@ -356,7 +356,7 @@
             "type": "detail",
             "budget": 45150,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 43603.7,
             "totInv": 43603.7,
             "tbc": 1546.3,
             "ob": 0,
@@ -367,7 +367,7 @@
             "type": "detail",
             "budget": 14275.68,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 12383,
             "totInv": 12383,
             "tbc": 1892.68,
             "ob": 0,
@@ -378,7 +378,7 @@
             "type": "detail",
             "budget": 11718.22,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 11718.22,
             "totInv": 11718.22,
             "tbc": 0,
             "ob": 0,
@@ -400,7 +400,7 @@
           "label": "FRAMING — Subtotal",
           "budget": 117628.99,
           "prevInv": 0,
-          "curInv": 0,
+          "curInv": 110574.7,
           "totInv": 110574.7,
           "tbc": 8688.98,
           "ob": 0,
@@ -415,7 +415,7 @@
             "type": "detail",
             "budget": 32873.74,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 25812.63,
             "totInv": 25812.63,
             "tbc": 32873.74,
             "ob": 0,
@@ -437,7 +437,7 @@
           "label": "WINDOWS — Subtotal",
           "budget": 39173.74,
           "prevInv": 0,
-          "curInv": 0,
+          "curInv": 25812.63,
           "totInv": 25812.63,
           "tbc": 39173.74,
           "ob": 0,
@@ -474,7 +474,7 @@
             "type": "detail",
             "budget": 20250.42,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 15118.53,
             "totInv": 15118.53,
             "tbc": 5131.89,
             "ob": 0,
@@ -507,7 +507,7 @@
           "label": "DOORS — Subtotal",
           "budget": 52693.92,
           "prevInv": 0,
-          "curInv": 0,
+          "curInv": 15118.53,
           "totInv": 15118.53,
           "tbc": 37575.39,
           "ob": 0,
@@ -592,7 +592,7 @@
             "type": "detail",
             "budget": 26250,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 1422.77,
             "totInv": 1422.77,
             "tbc": 24827.23,
             "ob": 0,
@@ -608,7 +608,7 @@
           "label": "PLUMBING — Subtotal",
           "budget": 26250,
           "prevInv": 0,
-          "curInv": 0,
+          "curInv": 1422.77,
           "totInv": 1422.77,
           "tbc": 24827.23,
           "ob": 0,
@@ -756,7 +756,7 @@
             "type": "detail",
             "budget": 18640.04,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 403.74,
             "totInv": 403.74,
             "tbc": 18236.3,
             "ob": 0,
@@ -822,7 +822,7 @@
           "label": "EXTERIOR VENEER — Subtotal",
           "budget": 72763.75,
           "prevInv": 0,
-          "curInv": 0,
+          "curInv": 403.74,
           "totInv": 403.74,
           "tbc": 72360.01,
           "ob": 0,
@@ -1283,7 +1283,7 @@
             "type": "detail",
             "budget": 2625,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 1792,
             "totInv": 1792,
             "tbc": 833,
             "ob": 0,
@@ -1316,7 +1316,7 @@
           "label": "CONSTRUCTION CLEAN UP — Subtotal",
           "budget": 7875,
           "prevInv": 0,
-          "curInv": 0,
+          "curInv": 1792,
           "totInv": 1792,
           "tbc": 6083,
           "ob": 0,
@@ -1331,7 +1331,7 @@
             "type": "detail",
             "budget": 2136.75,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 576.65,
             "totInv": 576.65,
             "tbc": 1560.1,
             "ob": 0,
@@ -1342,7 +1342,7 @@
             "type": "detail",
             "budget": 2625,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 2448.68,
             "totInv": 2448.68,
             "tbc": 176.32,
             "ob": 0,
@@ -1353,7 +1353,7 @@
           "label": "RENTAL& JOBSITE FACILITIES— Subtotal",
           "budget": 4761.75,
           "prevInv": 0,
-          "curInv": 0,
+          "curInv": 3025.33,
           "totInv": 3025.33,
           "tbc": 1736.42,
           "ob": 0,
@@ -1390,7 +1390,7 @@
             "type": "detail",
             "budget": 5250,
             "prevInv": 0,
-            "curInv": 0,
+            "curInv": 4450,
             "totInv": 4450,
             "tbc": 800,
             "ob": 0,
@@ -1445,7 +1445,7 @@
           "label": "MISCELLANEOUS — Subtotal",
           "budget": 100275,
           "prevInv": 0,
-          "curInv": 0,
+          "curInv": 4450,
           "totInv": 4450,
           "tbc": 95825,
           "ob": 0,
@@ -1528,7 +1528,7 @@
         "label": "PROJECT TOTAL",
         "budget": 1226617.4,
         "prevInv": 0,
-        "curInv": 0,
+        "curInv": 317061.4,
         "totInv": 317061.4,
         "tbc": 960916.85,
         "ob": 0,
@@ -5000,200 +5000,7 @@
     ],
     "grandTotal": 308539.44
   },
-  "schedule": [
-    {
-      "name": "Full Size, Waterproof, Colour Plans Printed for Site",
-      "group": "Pre-Construction",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Building Permit Application",
-      "group": "Pre-Construction",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Lot Clearing",
-      "group": "Pre-Construction",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Complete WCB NOP & Post On Site",
-      "group": "Pre-Construction",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Portable Washroom Rental",
-      "group": "Pre-Construction",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Private Pole Installation",
-      "group": "Pre-Construction",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "McMann Group Start Excavation Layout Checklist",
-      "group": "Excavation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "McMann Group Backfill Checklist",
-      "group": "Excavation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Backfill",
-      "group": "Excavation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Schedule Backfill & Slab Prep",
-      "group": "Excavation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Septic Field Install",
-      "group": "Excavation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Excavation",
-      "group": "Excavation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "McMann Group Footings Checklist",
-      "group": "Foundation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Complete Footings Material Take Offs & Order Materials",
-      "group": "Foundation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Book Footings Inspection & Engineer Field Review",
-      "group": "Foundation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Footings Labour",
-      "group": "Foundation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Foundation Wall Forming Labour",
-      "group": "Foundation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Foundation Wall Concrete Pour",
-      "group": "Foundation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Book Footings Concrete Pour",
-      "group": "Foundation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Schedule Foundation Labour",
-      "group": "Foundation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Schedule Foundation Concrete Pour",
-      "group": "Foundation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Footings Concrete Pour",
-      "group": "Foundation",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Roof System Labour",
-      "group": "Framing",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Second Floor Framing Labour",
-      "group": "Framing",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Order Main Floor Framing Package",
-      "group": "Framing",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Order Crawl Space Framing Package",
-      "group": "Framing",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Install Timber Frame",
-      "group": "Framing",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Main Floor Framing Labour",
-      "group": "Framing",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Order Any Required Engineering Components",
-      "group": "Framing",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Crawl Space Framing Labour",
-      "group": "Framing",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Schedule Roof Truss & Floor System Delivery",
-      "group": "Framing",
-      "status": "",
-      "timeline": ""
-    },
-    {
-      "name": "Order Second Floor Framing Package",
-      "group": "Framing",
-      "status": "",
-      "timeline": ""
-    }
-  ],
+  "schedule": [],
   "_schema": {
     "costBreakdown": {
       "columns": [
@@ -5205,6 +5012,16 @@
         {
           "key": "budget",
           "label": "BUDGET",
+          "visible": true
+        },
+        {
+          "key": "prevInv",
+          "label": "Prev. Invoiced",
+          "visible": true
+        },
+        {
+          "key": "curInv",
+          "label": "CURRENT INVOICE",
           "visible": true
         },
         {
@@ -5232,10 +5049,10 @@
   },
   "_meta": {
     "report": "May 2026",
-    "dateFrom": "2025-11-01",
-    "dateTo": "2026-06-06",
-    "jobId": "russ_rachelle_mcmann",
+    "dateFrom": "",
+    "dateTo": "",
+    "jobId": "2590_stobart_road",
     "jobRepo": "Russ-Rachelle-Mcmann",
-    "syncedAt": "2026-06-16T18:14:31.766Z"
+    "syncedAt": "2026-06-16T18:55:16.455Z"
   }
 }
