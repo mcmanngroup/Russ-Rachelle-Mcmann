@@ -146,6 +146,7 @@ tr.cat-row{cursor:pointer}
 tr.cat-row td{background:#fff;color:var(--navy);font-weight:700;font-size:14px;padding:10px 14px;border-bottom:1px solid var(--border)}
 tr.cat-row:not(.expanded) td.num{font-size:13px;font-weight:600;color:var(--navy)}
 tr.cat-row:not(.expanded) td.num.blue{color:#1e6fd9;font-size:13px;font-weight:700}
+tr.cat-row:not(.expanded) td.num.bud{color:var(--navy);font-size:13px;font-weight:700}
 tr.cat-row:not(.expanded) td.num.green{color:#15803d;font-size:13px;font-weight:700}
 tr.cat-row:not(.expanded) td.num.red{color:#f75151;font-size:13px;font-weight:700}
 tr.cat-row:not(.expanded) td.num.gold{color:#c9970a;font-size:13px;font-weight:700}
@@ -156,6 +157,7 @@ tr.detail-row{display:none}
 tr.detail-row td{background:#f8faff;font-size:12px;color:#000;font-weight:500;padding:8px 14px;border-bottom:1px solid var(--border)}
 tr.detail-row td:first-child{padding-left:36px}
 tr.detail-row td.num{text-align:right}
+tr.detail-row td.num.bud{color:#0a1628}
 tr.detail-row td.num.blue{color:#1e6fd9}
 tr.detail-row td.num.green{color:#15803d}
 tr.detail-row td.num.red{color:#f75151}
@@ -952,22 +954,21 @@ function renderCost(cb){
     if(col.key==='ob')return'<td class="num">'+(v<0?'<span class="over-tag">'+fCabs(v)+'</span>':'—')+'</td>';
     if(col.key==='co')return'<td class="num">'+(v>0?'<span class="co-tag">'+fC(v)+'</span>':'—')+'</td>';
     if(col.key==='tbc')return'<td class="num '+(v>0?'green':v<0?'red':'')+'">'+fC(v)+'</td>';
-    return'<td class="num blue">'+fC(v)+'</td>';
+    if(col.key==='budget')return'<td class="num bud">'+fC(v)+'</td>';return'<td class="num blue">'+fC(v)+'</td>';
   }
   function tdDetail(col,item){
     var v=item[col.key]||0;
     if(col.key==='ob')return'<td class="num">'+(v<0?'<span class="over-tag">'+fCabs(v)+'</span>':'—')+'</td>';
     if(col.key==='co')return'<td class="num">'+(v>0?'<span class="co-tag">'+fC(v)+'</span>':'—')+'</td>';
     if(col.key==='tbc')return'<td class="num '+(v>0?'green':v<0?'red':'')+'">'+fC(v)+'</td>';
-    return'<td class="num blue">'+fC(v)+'</td>';
+    if(col.key==='budget')return'<td class="num bud">'+fC(v)+'</td>';return'<td class="num blue">'+fC(v)+'</td>';
   }
   function tdSub(col,sub){
     var v=sub[col.key]||0;
     if(col.key==='ob')return'<td class="num '+(v<0?'red':'')+'">'+( v<0?fCabs(v):'—')+'</td>';
     if(col.key==='co')return'<td class="num '+(v>0?'gold':'')+'">'+( v>0?fC(v):'—')+'</td>';
     if(col.key==='tbc')return'<td class="num '+(v>0?'green':v<0?'red':'')+'">'+fC(v)+'</td>';
-    if(col.key==='budget')return'<td class="num bud" style="color:var(--navy)">'+fC(v)+'</td>';
-    return'<td class="num blue">'+fC(v)+'</td>';
+if(col.key==='budget')return'<td class="num bud">'+fC(v)+'</td>';    return'<td class="num blue">'+fC(v)+'</td>';
   }
   function tdTotal(col,t,bold){
     var v=t[col.key]||0;
