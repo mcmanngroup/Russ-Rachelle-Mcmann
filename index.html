@@ -966,7 +966,7 @@ function renderCost(cb){
     if(col.key==='ob')return'<td class="num '+(v<0?'red':'')+'">'+( v<0?fCabs(v):'—')+'</td>';
     if(col.key==='co')return'<td class="num '+(v>0?'gold':'')+'">'+( v>0?fC(v):'—')+'</td>';
     if(col.key==='tbc')return'<td class="num '+(v>0?'green':v<0?'red':'')+'">'+fC(v)+'</td>';
-    if(col.key==='budget')return'<td class="num bud">'+fC(v)+'</td>';
+    if(col.key==='budget')return'<td class="num bud" style="color:var(--navy)">'+fC(v)+'</td>';
     return'<td class="num blue">'+fC(v)+'</td>';
   }
   function tdTotal(col,t,bold){
