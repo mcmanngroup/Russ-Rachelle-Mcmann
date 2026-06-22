@@ -5,8 +5,8 @@
   "clientPhone": "",
   "projectAddress": "",
   "projectManager": "A. McMann",
-  "reportLabel": "November 1, 2025 – June 6, 2026",
-  "updated": "June 16, 2026",
+  "reportLabel": "",
+  "updated": "June 22, 2026",
   "costBreakdown": {
     "categories": [
       {
@@ -36,7 +36,7 @@
           }
         ],
         "subtotal": {
-          "label": "DESIGN SERVICES — Subtotal",
+          "label": "DESIGN SERVICES â Subtotal",
           "budget": 18375,
           "prevInv": 0,
           "curInv": 0,
@@ -95,7 +95,7 @@
           }
         ],
         "subtotal": {
-          "label": "PERMITS & HOME WARRANTY — Subtotal",
+          "label": "PERMITS & HOME WARRANTY â Subtotal",
           "budget": 23142,
           "prevInv": 0,
           "curInv": 0,
@@ -154,7 +154,7 @@
           }
         ],
         "subtotal": {
-          "label": "ENGINEERING FEES — Subtotal",
+          "label": "ENGINEERING FEES â Subtotal",
           "budget": 19425,
           "prevInv": 0,
           "curInv": 0,
@@ -202,7 +202,7 @@
           }
         ],
         "subtotal": {
-          "label": "SITE WORK — Subtotal",
+          "label": "SITE WORK â Subtotal",
           "budget": 68250,
           "prevInv": 0,
           "curInv": 0,
@@ -327,7 +327,7 @@
           }
         ],
         "subtotal": {
-          "label": "FOUNDATION — Subtotal",
+          "label": "FOUNDATION â Subtotal",
           "budget": 87358.61,
           "prevInv": 0,
           "curInv": 0,
@@ -397,7 +397,7 @@
           }
         ],
         "subtotal": {
-          "label": "FRAMING — Subtotal",
+          "label": "FRAMING â Subtotal",
           "budget": 117628.99,
           "prevInv": 0,
           "curInv": 0,
@@ -434,7 +434,7 @@
           }
         ],
         "subtotal": {
-          "label": "WINDOWS — Subtotal",
+          "label": "WINDOWS â Subtotal",
           "budget": 39173.74,
           "prevInv": 0,
           "curInv": 0,
@@ -504,7 +504,7 @@
           }
         ],
         "subtotal": {
-          "label": "DOORS — Subtotal",
+          "label": "DOORS â Subtotal",
           "budget": 52693.92,
           "prevInv": 0,
           "curInv": 0,
@@ -574,7 +574,7 @@
           }
         ],
         "subtotal": {
-          "label": "ELECTRICAL — Subtotal",
+          "label": "ELECTRICAL â Subtotal",
           "budget": 75458.25,
           "prevInv": 0,
           "curInv": 0,
@@ -600,7 +600,7 @@
           }
         ],
         "subtotal": {
-          "label": "PLUMBING — Subtotal",
+          "label": "PLUMBING â Subtotal",
           "budget": 26250,
           "prevInv": 0,
           "curInv": 0,
@@ -670,7 +670,7 @@
           }
         ],
         "subtotal": {
-          "label": "HVAC — Subtotal",
+          "label": "HVAC â Subtotal",
           "budget": 66213,
           "prevInv": 0,
           "curInv": 0,
@@ -696,7 +696,7 @@
           }
         ],
         "subtotal": {
-          "label": "ROOFING — Subtotal",
+          "label": "ROOFING â Subtotal",
           "budget": 34545,
           "prevInv": 0,
           "curInv": 0,
@@ -733,7 +733,7 @@
           }
         ],
         "subtotal": {
-          "label": "INSULATION & DRYWALL — Subtotal",
+          "label": "INSULATION & DRYWALL â Subtotal",
           "budget": 89461.6,
           "prevInv": 0,
           "curInv": 0,
@@ -814,7 +814,7 @@
           }
         ],
         "subtotal": {
-          "label": "EXTERIOR VENEER — Subtotal",
+          "label": "EXTERIOR VENEER â Subtotal",
           "budget": 72763.75,
           "prevInv": 0,
           "curInv": 0,
@@ -840,7 +840,7 @@
           }
         ],
         "subtotal": {
-          "label": "MASONRY — Subtotal",
+          "label": "MASONRY â Subtotal",
           "budget": 15750,
           "prevInv": 0,
           "curInv": 0,
@@ -877,7 +877,7 @@
           }
         ],
         "subtotal": {
-          "label": "CABINETRY & COUNTERTOPS — Subtotal",
+          "label": "CABINETRY & COUNTERTOPS â Subtotal",
           "budget": 75474,
           "prevInv": 0,
           "curInv": 0,
@@ -958,7 +958,7 @@
           }
         ],
         "subtotal": {
-          "label": "INTERIOR FINISHING — Subtotal",
+          "label": "INTERIOR FINISHING â Subtotal",
           "budget": 20238.88,
           "prevInv": 0,
           "curInv": 0,
@@ -1028,7 +1028,7 @@
           }
         ],
         "subtotal": {
-          "label": "WOOD FLOOR COVERINGS — Subtotal",
+          "label": "WOOD FLOOR COVERINGS â Subtotal",
           "budget": 44751,
           "prevInv": 0,
           "curInv": 0,
@@ -1175,7 +1175,7 @@
           }
         ],
         "subtotal": {
-          "label": "TILE — Subtotal",
+          "label": "TILE â Subtotal",
           "budget": 29538.92,
           "prevInv": 0,
           "curInv": 0,
@@ -1201,7 +1201,7 @@
           }
         ],
         "subtotal": {
-          "label": "PAINT — Subtotal",
+          "label": "PAINT â Subtotal",
           "budget": 36750,
           "prevInv": 0,
           "curInv": 0,
@@ -1260,7 +1260,7 @@
           }
         ],
         "subtotal": {
-          "label": "EXTERIOR HARDSCAPE — Subtotal",
+          "label": "EXTERIOR HARDSCAPE â Subtotal",
           "budget": 55650,
           "prevInv": 0,
           "curInv": 0,
@@ -1308,7 +1308,7 @@
           }
         ],
         "subtotal": {
-          "label": "CONSTRUCTION CLEAN UP — Subtotal",
+          "label": "CONSTRUCTION CLEAN UP â Subtotal",
           "budget": 7875,
           "prevInv": 0,
           "curInv": 0,
@@ -1345,7 +1345,7 @@
           }
         ],
         "subtotal": {
-          "label": "RENTAL& JOBSITE FACILITIES— Subtotal",
+          "label": "RENTAL& JOBSITE FACILITIESâ Subtotal",
           "budget": 4761.75,
           "prevInv": 0,
           "curInv": 0,
@@ -1437,7 +1437,7 @@
           }
         ],
         "subtotal": {
-          "label": "MISCELLANEOUS — Subtotal",
+          "label": "MISCELLANEOUS â Subtotal",
           "budget": 100275,
           "prevInv": 0,
           "curInv": 0,
@@ -1507,7 +1507,7 @@
           }
         ],
         "subtotal": {
-          "label": "Mcmann Labour  — Subtotal",
+          "label": "Mcmann Labour  â Subtotal",
           "budget": 44814,
           "prevInv": 0,
           "curInv": 0,
@@ -3899,6 +3899,12 @@
             "amount": 627.47
           },
           {
+            "date": "46091",
+            "num": "03-085563",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -255.26
+          },
+          {
             "date": "46093",
             "num": "03-085864",
             "memo": "Backfill, Perimeter & Drain Material",
@@ -3939,6 +3945,12 @@
             "num": "BP131412",
             "memo": "Building Permit",
             "amount": 739.5
+          },
+          {
+            "date": "46072",
+            "num": "",
+            "memo": "Building Permit",
+            "amount": 7400.35
           }
         ],
         "total": 8139.85
@@ -4013,6 +4025,12 @@
         "name": "Harleen Parmar",
         "bills": [
           {
+            "date": "46169",
+            "num": "429",
+            "memo": "Roof Trusses",
+            "amount": 20000
+          },
+          {
             "date": "46173",
             "num": "",
             "memo": "Roof Trusses",
@@ -4065,7 +4083,176 @@
       },
       {
         "name": "Island Aggregates Ltd",
-        "bills": [],
+        "bills": [
+          {
+            "date": "46083",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 292.89
+          },
+          {
+            "date": "46083",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 256.66
+          },
+          {
+            "date": "46084",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 287.68
+          },
+          {
+            "date": "46084",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 284.2
+          },
+          {
+            "date": "46087",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 282.04
+          },
+          {
+            "date": "46087",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 288.55
+          },
+          {
+            "date": "46087",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 294.2
+          },
+          {
+            "date": "46087",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 574.93
+          },
+          {
+            "date": "46090",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 295.94
+          },
+          {
+            "date": "46090",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 296.37
+          },
+          {
+            "date": "46091",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 290.28
+          },
+          {
+            "date": "46091",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 296.37
+          },
+          {
+            "date": "46091",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 282.04
+          },
+          {
+            "date": "46091",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 283.34
+          },
+          {
+            "date": "46091",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 286.38
+          },
+          {
+            "date": "46091",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 290.28
+          },
+          {
+            "date": "46092",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 272.47
+          },
+          {
+            "date": "46092",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 280.3
+          },
+          {
+            "date": "46092",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 283.34
+          },
+          {
+            "date": "46092",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 286.81
+          },
+          {
+            "date": "46092",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 302.03
+          },
+          {
+            "date": "46092",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 302.46
+          },
+          {
+            "date": "46092",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 305.93
+          },
+          {
+            "date": "46093",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 570.15
+          },
+          {
+            "date": "46093",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 560.58
+          },
+          {
+            "date": "46093",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 489.1
+          },
+          {
+            "date": "46093",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 476.22
+          },
+          {
+            "date": "46094",
+            "num": "",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 486.07
+          }
+        ],
         "total": 9497.61
       },
       {
@@ -4226,7 +4413,38 @@
       },
       {
         "name": "JINGLEPOT GENERAL STORE",
-        "bills": [],
+        "bills": [
+          {
+            "date": "46088",
+            "num": "",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 42.76
+          },
+          {
+            "date": "46101",
+            "num": "326334",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 79.05
+          },
+          {
+            "date": "46107",
+            "num": "328324",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 83.16
+          },
+          {
+            "date": "46117",
+            "num": "",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 10.19
+          },
+          {
+            "date": "46120",
+            "num": "333601",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 78.35
+          }
+        ],
         "total": 293.51
       },
       {
@@ -4297,12 +4515,56 @@
       },
       {
         "name": "Metal Supermarkets",
-        "bills": [],
+        "bills": [
+          {
+            "date": "46094",
+            "num": "",
+            "memo": "Footings and Foundation Material",
+            "amount": 12.61
+          }
+        ],
         "total": 12.61
       },
       {
         "name": "Mid Island Co-op",
-        "bills": [],
+        "bills": [
+          {
+            "date": "46063",
+            "num": "",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 960
+          },
+          {
+            "date": "46083",
+            "num": "",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 960
+          },
+          {
+            "date": "46093",
+            "num": "",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 960
+          },
+          {
+            "date": "46113",
+            "num": "",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 480
+          },
+          {
+            "date": "46140",
+            "num": "",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 480
+          },
+          {
+            "date": "46176",
+            "num": "",
+            "memo": "Framing Material Cost",
+            "amount": 480
+          }
+        ],
         "total": 4320
       },
       {
@@ -4325,18 +4587,56 @@
             "num": "IN2735196",
             "memo": "Footings and Foundation Material",
             "amount": 130.28
+          },
+          {
+            "date": "46170",
+            "num": "IN2802284",
+            "memo": "Framing Materials Cost",
+            "amount": 99.86
           }
         ],
         "total": 230.14
       },
       {
         "name": "Pacific Net & Twine",
-        "bills": [],
+        "bills": [
+          {
+            "date": "46155",
+            "num": "02344505",
+            "memo": "Framing Materials Cost",
+            "amount": 513.57
+          }
+        ],
         "total": 513.57
       },
       {
         "name": "Petro Canada",
-        "bills": [],
+        "bills": [
+          {
+            "date": "46152",
+            "num": "133430",
+            "memo": "Framing Materials Cost",
+            "amount": 150
+          },
+          {
+            "date": "46152",
+            "num": "133427",
+            "memo": "Framing Materials Cost",
+            "amount": 150
+          },
+          {
+            "date": "46152",
+            "num": "133439",
+            "memo": "Framing Materials Cost",
+            "amount": 150
+          },
+          {
+            "date": "46166",
+            "num": "311599",
+            "memo": "Framing Materials Cost",
+            "amount": 200
+          }
+        ],
         "total": 650
       },
       {
@@ -4421,10 +4721,28 @@
             "amount": 11546.35
           },
           {
+            "date": "46083",
+            "num": "103-25198321CR",
+            "memo": "Footings and Foundation Material",
+            "amount": -11820.14
+          },
+          {
             "date": "46084",
             "num": "103-25198891",
             "memo": "Backfill, Perimeter & Drain Material",
             "amount": 2369.25
+          },
+          {
+            "date": "46084",
+            "num": "103-25198921CR",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -2369.25
+          },
+          {
+            "date": "46084",
+            "num": "104-27039671CR",
+            "memo": "Footings and Foundation Material",
+            "amount": -649.47
           },
           {
             "date": "46084",
@@ -4463,6 +4781,12 @@
             "amount": 1133.28
           },
           {
+            "date": "46104",
+            "num": "103-25217871CR",
+            "memo": "Framing Materials Cost",
+            "amount": -77
+          },
+          {
             "date": "46105",
             "num": "104-27064131",
             "memo": "Framing Materials Cost",
@@ -4479,6 +4803,12 @@
             "num": "103-25222411",
             "memo": "Framing Material Cost",
             "amount": 14103.16
+          },
+          {
+            "date": "46112",
+            "num": "103-25226061CR",
+            "memo": "Framing Material Cost",
+            "amount": -224.22
           },
           {
             "date": "46112",
@@ -4503,6 +4833,12 @@
             "num": "103-25239371",
             "memo": "Framing Material Cost",
             "amount": 1637
+          },
+          {
+            "date": "46130",
+            "num": "x8229100382",
+            "memo": "Framing Material Cost",
+            "amount": 63.45
           },
           {
             "date": "46132",
@@ -4563,6 +4899,12 @@
             "num": "83323-10478011",
             "memo": "Framing Material Cost",
             "amount": 122.57
+          },
+          {
+            "date": "46171",
+            "num": "103-25289941CR",
+            "memo": "Framing Material Cost",
+            "amount": -145.6
           },
           {
             "date": "46171",
@@ -4698,6 +5040,12 @@
           },
           {
             "date": "46112",
+            "num": "CR442850",
+            "memo": "Framing Material Cost",
+            "amount": -17.14
+          },
+          {
+            "date": "46112",
             "num": "IN5508162",
             "memo": "Framing Material Cost",
             "amount": 30.04
@@ -4817,6 +5165,12 @@
             "amount": 459
           },
           {
+            "date": "46168",
+            "num": "IN5585950",
+            "memo": "Framing Material Cost",
+            "amount": 76.12
+          },
+          {
             "date": "46169",
             "num": "IN5588115",
             "memo": "Framing Material Cost",
@@ -4917,7 +5271,14 @@
       },
       {
         "name": "The Home Depot",
-        "bills": [],
+        "bills": [
+          {
+            "date": "46117",
+            "num": "70400241786",
+            "memo": "Framing Material Cost",
+            "amount": 138.03
+          }
+        ],
         "total": 138.03
       },
       {
@@ -5011,7 +5372,7 @@
         },
         {
           "key": "totInv",
-          "label": "TOTAL INVOICED",
+          "label": "TOTAL ACTUAL COST",
           "visible": true
         },
         {
@@ -5029,10 +5390,10 @@
   },
   "_meta": {
     "report": "May 2026",
-    "dateFrom": "2025-11-01",
-    "dateTo": "2026-06-06",
+    "dateFrom": "",
+    "dateTo": "",
     "jobId": "2590_stobart_road_",
     "jobRepo": "Russ-Rachelle-Mcmann",
-    "syncedAt": "2026-06-17T00:07:48.045Z"
+    "syncedAt": "2026-06-22T21:48:12.414Z"
   }
 }
