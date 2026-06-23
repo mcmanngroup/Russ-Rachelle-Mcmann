@@ -439,11 +439,15 @@ function toggleGroup(id,type){
   btn.classList.toggle('open',!isOpen);
   var catRow=$(type+'-cat-'+id);
   if(catRow)catRow.classList.toggle('expanded',!isOpen);
-var tsFilterEl=document.getElementById('ts-filter');
-  var activeMonth=tsFilterEl?tsFilterEl.value:'all';
+var filterId=type==='vs'?'v-filter':'ts-filter';
+  var activeFilterEl=document.getElementById(filterId);
+  var activeMonth=activeFilterEl?activeFilterEl.value:'all';
   document.querySelectorAll('[data-group="'+id+'"]').forEach(function(r){
     if(isOpen){
       r.style.display='none';
+    } else if(type==='vs'||type==='ts'){
+      var matchAttr=r.getAttribute('data-month-match');
+      r.style.display=(matchAttr===null?true:matchAttr==='1')?'table-row':'none';
     } else {
       var mo=r.getAttribute('data-month');
       r.style.display=(activeMonth==='all'||!mo||mo===activeMonth)?'table-row':'none';
@@ -458,8 +462,8 @@ var tsFilterEl=document.getElementById('ts-filter');
   if(type==='ts'){
     var tsSum=0;
     document.querySelectorAll('[data-group="'+id+'"].ts-detail').forEach(function(r){
-      var rMo=r.getAttribute('data-month');
-      var rMatches=(activeMonth==='all'||!rMo||rMo===activeMonth);
+      var matchAttr2=r.getAttribute('data-month-match');
+      var rMatches=(matchAttr2===null?true:matchAttr2==='1');
       if(rMatches)tsSum+=parseFloat(r.querySelector('.num').textContent)||0;
     });
     if(tsNum)tsNum.textContent=tsSum.toFixed(2);
@@ -894,6 +898,11 @@ function shExpandAll(type){
   document.querySelectorAll('[id^="exp-'+prefix+'"]').forEach(function(btn){
     if(!btn.classList.contains('open')){
       var id=btn.id.replace('exp-','');
+      if(type==='vs'||type==='ts'){
+        var catRowId=type+'-cat-'+id;
+        var catRow=document.getElementById(catRowId);
+        if(catRow&&catRow.style.display==='none')return;
+      }
       toggleGroup(id,type);
     }
   });
@@ -1148,25 +1157,42 @@ function renderTimesheet(ts){
 }
 function filterTimesheet(){
   var val=document.getElementById('ts-filter').value;
-  var grand=0;
+  document.querySelectorAll('[id^="exp-tsgrp"]').forEach(function(btn){
+    btn.classList.remove('open');
+  });
+  document.querySelectorAll('.ts-group-row').forEach(function(row){
+    row.classList.remove('expanded');
+  });
+  document.querySelectorAll('.ts-detail').forEach(function(r){
+    var mo=r.getAttribute('data-month');
+    var matches=(val==='all'||mo===val);
+    r.setAttribute('data-month-match',matches?'1':'0');
+    r.style.display='none';
+  });
+  var grand=0,visibleGroupCount=0;
   document.querySelectorAll('.ts-group-row').forEach(function(catRow){
     var gid=catRow.id.replace('ts-cat-','');
-    var sum=0;
+    var sum=0,anyMatch=false;
     document.querySelectorAll('[data-group="'+gid+'"].ts-detail').forEach(function(r){
-      var mo=r.getAttribute('data-month');
-      var show=(val==='all'||mo===val);
-      r.style.display=show?'table-row':'none';
-      if(show)sum+=parseFloat(r.querySelector('.num').textContent)||0;
+      if(r.getAttribute('data-month-match')==='1'){
+        anyMatch=true;
+        sum+=parseFloat(r.querySelector('.num').textContent)||0;
+      }
     });
     var numEl=document.getElementById('ts-num-'+gid);
     if(numEl)numEl.textContent=sum.toFixed(2);
     var subRow=document.getElementById('ts-sub-'+gid);
-    if(subRow){var subNum=subRow.querySelector('.num');if(subNum)subNum.textContent=sum.toFixed(2);}
-    grand+=sum;
+    if(subRow){
+      subRow.style.display='none';
+      var subNum=subRow.querySelector('.num');
+      if(subNum)subNum.textContent=sum.toFixed(2);
+    }
+    catRow.style.display=(val!=='all'&&!anyMatch)?'none':'table-row';
+    if(anyMatch){visibleGroupCount++;grand+=sum;}
   });
-  var totalRow=document.querySelector('.ts-total-row .num strong');
+  var totalRow=document.querySelector('#tab-timesheet .ts-total-row .num strong');
   if(totalRow)totalRow.textContent=grand.toFixed(2);
-  var kpi=document.querySelector('.kpi-card.blue .kpi-val');
+  var kpi=document.querySelector('#tab-timesheet .kpi-card.blue .kpi-val');
   if(kpi)kpi.textContent=grand.toFixed(2);
 }
 
@@ -1260,24 +1286,54 @@ function renderVendors(mat){
 // FIX #3: filterVendors resets vendor-row visibility when switching to All Months
 function filterVendors(){
   var val=document.getElementById('v-filter').value;
+  document.querySelectorAll('[id^="exp-vnd"]').forEach(function(btn){
+    btn.classList.remove('open');
+  });
+  document.querySelectorAll('.vendor-row').forEach(function(row){
+    row.classList.remove('expanded');
+  });
   document.querySelectorAll('.vendor-detail').forEach(function(r){
     var mo=r.getAttribute('data-month');
-    r.style.display=(val==='all'||mo===val)?'table-row':'none';
+    var matches=(val==='all'||mo===val);
+    r.setAttribute('data-month-match',matches?'1':'0');
+    r.style.display='none';
   });
+  var grandFiltered=0,visibleVendorCount=0,visibleBillCount=0;
   document.querySelectorAll('.vendor-row').forEach(function(row){
     var grp=row.id.replace('vs-cat-','');
     var details=document.querySelectorAll('.vendor-detail[data-group="'+grp+'"]');
-    var anyVisible=false;
-    details.forEach(function(r){if(r.style.display!=='none')anyVisible=true;});
+    var anyMatch=false,vendorSum=0,vendorBillCount=0;
+    details.forEach(function(r){
+      if(r.getAttribute('data-month-match')==='1'){
+        anyMatch=true;
+        vendorBillCount++;
+        var amtCell=r.querySelector('td.num');
+        var amt=amtCell?parseFloat(amtCell.textContent.replace(/[^0-9.-]/g,'')):0;
+        if(!isNaN(amt))vendorSum+=amt;
+      }
+    });
     var sub=document.getElementById('vs-sub-'+grp);
-    var expBtn=document.getElementById('exp-'+grp);
-    var isExpanded=expBtn?expBtn.classList.contains('open'):false;
-    // FIX #3: always show the vendor-row itself; only hide sub rows when not expanded
+    var numCell=document.getElementById('vs-num-'+grp);
     row.style.display='table-row';
-    // Hide vendor if it truly has no bills in this month filter
-    if(val!=='all'&&!anyVisible){row.style.display='none';}
-    if(sub)sub.style.display=(anyVisible&&isExpanded)?'table-row':'none';
+    if(val!=='all'&&!anyMatch){row.style.display='none';}
+    if(sub)sub.style.display='none';
+    if(anyMatch){
+      visibleVendorCount++;
+      visibleBillCount+=vendorBillCount;
+      grandFiltered+=vendorSum;
+      if(numCell){numCell.textContent=fC(vendorSum);numCell.style.visibility='visible';}
+      var subCell=sub?sub.querySelector('td.num'):null;
+      if(subCell)subCell.textContent=fC(vendorSum);
+    }
   });
+  var kpiVal=document.querySelector('#tab-vendors .kpi-val');
+  var kpiSub=document.querySelector('#tab-vendors .kpi-sub');
+  if(kpiVal)kpiVal.textContent=fC(grandFiltered);
+  if(kpiSub)kpiSub.textContent=visibleVendorCount+' vendors · '+visibleBillCount+' invoices';
+  var totalRow=document.querySelector('#tab-vendors .ts-total-row td.num strong');
+  var totalRowLabel=document.querySelector('#tab-vendors .ts-total-row td strong');
+  if(totalRow)totalRow.textContent=fC(grandFiltered);
+  if(totalRowLabel)totalRowLabel.innerHTML='Total Vendor Spend &nbsp;·&nbsp; '+visibleVendorCount+' vendors &nbsp;·&nbsp; '+visibleBillCount+' invoices';
 }
 
 // ── SCHEDULE ──
