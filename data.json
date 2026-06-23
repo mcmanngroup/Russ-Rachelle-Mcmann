@@ -5,7 +5,7 @@
   "clientPhone": "",
   "projectAddress": "",
   "projectManager": "A. McMann",
-  "reportLabel": "November 1, 2025 – June 6, 2026",
+  "reportLabel": "",
   "updated": "June 22, 2026",
   "costBreakdown": {
     "categories": [
@@ -36,7 +36,7 @@
           }
         ],
         "subtotal": {
-          "label": "DESIGN SERVICES Ã¢ÂÂ Subtotal",
+          "label": "DESIGN SERVICES — Subtotal",
           "budget": 18375,
           "prevInv": 0,
           "curInv": 9405.23,
@@ -95,7 +95,7 @@
           }
         ],
         "subtotal": {
-          "label": "PERMITS & HOME WARRANTY Ã¢ÂÂ Subtotal",
+          "label": "PERMITS & HOME WARRANTY — Subtotal",
           "budget": 23142,
           "prevInv": 0,
           "curInv": 9430,
@@ -154,7 +154,7 @@
           }
         ],
         "subtotal": {
-          "label": "ENGINEERING FEES Ã¢ÂÂ Subtotal",
+          "label": "ENGINEERING FEES — Subtotal",
           "budget": 19425,
           "prevInv": 0,
           "curInv": 13529.95,
@@ -202,7 +202,7 @@
           }
         ],
         "subtotal": {
-          "label": "SITE WORK Ã¢ÂÂ Subtotal",
+          "label": "SITE WORK — Subtotal",
           "budget": 68250,
           "prevInv": 0,
           "curInv": 51959.5,
@@ -327,7 +327,7 @@
           }
         ],
         "subtotal": {
-          "label": "FOUNDATION Ã¢ÂÂ Subtotal",
+          "label": "FOUNDATION — Subtotal",
           "budget": 87358.614,
           "prevInv": 0,
           "curInv": 70137.02,
@@ -397,7 +397,7 @@
           }
         ],
         "subtotal": {
-          "label": "FRAMING Ã¢ÂÂ Subtotal",
+          "label": "FRAMING — Subtotal",
           "budget": 117628.9905,
           "prevInv": 0,
           "curInv": 110574.7,
@@ -434,7 +434,7 @@
           }
         ],
         "subtotal": {
-          "label": "WINDOWS Ã¢ÂÂ Subtotal",
+          "label": "WINDOWS — Subtotal",
           "budget": 39173.736,
           "prevInv": 0,
           "curInv": 25812.63,
@@ -504,7 +504,7 @@
           }
         ],
         "subtotal": {
-          "label": "DOORS Ã¢ÂÂ Subtotal",
+          "label": "DOORS — Subtotal",
           "budget": 52693.9245,
           "prevInv": 0,
           "curInv": 15118.53,
@@ -574,7 +574,7 @@
           }
         ],
         "subtotal": {
-          "label": "ELECTRICAL Ã¢ÂÂ Subtotal",
+          "label": "ELECTRICAL — Subtotal",
           "budget": 75458.25,
           "prevInv": 0,
           "curInv": 0,
@@ -600,7 +600,7 @@
           }
         ],
         "subtotal": {
-          "label": "PLUMBING Ã¢ÂÂ Subtotal",
+          "label": "PLUMBING — Subtotal",
           "budget": 26250,
           "prevInv": 0,
           "curInv": 1422.77,
@@ -670,7 +670,7 @@
           }
         ],
         "subtotal": {
-          "label": "HVAC Ã¢ÂÂ Subtotal",
+          "label": "HVAC — Subtotal",
           "budget": 66213,
           "prevInv": 0,
           "curInv": 0,
@@ -696,7 +696,7 @@
           }
         ],
         "subtotal": {
-          "label": "ROOFING Ã¢ÂÂ Subtotal",
+          "label": "ROOFING — Subtotal",
           "budget": 34545,
           "prevInv": 0,
           "curInv": 0,
@@ -733,7 +733,7 @@
           }
         ],
         "subtotal": {
-          "label": "INSULATION & DRYWALL Ã¢ÂÂ Subtotal",
+          "label": "INSULATION & DRYWALL — Subtotal",
           "budget": 89461.59599999999,
           "prevInv": 0,
           "curInv": 0,
@@ -814,7 +814,7 @@
           }
         ],
         "subtotal": {
-          "label": "EXTERIOR VENEER Ã¢ÂÂ Subtotal",
+          "label": "EXTERIOR VENEER — Subtotal",
           "budget": 72763.7505,
           "prevInv": 0,
           "curInv": 403.74,
@@ -840,7 +840,7 @@
           }
         ],
         "subtotal": {
-          "label": "MASONRY Ã¢ÂÂ Subtotal",
+          "label": "MASONRY — Subtotal",
           "budget": 15750,
           "prevInv": 0,
           "curInv": 0,
@@ -877,7 +877,7 @@
           }
         ],
         "subtotal": {
-          "label": "CABINETRY & COUNTERTOPS Ã¢ÂÂ Subtotal",
+          "label": "CABINETRY & COUNTERTOPS — Subtotal",
           "budget": 75474,
           "prevInv": 0,
           "curInv": 0,
@@ -958,7 +958,7 @@
           }
         ],
         "subtotal": {
-          "label": "INTERIOR FINISHING Ã¢ÂÂ Subtotal",
+          "label": "INTERIOR FINISHING — Subtotal",
           "budget": 20238.876,
           "prevInv": 0,
           "curInv": 0,
@@ -1028,7 +1028,7 @@
           }
         ],
         "subtotal": {
-          "label": "WOOD FLOOR COVERINGS Ã¢ÂÂ Subtotal",
+          "label": "WOOD FLOOR COVERINGS — Subtotal",
           "budget": 44751,
           "prevInv": 0,
           "curInv": 0,
@@ -1175,7 +1175,7 @@
           }
         ],
         "subtotal": {
-          "label": "TILE Ã¢ÂÂ Subtotal",
+          "label": "TILE — Subtotal",
           "budget": 29538.915,
           "prevInv": 0,
           "curInv": 0,
@@ -1201,7 +1201,7 @@
           }
         ],
         "subtotal": {
-          "label": "PAINT Ã¢ÂÂ Subtotal",
+          "label": "PAINT — Subtotal",
           "budget": 36750,
           "prevInv": 0,
           "curInv": 0,
@@ -1260,7 +1260,7 @@
           }
         ],
         "subtotal": {
-          "label": "EXTERIOR HARDSCAPE Ã¢ÂÂ Subtotal",
+          "label": "EXTERIOR HARDSCAPE — Subtotal",
           "budget": 55650,
           "prevInv": 0,
           "curInv": 0,
@@ -1308,7 +1308,7 @@
           }
         ],
         "subtotal": {
-          "label": "CONSTRUCTION CLEAN UP Ã¢ÂÂ Subtotal",
+          "label": "CONSTRUCTION CLEAN UP — Subtotal",
           "budget": 7875,
           "prevInv": 0,
           "curInv": 1792,
@@ -1345,7 +1345,7 @@
           }
         ],
         "subtotal": {
-          "label": "RENTAL& JOBSITE FACILITIESÃ¢ÂÂ Subtotal",
+          "label": "RENTAL& JOBSITE FACILITIES— Subtotal",
           "budget": 4761.75,
           "prevInv": 0,
           "curInv": 3025.3300000000004,
@@ -1437,7 +1437,7 @@
           }
         ],
         "subtotal": {
-          "label": "MISCELLANEOUS Ã¢ÂÂ Subtotal",
+          "label": "MISCELLANEOUS — Subtotal",
           "budget": 100275,
           "prevInv": 0,
           "curInv": 4450,
@@ -1507,7 +1507,7 @@
           }
         ],
         "subtotal": {
-          "label": "Mcmann Labour  Ã¢ÂÂ Subtotal",
+          "label": "Mcmann Labour  — Subtotal",
           "budget": 44814,
           "prevInv": 0,
           "curInv": 0,
@@ -5371,8 +5371,18 @@
           "visible": true
         },
         {
+          "key": "prevInv",
+          "label": "Prev. Invoiced",
+          "visible": true
+        },
+        {
+          "key": "curInv",
+          "label": "CURRENT INVOICE",
+          "visible": true
+        },
+        {
           "key": "totInv",
-          "label": "TOTAL ACTUAL COST",
+          "label": "TOTAL INVOICED",
           "visible": true
         },
         {
@@ -5384,16 +5394,21 @@
           "key": "ob",
           "label": "OVER BUDGET",
           "visible": true
+        },
+        {
+          "key": "co",
+          "label": "CHANGE ORDERS",
+          "visible": true
         }
       ]
     }
   },
   "_meta": {
     "report": "May 2026",
-    "dateFrom": "2025-11-01",
-    "dateTo": "2026-06-06",
+    "dateFrom": "",
+    "dateTo": "",
     "jobId": "2590_stobart_road_",
     "jobRepo": "Russ-Rachelle-Mcmann",
-    "syncedAt": "2026-06-22T22:32:37.784Z"
+    "syncedAt": "2026-06-23T00:57:57.344Z"
   }
 }
