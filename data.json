@@ -5,7 +5,7 @@
   "clientPhone": "",
   "projectAddress": "",
   "projectManager": "A. McMann",
-  "reportLabel": "",
+  "reportLabel": "January 1, 2026 – May 31, 2026",
   "updated": "June 22, 2026",
   "costBreakdown": {
     "categories": [
@@ -5405,10 +5405,10 @@
   },
   "_meta": {
     "report": "May 2026",
-    "dateFrom": "",
-    "dateTo": "",
+    "dateFrom": "2026-01-01",
+    "dateTo": "2026-05-31",
     "jobId": "2590_stobart_road_",
     "jobRepo": "Russ-Rachelle-Mcmann",
-    "syncedAt": "2026-06-23T01:00:41.449Z"
+    "syncedAt": "2026-06-23T01:01:33.678Z"
   }
 }
