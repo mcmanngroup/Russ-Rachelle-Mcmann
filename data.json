@@ -218,12 +218,12 @@
           {
             "label": "Footings and Foundation Material",
             "type": "detail",
-            "budget": 8597.5365,
+            "budget": 15717.586500000001,
             "prevInv": 0,
             "curInv": 16250.660000000007,
             "totInv": 16250.660000000007,
             "tbc": 0,
-            "ob": -7653.123500000007,
+            "ob": -533.0735000000059,
             "co": 0
           },
           {
@@ -286,9 +286,9 @@
             "type": "detail",
             "budget": 3620.925,
             "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 3620.925,
+            "curInv": 2000,
+            "totInv": 2000,
+            "tbc": 1620.9250000000002,
             "ob": 0,
             "co": 0
           },
@@ -306,11 +306,11 @@
           {
             "label": "Damproofing",
             "type": "detail",
-            "budget": 10500,
+            "budget": 3379.95,
             "prevInv": 0,
             "curInv": 3379.95,
             "totInv": 3379.95,
-            "tbc": 7120.05,
+            "tbc": 0,
             "ob": 0,
             "co": 0
           }
@@ -319,10 +319,10 @@
           "label": "FOUNDATION — Subtotal",
           "budget": 80063.214,
           "prevInv": 0,
-          "curInv": 72023.76000000001,
-          "totInv": 72023.76000000001,
-          "tbc": 17793.197000000004,
-          "ob": -9753.743000000008,
+          "curInv": 74023.76000000001,
+          "totInv": 74023.76000000001,
+          "tbc": 8673.147000000003,
+          "ob": -2633.6930000000066,
           "co": 0
         }
       },
@@ -332,67 +332,45 @@
           {
             "label": "Framing Materials Cost",
             "type": "detail",
-            "budget": 41235.0855,
+            "budget": 61642.290499999996,
             "prevInv": 0,
             "curInv": 59647.01000000001,
             "totInv": 59647.01000000001,
-            "tbc": 0,
-            "ob": -18411.92450000001,
+            "tbc": 1995.2804999999862,
+            "ob": 0,
             "co": 0
           },
           {
             "label": "Roof Trusses",
             "type": "detail",
-            "budget": 45150,
+            "budget": 43603.7,
             "prevInv": 0,
             "curInv": 43603.7,
             "totInv": 43603.7,
-            "tbc": 1546.300000000003,
+            "tbc": 0,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Floor System",
             "type": "detail",
-            "budget": 14275.6845,
+            "budget": 12383,
             "prevInv": 0,
             "curInv": 12383,
             "totInv": 12383,
-            "tbc": 1892.6844999999994,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Engineering Hardware",
-            "type": "detail",
-            "budget": 11718.2205,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 11718.2205,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Extra",
-            "type": "detail",
-            "budget": 5250,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 5250,
+            "tbc": 0,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "FRAMING — Subtotal",
-          "budget": 117628.9905,
+          "budget": 117628.99049999999,
           "prevInv": 0,
           "curInv": 115633.71,
           "totInv": 115633.71,
-          "tbc": 20407.205,
-          "ob": -18411.92450000001,
+          "tbc": 1995.2804999999862,
+          "ob": 0,
           "co": 0
         }
       },
@@ -1466,10 +1444,10 @@
             "type": "detail",
             "budget": 16104,
             "prevInv": 0,
-            "curInv": 16060.019999999995,
-            "totInv": 16060.019999999995,
-            "tbc": 43.98000000000502,
-            "ob": 0,
+            "curInv": 16460.02,
+            "totInv": 16460.02,
+            "tbc": 0,
+            "ob": -356.02000000000044,
             "co": 0
           },
           {
@@ -1477,10 +1455,10 @@
             "type": "detail",
             "budget": 7295.4,
             "prevInv": 0,
-            "curInv": 7772.42,
-            "totInv": 7772.42,
+            "curInv": 12272.42,
+            "totInv": 12272.42,
             "tbc": 0,
-            "ob": -477.02000000000044,
+            "ob": -4977.02,
             "co": 0
           }
         ],
@@ -1488,10 +1466,10 @@
           "label": "Mcmann Labour  — Subtotal",
           "budget": 52109.4,
           "prevInv": 0,
-          "curInv": 44880.84,
-          "totInv": 44880.84,
-          "tbc": 7808.750000000004,
-          "ob": -580.1900000000014,
+          "curInv": 49780.84,
+          "totInv": 49780.84,
+          "tbc": 7764.769999999999,
+          "ob": -5436.210000000002,
           "co": 0
         }
       }
@@ -1501,10 +1479,10 @@
         "label": "PROJECT TOTAL",
         "budget": 1226617.4065,
         "prevInv": 0,
-        "curInv": 666257.2799999999,
-        "totInv": 666257.2799999999,
-        "tbc": 644356.4639999999,
-        "ob": -76662.66750000003,
+        "curInv": 673157.2799999999,
+        "totInv": 673157.2799999999,
+        "tbc": 616780.5094999999,
+        "ob": -55986.71300000001,
         "co": 7333.67
       }
     ]
@@ -6743,6 +6721,16 @@
           "visible": true
         },
         {
+          "key": "prevInv",
+          "label": "Prev. Invoiced",
+          "visible": true
+        },
+        {
+          "key": "curInv",
+          "label": "CURRENT INVOICE",
+          "visible": true
+        },
+        {
           "key": "totInv",
           "label": "TOTAL INVOICED",
           "visible": true
@@ -6771,6 +6759,6 @@
     "dateTo": "2026-07-19",
     "jobId": "2590_stobart_road_",
     "jobRepo": "Russ-Rachelle-Mcmann",
-    "syncedAt": "2026-07-29T21:36:48.444Z"
+    "syncedAt": "2026-07-29T22:13:33.436Z"
   }
 }
