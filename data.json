@@ -6,29 +6,29 @@
   "projectAddress": "",
   "projectManager": "A. McMann",
   "reportLabel": "January 1, 2026 – June 30, 2026",
-  "updated": "July 6, 2026",
+  "updated": "July 29, 2026",
   "costBreakdown": {
     "categories": [
       {
         "label": "DESIGN SERVICES",
         "items": [
           {
-            "label": "Plan Printing & Photocopying",
+            "label": "Plan Desgin",
             "type": "detail",
             "budget": 17850,
             "prevInv": 0,
-            "curInv": 17850,
-            "totInv": 17850,
-            "tbc": 0,
+            "curInv": 0,
+            "totInv": 9246.3,
+            "tbc": 8603.7,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Home Warranty Registration & Fees",
+            "label": "Plan Printing & Photocopying",
             "type": "detail",
             "budget": 525,
             "prevInv": 0,
-            "curInv": 158.93,
+            "curInv": 0,
             "totInv": 158.93,
             "tbc": 366.07,
             "ob": 0,
@@ -39,9 +39,9 @@
           "label": "DESIGN SERVICES — Subtotal",
           "budget": 18375,
           "prevInv": 0,
-          "curInv": 18008.93,
-          "totInv": 18008.93,
-          "tbc": 366.07,
+          "curInv": 0,
+          "totInv": 9405.23,
+          "tbc": 8969.77,
           "ob": 0,
           "co": 0
         }
@@ -54,9 +54,9 @@
             "type": "detail",
             "budget": 10500,
             "prevInv": 0,
-            "curInv": 8140,
-            "totInv": 8140,
-            "tbc": 2360,
+            "curInv": 0,
+            "totInv": 8216.35,
+            "tbc": 2283.65,
             "ob": 0,
             "co": 0
           },
@@ -65,7 +65,7 @@
             "type": "detail",
             "budget": 2100,
             "prevInv": 0,
-            "curInv": 1250,
+            "curInv": 0,
             "totInv": 1250,
             "tbc": 850,
             "ob": 0,
@@ -76,7 +76,7 @@
             "type": "detail",
             "budget": 42,
             "prevInv": 0,
-            "curInv": 40,
+            "curInv": 0,
             "totInv": 40,
             "tbc": 2,
             "ob": 0,
@@ -98,9 +98,9 @@
           "label": "PERMITS & HOME WARRANTY — Subtotal",
           "budget": 23142,
           "prevInv": 0,
-          "curInv": 9430,
-          "totInv": 9430,
-          "tbc": 13712,
+          "curInv": 0,
+          "totInv": 9506.35,
+          "tbc": 13635.65,
           "ob": 0,
           "co": 0
         }
@@ -113,7 +113,7 @@
             "type": "detail",
             "budget": 1575,
             "prevInv": 0,
-            "curInv": 918.75,
+            "curInv": 0,
             "totInv": 918.75,
             "tbc": 656.25,
             "ob": 0,
@@ -124,20 +124,20 @@
             "type": "detail",
             "budget": 8400,
             "prevInv": 0,
-            "curInv": 4487.3,
-            "totInv": 4487.3,
-            "tbc": 3912.7,
+            "curInv": 0,
+            "totInv": 8035.13,
+            "tbc": 364.87,
             "ob": 0,
             "co": 0
           },
           {
-            "label": "Geotechnical Engineer",
+            "label": "Geotechnical Engineering",
             "type": "detail",
             "budget": 2100,
             "prevInv": 0,
-            "curInv": 747.18,
-            "totInv": 747.18,
-            "tbc": 1352.8200000000002,
+            "curInv": 0,
+            "totInv": 883.68,
+            "tbc": 1216.32,
             "ob": 0,
             "co": 0
           },
@@ -146,10 +146,10 @@
             "type": "detail",
             "budget": 7350,
             "prevInv": 0,
-            "curInv": 7376.7,
-            "totInv": 7376.7,
+            "curInv": 0,
+            "totInv": 7849.17,
             "tbc": 0,
-            "ob": -26.699999999999818,
+            "ob": -499.1700000000001,
             "co": 0
           }
         ],
@@ -157,10 +157,10 @@
           "label": "ENGINEERING FEES — Subtotal",
           "budget": 19425,
           "prevInv": 0,
-          "curInv": 13529.93,
-          "totInv": 13529.93,
-          "tbc": 5921.77,
-          "ob": -26.699999999999818,
+          "curInv": 0,
+          "totInv": 17686.73,
+          "tbc": 2237.44,
+          "ob": -499.1700000000001,
           "co": 0
         }
       },
@@ -172,10 +172,10 @@
             "type": "detail",
             "budget": 21000,
             "prevInv": 0,
-            "curInv": 23139.060000000005,
-            "totInv": 23139.060000000005,
+            "curInv": 0,
+            "totInv": 25071.19,
             "tbc": 0,
-            "ob": -2139.060000000005,
+            "ob": -4071.190000000006,
             "co": 0
           },
           {
@@ -183,10 +183,10 @@
             "type": "detail",
             "budget": 21000,
             "prevInv": 0,
-            "curInv": 37643,
-            "totInv": 37643,
+            "curInv": 0,
+            "totInv": 59319.02,
             "tbc": 0,
-            "ob": -16643,
+            "ob": -38319.02,
             "co": 0
           },
           {
@@ -194,7 +194,7 @@
             "type": "detail",
             "budget": 26250,
             "prevInv": 0,
-            "curInv": 1795.5,
+            "curInv": 0,
             "totInv": 1795.5,
             "tbc": 24454.5,
             "ob": 0,
@@ -205,10 +205,10 @@
           "label": "SITE WORK — Subtotal",
           "budget": 68250,
           "prevInv": 0,
-          "curInv": 62577.560000000005,
-          "totInv": 62577.560000000005,
+          "curInv": 0,
+          "totInv": 86185.71,
           "tbc": 24454.5,
-          "ob": -18782.060000000005,
+          "ob": -42390.21000000001,
           "co": 0
         }
       },
@@ -216,33 +216,33 @@
         "label": "FOUNDATION",
         "items": [
           {
-            "label": "Footings & Foundation Material",
+            "label": "Footings and Foundation Material",
             "type": "detail",
-            "budget": 8597.5365,
+            "budget": 8597.54,
             "prevInv": 0,
-            "curInv": 15815.288,
-            "totInv": 15815.288,
+            "curInv": 0,
+            "totInv": 16250.66,
             "tbc": 0,
-            "ob": -7217.7515,
+            "ob": -7653.123500000007,
             "co": 0
           },
           {
-            "label": "Footings & Foundation Concrete",
+            "label": "Foundation & Footings concrete",
             "type": "detail",
             "budget": 28140,
             "prevInv": 0,
-            "curInv": 23550,
-            "totInv": 23550,
-            "tbc": 4590,
+            "curInv": 0,
+            "totInv": 23549.78,
+            "tbc": 4590.22,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Footings & Foundation Labor",
             "type": "detail",
-            "budget": 13649.3805,
+            "budget": 13649.38,
             "prevInv": 0,
-            "curInv": 15750,
+            "curInv": 0,
             "totInv": 15750,
             "tbc": 0,
             "ob": -2100.6195000000007,
@@ -251,11 +251,11 @@
           {
             "label": "Slab Prep - Material",
             "type": "detail",
-            "budget": 435.372,
+            "budget": 435.37,
             "prevInv": 0,
-            "curInv": 435.372,
-            "totInv": 435.372,
-            "tbc": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 435.37,
             "ob": 0,
             "co": 0
           },
@@ -264,10 +264,10 @@
             "type": "detail",
             "budget": 5040,
             "prevInv": 0,
-            "curInv": 5354.94,
-            "totInv": 5354.94,
-            "tbc": 0,
-            "ob": -314.9399999999996,
+            "curInv": 0,
+            "totInv": 4074.01,
+            "tbc": 965.99,
+            "ob": 0,
             "co": 0
           },
           {
@@ -275,20 +275,20 @@
             "type": "detail",
             "budget": 6300,
             "prevInv": 0,
-            "curInv": 4074.01,
-            "totInv": 4074.01,
-            "tbc": 2225.99,
+            "curInv": 0,
+            "totInv": 5354.94,
+            "tbc": 945.06,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Garage Concrete Slab Finishing Labor",
             "type": "detail",
-            "budget": 3620.925,
+            "budget": 3620.93,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 3620.925,
+            "tbc": 3620.93,
             "ob": 0,
             "co": 0
           },
@@ -297,9 +297,9 @@
             "type": "detail",
             "budget": 3780,
             "prevInv": 0,
-            "curInv": 3664.4,
-            "totInv": 3664.4,
-            "tbc": 115.59999999999991,
+            "curInv": 0,
+            "totInv": 3664.42,
+            "tbc": 115.58,
             "ob": 0,
             "co": 0
           },
@@ -308,7 +308,7 @@
             "type": "detail",
             "budget": 10500,
             "prevInv": 0,
-            "curInv": 3379.95,
+            "curInv": 0,
             "totInv": 3379.95,
             "tbc": 7120.05,
             "ob": 0,
@@ -317,12 +317,12 @@
         ],
         "subtotal": {
           "label": "FOUNDATION — Subtotal",
-          "budget": 80063.214,
+          "budget": 80063.21,
           "prevInv": 0,
-          "curInv": 72023.96,
-          "totInv": 72023.96,
-          "tbc": 17672.565000000002,
-          "ob": -9633.311000000002,
+          "curInv": 0,
+          "totInv": 72023.76,
+          "tbc": 17793.2,
+          "ob": -9753.743000000008,
           "co": 0
         }
       },
@@ -330,14 +330,14 @@
         "label": "FRAMING",
         "items": [
           {
-            "label": "Framing Materials",
+            "label": "Framing Materials Cost",
             "type": "detail",
-            "budget": 41235.0855,
+            "budget": 41235.09,
             "prevInv": 0,
-            "curInv": 38903.1795,
-            "totInv": 38903.1795,
-            "tbc": 2331.9060000000027,
-            "ob": 0,
+            "curInv": 0,
+            "totInv": 59647.01,
+            "tbc": 0,
+            "ob": -18411.92450000001,
             "co": 0
           },
           {
@@ -345,31 +345,31 @@
             "type": "detail",
             "budget": 45150,
             "prevInv": 0,
-            "curInv": 43603.7,
+            "curInv": 0,
             "totInv": 43603.7,
-            "tbc": 1546.300000000003,
+            "tbc": 1546.3,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Floor System",
             "type": "detail",
-            "budget": 14275.6845,
+            "budget": 14275.68,
             "prevInv": 0,
-            "curInv": 12383,
+            "curInv": 0,
             "totInv": 12383,
-            "tbc": 1892.6844999999994,
+            "tbc": 1892.68,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Engineering Hardware",
             "type": "detail",
-            "budget": 11718.2205,
+            "budget": 11718.22,
             "prevInv": 0,
-            "curInv": 11718.2205,
-            "totInv": 11718.2205,
-            "tbc": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 11718.22,
             "ob": 0,
             "co": 0
           },
@@ -378,21 +378,21 @@
             "type": "detail",
             "budget": 5250,
             "prevInv": 0,
-            "curInv": 5250,
-            "totInv": 5250,
-            "tbc": 0,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 5250,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "FRAMING — Subtotal",
-          "budget": 117628.9905,
+          "budget": 117628.99,
           "prevInv": 0,
-          "curInv": 111858.09999999999,
-          "totInv": 111858.09999999999,
-          "tbc": 5770.890500000005,
-          "ob": 0,
+          "curInv": 0,
+          "totInv": 115633.71,
+          "tbc": 20407.21,
+          "ob": -18411.92450000001,
           "co": 0
         }
       },
@@ -402,11 +402,11 @@
           {
             "label": "Windows",
             "type": "detail",
-            "budget": 32873.736,
+            "budget": 32873.74,
             "prevInv": 0,
-            "curInv": 25812.63,
+            "curInv": 0,
             "totInv": 25812.63,
-            "tbc": 7061.105999999996,
+            "tbc": 7061.11,
             "ob": 0,
             "co": 0
           },
@@ -424,11 +424,11 @@
         ],
         "subtotal": {
           "label": "WINDOWS — Subtotal",
-          "budget": 39173.736,
+          "budget": 39173.74,
           "prevInv": 0,
-          "curInv": 25812.63,
+          "curInv": 0,
           "totInv": 25812.63,
-          "tbc": 13361.105999999996,
+          "tbc": 13361.11,
           "ob": 0,
           "co": 0
         }
@@ -442,8 +442,8 @@
             "budget": 9450,
             "prevInv": 0,
             "curInv": 0,
-            "totInv": 0,
-            "tbc": 9450,
+            "totInv": 5894.34,
+            "tbc": 3555.66,
             "ob": 0,
             "co": 0
           },
@@ -453,19 +453,19 @@
             "budget": 5250,
             "prevInv": 0,
             "curInv": 0,
-            "totInv": 0,
-            "tbc": 5250,
+            "totInv": 265.98,
+            "tbc": 4984.02,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Garage Doors",
             "type": "detail",
-            "budget": 20250.4155,
+            "budget": 20250.42,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 20250.4155,
+            "tbc": 20250.42,
             "ob": 0,
             "co": 0
           },
@@ -483,22 +483,22 @@
           {
             "label": "Sliding Door",
             "type": "detail",
-            "budget": 16168.509,
+            "budget": 16168.51,
             "prevInv": 0,
-            "curInv": 15118.53,
+            "curInv": 0,
             "totInv": 15118.53,
-            "tbc": 1049.9789999999994,
+            "tbc": 1049.98,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "DOORS — Subtotal",
-          "budget": 52693.9245,
+          "budget": 52693.92,
           "prevInv": 0,
-          "curInv": 15118.53,
-          "totInv": 15118.53,
-          "tbc": 37575.3945,
+          "curInv": 0,
+          "totInv": 21278.85,
+          "tbc": 31415.07,
           "ob": 0,
           "co": 0
         }
@@ -511,9 +511,9 @@
             "type": "detail",
             "budget": 70733.25,
             "prevInv": 0,
-            "curInv": 37834.33,
-            "totInv": 37834.33,
-            "tbc": 32898.92,
+            "curInv": 0,
+            "totInv": 55228.71,
+            "tbc": 15504.54,
             "ob": 0,
             "co": 0
           },
@@ -522,7 +522,7 @@
             "type": "co",
             "budget": 0,
             "prevInv": 0,
-            "curInv": 7333.67,
+            "curInv": 0,
             "totInv": 7333.67,
             "tbc": 0,
             "ob": 0,
@@ -545,9 +545,9 @@
             "budget": 3675,
             "prevInv": 0,
             "curInv": 0,
-            "totInv": 0,
-            "tbc": 3675,
-            "ob": 0,
+            "totInv": 4887.75,
+            "tbc": 0,
+            "ob": -1212.75,
             "co": 0
           }
         ],
@@ -555,10 +555,10 @@
           "label": "ELECTRICAL — Subtotal",
           "budget": 75458.25,
           "prevInv": 0,
-          "curInv": 45168,
-          "totInv": 45168,
-          "tbc": 37623.92,
-          "ob": 0,
+          "curInv": 0,
+          "totInv": 67450.13,
+          "tbc": 16554.54,
+          "ob": -1212.75,
           "co": 7333.67
         }
       },
@@ -570,7 +570,7 @@
             "type": "detail",
             "budget": 26250,
             "prevInv": 0,
-            "curInv": 29427.32,
+            "curInv": 0,
             "totInv": 29427.32,
             "tbc": 0,
             "ob": -3177.3199999999997,
@@ -581,7 +581,7 @@
           "label": "PLUMBING — Subtotal",
           "budget": 26250,
           "prevInv": 0,
-          "curInv": 29427.32,
+          "curInv": 0,
           "totInv": 29427.32,
           "tbc": 0,
           "ob": -3177.3199999999997,
@@ -596,7 +596,7 @@
             "type": "detail",
             "budget": 56852.25,
             "prevInv": 0,
-            "curInv": 29581.13,
+            "curInv": 0,
             "totInv": 29581.13,
             "tbc": 27271.12,
             "ob": 0,
@@ -651,9 +651,9 @@
           "label": "HVAC — Subtotal",
           "budget": 66213,
           "prevInv": 0,
-          "curInv": 29581.13,
+          "curInv": 0,
           "totInv": 29581.13,
-          "tbc": 36631.869999999995,
+          "tbc": 36631.87,
           "ob": 0,
           "co": 0
         }
@@ -666,9 +666,9 @@
             "type": "detail",
             "budget": 34545,
             "prevInv": 0,
-            "curInv": 17106.24,
-            "totInv": 17106.24,
-            "tbc": 17438.76,
+            "curInv": 0,
+            "totInv": 22687.23,
+            "tbc": 11857.77,
             "ob": 0,
             "co": 0
           }
@@ -677,9 +677,9 @@
           "label": "ROOFING — Subtotal",
           "budget": 34545,
           "prevInv": 0,
-          "curInv": 17106.24,
-          "totInv": 17106.24,
-          "tbc": 17438.76,
+          "curInv": 0,
+          "totInv": 22687.23,
+          "tbc": 11857.77,
           "ob": 0,
           "co": 0
         }
@@ -688,35 +688,24 @@
         "label": "INSULATION & DRYWALL",
         "items": [
           {
-            "label": "Insulation",
+            "label": "Insulation & Drywall",
             "type": "detail",
-            "budget": 38921.7045,
+            "budget": 89461.6,
             "prevInv": 0,
             "curInv": 0,
-            "totInv": 0,
-            "tbc": 38921.7045,
-            "ob": 0,
-            "co": 0
-          },
-          {
-            "label": "Drywall",
-            "type": "detail",
-            "budget": 50539.8915,
-            "prevInv": 0,
-            "curInv": 0,
-            "totInv": 0,
-            "tbc": 50539.8915,
+            "totInv": 89461.6,
+            "tbc": 0,
             "ob": 0,
             "co": 0
           }
         ],
         "subtotal": {
           "label": "INSULATION & DRYWALL — Subtotal",
-          "budget": 89461.59599999999,
+          "budget": 89461.6,
           "prevInv": 0,
           "curInv": 0,
-          "totInv": 0,
-          "tbc": 89461.59599999999,
+          "totInv": 89461.6,
+          "tbc": 0,
           "ob": 0,
           "co": 0
         }
@@ -727,11 +716,11 @@
           {
             "label": "Siding Materials",
             "type": "detail",
-            "budget": 18640.041,
+            "budget": 18640.04,
             "prevInv": 0,
-            "curInv": 403.74,
-            "totInv": 403.74,
-            "tbc": 18236.301,
+            "curInv": 0,
+            "totInv": 14171.96,
+            "tbc": 4468.08,
             "ob": 0,
             "co": 0
           },
@@ -771,11 +760,11 @@
           {
             "label": "Cedar Soffit",
             "type": "detail",
-            "budget": 6023.2095,
+            "budget": 6023.21,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 6023.2095,
+            "tbc": 6023.21,
             "ob": 0,
             "co": 0
           },
@@ -793,11 +782,11 @@
         ],
         "subtotal": {
           "label": "EXTERIOR VENEER — Subtotal",
-          "budget": 72763.7505,
+          "budget": 72763.75,
           "prevInv": 0,
-          "curInv": 403.74,
-          "totInv": 403.74,
-          "tbc": 72360.0105,
+          "curInv": 0,
+          "totInv": 14171.96,
+          "tbc": 58591.79,
           "ob": 0,
           "co": 0
         }
@@ -882,11 +871,11 @@
           {
             "label": "Interior Trim Materials",
             "type": "detail",
-            "budget": 4488.876,
+            "budget": 4488.88,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 4488.876,
+            "tbc": 4488.88,
             "ob": 0,
             "co": 0
           },
@@ -937,11 +926,11 @@
         ],
         "subtotal": {
           "label": "INTERIOR FINISHING — Subtotal",
-          "budget": 20238.876,
+          "budget": 20238.88,
           "prevInv": 0,
           "curInv": 0,
           "totInv": 0,
-          "tbc": 20238.876,
+          "tbc": 20238.88,
           "ob": 0,
           "co": 0
         }
@@ -1055,11 +1044,11 @@
           {
             "label": "Wall Tile Material",
             "type": "detail",
-            "budget": 3357.018,
+            "budget": 3357.02,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 3357.018,
+            "tbc": 3357.02,
             "ob": 0,
             "co": 0
           },
@@ -1110,22 +1099,22 @@
           {
             "label": "Heated floor Thermostat",
             "type": "detail",
-            "budget": 640.941,
+            "budget": 640.94,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 640.941,
+            "tbc": 640.94,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Heated Floor Cables",
             "type": "detail",
-            "budget": 1106.616,
+            "budget": 1106.62,
             "prevInv": 0,
             "curInv": 0,
             "totInv": 0,
-            "tbc": 1106.616,
+            "tbc": 1106.62,
             "ob": 0,
             "co": 0
           },
@@ -1154,11 +1143,11 @@
         ],
         "subtotal": {
           "label": "TILE — Subtotal",
-          "budget": 29538.915,
+          "budget": 29538.92,
           "prevInv": 0,
           "curInv": 0,
           "totInv": 0,
-          "tbc": 29538.915,
+          "tbc": 29538.92,
           "ob": 0,
           "co": 0
         }
@@ -1172,8 +1161,8 @@
             "budget": 36750,
             "prevInv": 0,
             "curInv": 0,
-            "totInv": 0,
-            "tbc": 36750,
+            "totInv": 42.09,
+            "tbc": 36707.91,
             "ob": 0,
             "co": 0
           }
@@ -1183,8 +1172,8 @@
           "budget": 36750,
           "prevInv": 0,
           "curInv": 0,
-          "totInv": 0,
-          "tbc": 36750,
+          "totInv": 42.09,
+          "tbc": 36707.91,
           "ob": 0,
           "co": 0
         }
@@ -1198,8 +1187,8 @@
             "budget": 12600,
             "prevInv": 0,
             "curInv": 0,
-            "totInv": 0,
-            "tbc": 12600,
+            "totInv": 16.12,
+            "tbc": 12583.88,
             "ob": 0,
             "co": 0
           },
@@ -1242,8 +1231,8 @@
           "budget": 55650,
           "prevInv": 0,
           "curInv": 0,
-          "totInv": 0,
-          "tbc": 55650,
+          "totInv": 16.12,
+          "tbc": 55633.88,
           "ob": 0,
           "co": 0
         }
@@ -1256,10 +1245,10 @@
             "type": "detail",
             "budget": 2625,
             "prevInv": 0,
-            "curInv": 1920.37,
-            "totInv": 1920.37,
-            "tbc": 704.6300000000001,
-            "ob": 0,
+            "curInv": 0,
+            "totInv": 3138.63,
+            "tbc": 0,
+            "ob": -513.6300000000006,
             "co": 0
           },
           {
@@ -1267,9 +1256,9 @@
             "type": "detail",
             "budget": 2625,
             "prevInv": 0,
-            "curInv": 1168.65,
-            "totInv": 1168.65,
-            "tbc": 1456.35,
+            "curInv": 0,
+            "totInv": 0,
+            "tbc": 2625,
             "ob": 0,
             "co": 0
           },
@@ -1289,10 +1278,10 @@
           "label": "CONSTRUCTION CLEAN UP — Subtotal",
           "budget": 7875,
           "prevInv": 0,
-          "curInv": 3089.02,
-          "totInv": 3089.02,
-          "tbc": 4785.98,
-          "ob": 0,
+          "curInv": 0,
+          "totInv": 3138.63,
+          "tbc": 5250,
+          "ob": -513.6300000000006,
           "co": 0
         }
       },
@@ -1300,13 +1289,13 @@
         "label": "RENTAL& JOBSITE FACILITIES",
         "items": [
           {
-            "label": "Site Portable Washroom Rental",
+            "label": "Portable Toilet",
             "type": "detail",
             "budget": 2136.75,
             "prevInv": 0,
-            "curInv": 760.4,
-            "totInv": 760.4,
-            "tbc": 1376.35,
+            "curInv": 0,
+            "totInv": 668.53,
+            "tbc": 1468.22,
             "ob": 0,
             "co": 0
           },
@@ -1315,10 +1304,10 @@
             "type": "detail",
             "budget": 2625,
             "prevInv": 0,
-            "curInv": 2566.9,
-            "totInv": 2566.9,
-            "tbc": 58.09999999999991,
-            "ob": 0,
+            "curInv": 0,
+            "totInv": 2748.73,
+            "tbc": 0,
+            "ob": -123.73000000000002,
             "co": 0
           }
         ],
@@ -1326,10 +1315,10 @@
           "label": "RENTAL& JOBSITE FACILITIES— Subtotal",
           "budget": 4761.75,
           "prevInv": 0,
-          "curInv": 3327.3,
-          "totInv": 3327.3,
-          "tbc": 1434.4499999999998,
-          "ob": 0,
+          "curInv": 0,
+          "totInv": 3417.26,
+          "tbc": 1468.22,
+          "ob": -123.73000000000002,
           "co": 0
         }
       },
@@ -1363,7 +1352,7 @@
             "type": "detail",
             "budget": 5250,
             "prevInv": 0,
-            "curInv": 4450,
+            "curInv": 0,
             "totInv": 4450,
             "tbc": 800,
             "ob": 0,
@@ -1418,7 +1407,7 @@
           "label": "MISCELLANEOUS — Subtotal",
           "budget": 100275,
           "prevInv": 0,
-          "curInv": 4450,
+          "curInv": 0,
           "totInv": 4450,
           "tbc": 95825,
           "ob": 0,
@@ -1433,9 +1422,9 @@
             "type": "detail",
             "budget": 7980,
             "prevInv": 0,
-            "curInv": 5475.53,
-            "totInv": 5475.53,
-            "tbc": 2504.4700000000003,
+            "curInv": 0,
+            "totInv": 5490.45,
+            "tbc": 2489.55,
             "ob": 0,
             "co": 0
           },
@@ -1444,20 +1433,20 @@
             "type": "detail",
             "budget": 6300,
             "prevInv": 0,
-            "curInv": 6403.17,
+            "curInv": 0,
             "totInv": 6403.17,
             "tbc": 0,
-            "ob": -103.17000000000007,
+            "ob": -103.17000000000098,
             "co": 0
           },
           {
             "label": "Alaa & Jason",
             "type": "detail",
-            "budget": 8400,
+            "budget": 5400,
             "prevInv": 0,
-            "curInv": 4813.89,
+            "curInv": 0,
             "totInv": 4813.89,
-            "tbc": 3586.1099999999997,
+            "tbc": 586.11,
             "ob": 0,
             "co": 0
           },
@@ -1466,32 +1455,32 @@
             "type": "detail",
             "budget": 9030,
             "prevInv": 0,
-            "curInv": 3340.8900000000003,
-            "totInv": 3340.8900000000003,
-            "tbc": 5689.11,
+            "curInv": 0,
+            "totInv": 4340.89,
+            "tbc": 4689.11,
             "ob": 0,
             "co": 0
           },
           {
             "label": "Fielding",
             "type": "detail",
-            "budget": 13104,
+            "budget": 16104,
             "prevInv": 0,
-            "curInv": 15417.17,
-            "totInv": 15417.17,
-            "tbc": 0,
-            "ob": -2313.17,
+            "curInv": 0,
+            "totInv": 16060.02,
+            "tbc": 43.98,
+            "ob": 0,
             "co": 0
           },
           {
-            "label": "Other - Alex",
+            "label": "Other - Alex & Joel & Kyle",
             "type": "detail",
             "budget": 7295.4,
             "prevInv": 0,
-            "curInv": 6381.45,
-            "totInv": 6381.45,
-            "tbc": 913.9499999999998,
-            "ob": 0,
+            "curInv": 0,
+            "totInv": 7772.42,
+            "tbc": 0,
+            "ob": -477.02000000000044,
             "co": 0
           }
         ],
@@ -1499,10 +1488,10 @@
           "label": "Mcmann Labour  — Subtotal",
           "budget": 52109.4,
           "prevInv": 0,
-          "curInv": 41832.1,
-          "totInv": 41832.1,
-          "tbc": 12693.64,
-          "ob": -2416.34,
+          "curInv": 0,
+          "totInv": 44880.84,
+          "tbc": 7808.75,
+          "ob": -580.1900000000014,
           "co": 0
         }
       }
@@ -1510,12 +1499,12 @@
     "totals": [
       {
         "label": "PROJECT TOTAL",
-        "budget": 1226617.4024999999,
+        "budget": 1226617.41,
         "prevInv": 0,
-        "curInv": 502744.49,
-        "totInv": 502744.49,
-        "tbc": 765242.3135,
-        "ob": -34035.73100000001,
+        "curInv": 0,
+        "totInv": 666257.28,
+        "tbc": 644356.46,
+        "ob": -76662.66750000003,
         "co": 7333.67
       }
     ]
@@ -1703,6 +1692,53 @@
           }
         ],
         "total_hours": 56.239999999999995,
+        "total_amount": 0
+      },
+      {
+        "label": "04 Site Work:Forming a Roadway",
+        "items": [
+          {
+            "date": "46209",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.42,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46210",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.67,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46211",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 8.83,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46212",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46217",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3.17,
+            "rate": 0,
+            "amount": 0
+          }
+        ],
+        "total_hours": 18.09,
         "total_amount": 0
       },
       {
@@ -3136,7 +3172,7 @@
             "status": "Unbilled",
             "hours": 2,
             "rate": 0,
-            "amount": 0
+            "amount": 7
           },
           {
             "date": "46164",
@@ -3144,7 +3180,7 @@
             "status": "Unbilled",
             "hours": 3.92,
             "rate": 0,
-            "amount": 0
+            "amount": 7
           },
           {
             "date": "46164",
@@ -4169,9 +4205,49 @@
             "hours": 0.92,
             "rate": 0,
             "amount": 0
+          },
+          {
+            "date": "46205",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 3.25,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46211",
+            "name": "Seth Bibbs",
+            "status": "Unbilled",
+            "hours": 0.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46214",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 10,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46214",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 0.75,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46218",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 1.92,
+            "rate": 0,
+            "amount": 0
           }
         ],
-        "total_hours": 974.53,
+        "total_hours": 990.78,
         "total_amount": 0
       },
       {
@@ -4293,9 +4369,57 @@
             "hours": 1.33,
             "rate": 0,
             "amount": 0
+          },
+          {
+            "date": "46204",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 2.92,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46204",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 0.33,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46206",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 6.92,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46209",
+            "name": "Fielding K Benton",
+            "status": "Unbilled",
+            "hours": 3,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46211",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 1.5,
+            "rate": 0,
+            "amount": 0
+          },
+          {
+            "date": "46211",
+            "name": "Alexander D Gazzola",
+            "status": "Unbilled",
+            "hours": 1.42,
+            "rate": 0,
+            "amount": 0
           }
         ],
-        "total_hours": 8.58,
+        "total_hours": 24.67,
         "total_amount": 0
       },
       {
@@ -4322,7 +4446,7 @@
         "total_amount": 0
       }
     ],
-    "totalHours": 1160.21,
+    "totalHours": 1210.64,
     "totalAmount": 0
   },
   "materials": {
@@ -4333,7 +4457,7 @@
           {
             "date": "46086",
             "num": "11452",
-            "memo": "Foundation : Damp proofing",
+            "memo": "Damproofing",
             "amount": 3379.95
           }
         ],
@@ -4343,13 +4467,25 @@
         "name": "ABC Supply and Co",
         "bills": [
           {
-            "date": "46185",
+            "date": "46176",
+            "num": "",
+            "memo": "Roofing Supply & Install",
+            "amount": 2295.86
+          },
+          {
+            "date": "46203",
             "num": "257305",
-            "memo": "Roofing Supply and Install",
+            "memo": "Roofing Supply & Install",
             "amount": 871.84
+          },
+          {
+            "date": "46206",
+            "num": "319570",
+            "memo": "Roofing Supply & Install",
+            "amount": 4113.69
           }
         ],
-        "total": 871.84
+        "total": 6452.83
       },
       {
         "name": "Andrew Sheret Ltd",
@@ -4443,9 +4579,27 @@
             "num": "03-097706",
             "memo": "Backfill, Perimeter & Drain Material",
             "amount": 4431.97
+          },
+          {
+            "date": "46205",
+            "num": "03-097946",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 211.18
+          },
+          {
+            "date": "46209",
+            "num": "03-098148",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": 1727.02
+          },
+          {
+            "date": "46210",
+            "num": "03-096011",
+            "memo": "Backfill, Perimeter & Drain Material",
+            "amount": -6.07
           }
         ],
-        "total": 10889.42
+        "total": 12821.55
       },
       {
         "name": "BC Housing Licensing & Consumer Services",
@@ -4453,11 +4607,23 @@
           {
             "date": "46000",
             "num": "875433",
-            "memo": "HPO Fees",
+            "memo": "BC Housing Registration Fee",
             "amount": 40
           }
         ],
         "total": 40
+      },
+      {
+        "name": "BC Hydro",
+        "bills": [
+          {
+            "date": "46203",
+            "num": "Direct",
+            "memo": "BC Hydro",
+            "amount": 4887.75
+          }
+        ],
+        "total": 4887.75
       },
       {
         "name": "Bryan's Mechanical Ltd.",
@@ -4465,11 +4631,41 @@
           {
             "date": "46197",
             "num": "696-D396-1",
-            "memo": "Mechanical Rough In",
+            "memo": "Mechanical Rough In & Finish",
             "amount": 29581.13
           }
         ],
         "total": 29581.13
+      },
+      {
+        "name": "Chevron",
+        "bills": [
+          {
+            "date": "46184",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 36.89
+          },
+          {
+            "date": "46190",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 47.34
+          },
+          {
+            "date": "46196",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 250
+          },
+          {
+            "date": "46216",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 250
+          }
+        ],
+        "total": 584.23
       },
       {
         "name": "City of Nanaimo",
@@ -4477,17 +4673,23 @@
           {
             "date": "46035",
             "num": "BP131412",
-            "memo": "Building Permit",
+            "memo": "Building Permit Fees",
             "amount": 739.5
           },
           {
             "date": "46072",
             "num": "",
-            "memo": "Building Permit",
+            "memo": "Building Permit Fees",
             "amount": 7400.35
+          },
+          {
+            "date": "46230",
+            "num": "BP131412",
+            "memo": "Building Permit Fees",
+            "amount": 76.5
           }
         ],
-        "total": 8139.85
+        "total": 8216.35
       },
       {
         "name": "Coast To Coast Equipment Rentals LTD",
@@ -4495,7 +4697,7 @@
           {
             "date": "46106",
             "num": "R1692-1",
-            "memo": "Rental Tools",
+            "memo": "Specialty Tool & Equipment Rental",
             "amount": 1675.88
           }
         ],
@@ -4507,13 +4709,13 @@
           {
             "date": "46094",
             "num": "3142",
-            "memo": "Plumbing Rough In",
+            "memo": "Plumbing Rough In & Finish",
             "amount": 1422.77
           },
           {
             "date": "46203",
             "num": "3266",
-            "memo": "Plumbing Rough In",
+            "memo": "Plumbing Rough In & Finish",
             "amount": 28004.55
           }
         ],
@@ -4556,10 +4758,10 @@
             "date": "46203",
             "num": "307837",
             "memo": "Portable Toilet",
-            "amount": 183.75
+            "amount": 91.88
           }
         ],
-        "total": 2425.36
+        "total": 2333.49
       },
       {
         "name": "Ecolibrium Energy Solutions Inc.",
@@ -4567,7 +4769,7 @@
           {
             "date": "45954",
             "num": "2354",
-            "memo": "Energy Advisors",
+            "memo": "Energy Advisor",
             "amount": 918.75
           }
         ],
@@ -4584,6 +4786,18 @@
           }
         ],
         "total": 130.28
+      },
+      {
+        "name": "Gregg Distributors (Nanaimo) Ltd.",
+        "bills": [
+          {
+            "date": "46190",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 132.38
+          }
+        ],
+        "total": 132.38
       },
       {
         "name": "Harleen Parmar",
@@ -4627,13 +4841,13 @@
           {
             "date": "46094",
             "num": "3185376",
-            "memo": "Concrete -Skim Coat concrete",
+            "memo": "Concrete Skim Coat Materials",
             "amount": 5354.94
           },
           {
             "date": "46192",
             "num": "3193797",
-            "memo": "Concrete Slab",
+            "memo": "Garage Concrete Slab",
             "amount": 4074.01
           }
         ],
@@ -4645,11 +4859,11 @@
           {
             "date": "45961",
             "num": "25103103",
-            "memo": "Plans & Design",
-            "amount": 17850
+            "memo": "Plan Desgin",
+            "amount": 9246.3
           }
         ],
-        "total": 17850
+        "total": 9246.3
       },
       {
         "name": "Island Aggregates Ltd",
@@ -4831,19 +5045,19 @@
           {
             "date": "46073",
             "num": "28128",
-            "memo": "Foundation - Concrete Pumping",
+            "memo": "Concrete Pump Truck",
             "amount": 1167.77
           },
           {
             "date": "46084",
             "num": "28163",
-            "memo": "Foundation - Concrete Pumping",
+            "memo": "Concrete Pump Truck",
             "amount": 1317.12
           },
           {
             "date": "46094",
             "num": "28193",
-            "memo": "Foundation - Concrete Pumping",
+            "memo": "Concrete Pump Truck",
             "amount": 1179.53
           }
         ],
@@ -4855,17 +5069,23 @@
           {
             "date": "46197",
             "num": "EWO-1278-1A",
-            "memo": "Electrical Rough In Change Order",
+            "memo": "Electrical Rough In & Finish - Change Order",
             "amount": 7333.67
           },
           {
             "date": "46197",
             "num": "EWO-1278-1",
-            "memo": "Electrical Rough In",
+            "memo": "Electrical Rough In & Finish",
             "amount": 37834.41
+          },
+          {
+            "date": "46205",
+            "num": "1278-2",
+            "memo": "Electrical Rough In & Finish",
+            "amount": 17394.3
           }
         ],
-        "total": 45168.08
+        "total": 62562.38
       },
       {
         "name": "J. Mayzes Excavating Ltd",
@@ -4995,9 +5215,75 @@
             "num": "107290",
             "memo": "Excavation, Backfill, Perimeter & Drain Labour",
             "amount": 441
+          },
+          {
+            "date": "46205",
+            "num": "107313",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 1619.63
+          },
+          {
+            "date": "46205",
+            "num": "107314",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 3064.37
+          },
+          {
+            "date": "46205",
+            "num": "107315",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 700.88
+          },
+          {
+            "date": "46205",
+            "num": "107316",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 3671.35
+          },
+          {
+            "date": "46220",
+            "num": "107339",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 2638.13
+          },
+          {
+            "date": "46230",
+            "num": "107370",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 467.25
+          },
+          {
+            "date": "46230",
+            "num": "107371",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 1659
+          },
+          {
+            "date": "46230",
+            "num": "107372",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 2604.82
+          },
+          {
+            "date": "46230",
+            "num": "107373",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 2307.38
+          },
+          {
+            "date": "46230",
+            "num": "107374",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 1672.71
+          },
+          {
+            "date": "46230",
+            "num": "107375",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
+            "amount": 1270.5
           }
         ],
-        "total": 32721.99
+        "total": 54398.01
       },
       {
         "name": "JE Anderson & Associates",
@@ -5019,9 +5305,21 @@
             "num": "0068298",
             "memo": "Land Survey",
             "amount": 807.98
+          },
+          {
+            "date": "46209",
+            "num": "0068578",
+            "memo": "Land Survey",
+            "amount": 3484.54
+          },
+          {
+            "date": "46209",
+            "num": "0068579",
+            "memo": "Land Survey",
+            "amount": 63.26
           }
         ],
-        "total": 4487.33
+        "total": 8035.13
       },
       {
         "name": "JINGLEPOT GENERAL STORE",
@@ -5060,6 +5358,18 @@
         "total": 293.51
       },
       {
+        "name": "Joel",
+        "bills": [
+          {
+            "date": "46226",
+            "num": "Direct",
+            "memo": "Other - Alex & Joel & Kyle",
+            "amount": 450
+          }
+        ],
+        "total": 450
+      },
+      {
         "name": "JXN SOLUTIONS LTD",
         "bills": [
           {
@@ -5090,6 +5400,36 @@
         "total": 1795.5
       },
       {
+        "name": "Kyle Windle",
+        "bills": [
+          {
+            "date": "46203",
+            "num": "",
+            "memo": "Other - Alex & Joel & Kyle",
+            "amount": 210
+          },
+          {
+            "date": "46220",
+            "num": "",
+            "memo": "Other - Alex & Joel & Kyle",
+            "amount": 175
+          }
+        ],
+        "total": 385
+      },
+      {
+        "name": "Lanson's Drywall Systems Ltd",
+        "bills": [
+          {
+            "date": "46226",
+            "num": "6253",
+            "memo": "Insulation & Drywall",
+            "amount": 89461.6
+          }
+        ],
+        "total": 89461.6
+      },
+      {
         "name": "Lewkowich Engineering Associates Ltd",
         "bills": [
           {
@@ -5109,9 +5449,15 @@
             "num": "104785",
             "memo": "Geotechnical Engineering",
             "amount": 305.34
+          },
+          {
+            "date": "46213",
+            "num": "105769",
+            "memo": "Geotechnical Engineering",
+            "amount": 136.5
           }
         ],
-        "total": 747.18
+        "total": 883.68
       },
       {
         "name": "Maxxam Insurance Services",
@@ -5175,9 +5521,15 @@
             "num": "",
             "memo": "Framing Materials Cost",
             "amount": 480
+          },
+          {
+            "date": "46198",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 480
           }
         ],
-        "total": 4320
+        "total": 4800
       },
       {
         "name": "Mission Island Group",
@@ -5185,7 +5537,7 @@
           {
             "date": "46070",
             "num": "MG56277",
-            "memo": "Dumpster Rental",
+            "memo": "Disposal & Dump Fees",
             "amount": 1168.65
           },
           {
@@ -5223,9 +5575,15 @@
             "num": "MR492192",
             "memo": "Disposal & Dump Fees",
             "amount": 56.96
+          },
+          {
+            "date": "46204",
+            "num": "MR492329",
+            "memo": "Disposal & Dump Fees",
+            "amount": 49.61
           }
         ],
-        "total": 1424.06
+        "total": 1473.67
       },
       {
         "name": "New-Line Hose & Fittings",
@@ -5241,9 +5599,15 @@
             "num": "IN2802284",
             "memo": "Framing Materials Cost",
             "amount": 99.86
+          },
+          {
+            "date": "46190",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 22.33
           }
         ],
-        "total": 230.14
+        "total": 252.47
       },
       {
         "name": "Pacific Net & Twine",
@@ -5283,9 +5647,75 @@
             "num": "311599",
             "memo": "Framing Materials Cost",
             "amount": 200
+          },
+          {
+            "date": "46185",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 75
+          },
+          {
+            "date": "46185",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 4.8
+          },
+          {
+            "date": "46192",
+            "num": "180896",
+            "memo": "Framing Materials Cost",
+            "amount": 150
+          },
+          {
+            "date": "46192",
+            "num": "180890",
+            "memo": "Framing Materials Cost",
+            "amount": 150
+          },
+          {
+            "date": "46199",
+            "num": "146186",
+            "memo": "Framing Materials Cost",
+            "amount": 150
+          },
+          {
+            "date": "46199",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 9.67
+          },
+          {
+            "date": "46214",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 149.61
+          },
+          {
+            "date": "46220",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 75
+          },
+          {
+            "date": "46220",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 150
+          },
+          {
+            "date": "46220",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 150
+          },
+          {
+            "date": "46220",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 150
           }
         ],
-        "total": 650
+        "total": 1864.08
       },
       {
         "name": "Ply Gem Windows",
@@ -5311,7 +5741,7 @@
           {
             "date": "46077",
             "num": "5-36457",
-            "memo": "Plans & Design",
+            "memo": "Plan Printing & Photocopying",
             "amount": 158.93
           }
         ],
@@ -5533,7 +5963,7 @@
           {
             "date": "46168",
             "num": "103-25285711",
-            "memo": "Siding Material",
+            "memo": "Siding Materials",
             "amount": 403.74
           },
           {
@@ -5599,11 +6029,65 @@
           {
             "date": "46190",
             "num": "103-25296181",
-            "memo": "Roofing Supply and Install",
+            "memo": "Roofing Supply & Install",
             "amount": 16234.4
+          },
+          {
+            "date": "46216",
+            "num": "103-25336661",
+            "memo": "Framing Materials Cost",
+            "amount": 23.19
+          },
+          {
+            "date": "46218",
+            "num": "104-27207191",
+            "memo": "Siding Materials",
+            "amount": 9396.86
+          },
+          {
+            "date": "46219",
+            "num": "104-27213641",
+            "memo": "Siding Materials",
+            "amount": 3760.85
+          },
+          {
+            "date": "46219",
+            "num": "104-27215921CR",
+            "memo": "Siding Materials",
+            "amount": -3760.85
+          },
+          {
+            "date": "46231",
+            "num": "83323-10504501",
+            "memo": "Patio/Drives/Walkways Concrete & Material",
+            "amount": 16.12
           }
         ],
-        "total": 75483.29
+        "total": 84919.46
+      },
+      {
+        "name": "Sharecost Rentals & Sales",
+        "bills": [
+          {
+            "date": "46203",
+            "num": "",
+            "memo": "Specialty Tool & Equipment Rental",
+            "amount": 69.44
+          }
+        ],
+        "total": 69.44
+      },
+      {
+        "name": "SHERWIN-WILLIAMS",
+        "bills": [
+          {
+            "date": "46224",
+            "num": "",
+            "memo": "Interior & Exterior Paint",
+            "amount": 42.09
+          }
+        ],
+        "total": 42.09
       },
       {
         "name": "Slegg Building Materials",
@@ -5976,7 +6460,7 @@
           },
           {
             "date": "46195",
-            "num": "IN3-0047723",
+            "num": "IN3-0042723",
             "memo": "Framing Materials Cost",
             "amount": 26.11
           },
@@ -5985,9 +6469,93 @@
             "num": "IN3-0047474",
             "memo": "Framing Materials Cost",
             "amount": 62.63
+          },
+          {
+            "date": "46203",
+            "num": "IN3-0059121",
+            "memo": "Framing Materials Cost",
+            "amount": 56.77
+          },
+          {
+            "date": "46205",
+            "num": "IN3-0061416",
+            "memo": "Framing Materials Cost",
+            "amount": 11.65
+          },
+          {
+            "date": "46205",
+            "num": "IN3-0060768",
+            "memo": "Framing Materials Cost",
+            "amount": 51.66
+          },
+          {
+            "date": "46205",
+            "num": "IN3-0062343",
+            "memo": "Exterior Doors",
+            "amount": 4246.39
+          },
+          {
+            "date": "46206",
+            "num": "IN3-0062352",
+            "memo": "Exterior Doors",
+            "amount": 552.55
+          },
+          {
+            "date": "46210",
+            "num": "IN3-0071112",
+            "memo": "Exterior Doors",
+            "amount": 1095.4
+          },
+          {
+            "date": "46211",
+            "num": "IN3-0072065",
+            "memo": "Framing Materials Cost",
+            "amount": 106.35
+          },
+          {
+            "date": "46211",
+            "num": "IN3-0073392",
+            "memo": "Framing Materials Cost",
+            "amount": 21.27
+          },
+          {
+            "date": "46212",
+            "num": "IN3-0074676",
+            "memo": "Framing Materials Cost",
+            "amount": 42.54
+          },
+          {
+            "date": "46214",
+            "num": "IN3-0078455",
+            "memo": "Framing Materials Cost",
+            "amount": 359.44
+          },
+          {
+            "date": "46214",
+            "num": "IN3-0078448",
+            "memo": "Framing Materials Cost",
+            "amount": 113.43
+          },
+          {
+            "date": "46216",
+            "num": "IN3-0080226",
+            "memo": "Interior Doors",
+            "amount": 265.98
+          },
+          {
+            "date": "46217",
+            "num": "IN3-0082628",
+            "memo": "Framing Materials Cost",
+            "amount": 14.1
+          },
+          {
+            "date": "46227",
+            "num": "IN3-0103949",
+            "memo": "Framing Materials Cost",
+            "amount": 204.66
           }
         ],
-        "total": 11825.52
+        "total": 18967.71
       },
       {
         "name": "Summit Tree Care Ltd.",
@@ -5995,7 +6563,7 @@
           {
             "date": "46083",
             "num": "1713",
-            "memo": "Excavation, Backfill, Perimeter & Drain Labour - Tree Removal",
+            "memo": "Excavation, Backfill, Perimeter & Drain Labour",
             "amount": 787.5
           }
         ],
@@ -6007,13 +6575,13 @@
           {
             "date": "46080",
             "num": "79499564-0001",
-            "memo": "Rental Tools",
+            "memo": "Specialty Tool & Equipment Rental",
             "amount": 705.6
           },
           {
             "date": "46191",
             "num": "79986406-0001",
-            "memo": "Rental Tools",
+            "memo": "Specialty Tool & Equipment Rental",
             "amount": 118.19
           }
         ],
@@ -6027,9 +6595,21 @@
             "num": "70400241786",
             "memo": "Framing Materials Cost",
             "amount": 138.03
+          },
+          {
+            "date": "46199",
+            "num": "70400194340",
+            "memo": "Framing Materials Cost",
+            "amount": 260.45
+          },
+          {
+            "date": "46204",
+            "num": "288075",
+            "memo": "Specialty Tool & Equipment Rental",
+            "amount": 112.42
           }
         ],
-        "total": 138.03
+        "total": 510.9
       },
       {
         "name": "Travelers Canada",
@@ -6037,11 +6617,23 @@
           {
             "date": "46000",
             "num": "C1-0R0J3BB5",
-            "memo": "Home Warranty",
+            "memo": "Home Warranty Registration & Fees",
             "amount": 1250
           }
         ],
         "total": 1250
+      },
+      {
+        "name": "Walkers Saw Shop",
+        "bills": [
+          {
+            "date": "46178",
+            "num": "",
+            "memo": "Framing Materials Cost",
+            "amount": 77.08
+          }
+        ],
+        "total": 77.08
       },
       {
         "name": "Westcoast Cutting and Coring Ltd.",
@@ -6099,9 +6691,27 @@
             "num": "2026-0578",
             "memo": "Structural Engineering",
             "amount": 162.75
+          },
+          {
+            "date": "46203",
+            "num": "2026-0908",
+            "memo": "Structural Engineering",
+            "amount": 472.5
           }
         ],
-        "total": 7376.67
+        "total": 7849.17
+      },
+      {
+        "name": "Westwood Metals Ltd",
+        "bills": [
+          {
+            "date": "46226",
+            "num": "47824",
+            "memo": "Siding Materials",
+            "amount": 4371.36
+          }
+        ],
+        "total": 4371.36
       },
       {
         "name": "Xtend Rentals Tool Sales",
@@ -6109,14 +6719,14 @@
           {
             "date": "46090",
             "num": "138262-3",
-            "memo": "Rental Tools",
+            "memo": "Specialty Tool & Equipment Rental",
             "amount": 67.2
           }
         ],
         "total": 67.2
       }
     ],
-    "grandTotal": 460912.09
+    "grandTotal": 622211.44
   },
   "schedule": [],
   "_schema": {
@@ -6130,16 +6740,6 @@
         {
           "key": "budget",
           "label": "BUDGET",
-          "visible": true
-        },
-        {
-          "key": "prevInv",
-          "label": "Prev. Invoiced",
-          "visible": true
-        },
-        {
-          "key": "curInv",
-          "label": "CURRENT INVOICE",
           "visible": true
         },
         {
@@ -6166,11 +6766,11 @@
     }
   },
   "_meta": {
-    "report": "June 2026",
+    "report": "July 2026",
     "dateFrom": "2026-01-01",
     "dateTo": "2026-06-30",
     "jobId": "2590_stobart_road_",
     "jobRepo": "Russ-Rachelle-Mcmann",
-    "syncedAt": "2026-07-06T18:27:14.033Z"
+    "syncedAt": "2026-07-29T21:36:00.424Z"
   }
 }
